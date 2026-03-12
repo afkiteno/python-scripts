@@ -1,0 +1,8194 @@
+{
+    "bb": [
+        "フシギダネ",
+        "fushigidane",
+        "fushigidane",
+        "bulbasaur",
+        "bisasam",
+        "bulbizarre"
+    ],
+    "iv": [
+        "フシギソウ",
+        "fushigiso",
+        "fushigisou",
+        "ivysaur",
+        "bisaknosp",
+        "herbizarre"
+    ],
+    "bs": [
+        "フシギバナ",
+        "fushigibana",
+        "fushigibana",
+        "venusaur",
+        "bisaflor",
+        "florizarre"
+    ],
+    "ht": [
+        "ヒトカゲ",
+        "hitokage",
+        "hitokage",
+        "charmander",
+        "glumanda",
+        "salameche"
+    ],
+    "rp": [
+        "リザード",
+        "rizado",
+        "lizardo",
+        "charmeleon",
+        "glutexo",
+        "reptincel"
+    ],
+    "lz": [
+        "リザードン",
+        "rizadon",
+        "lizardon",
+        "charizard",
+        "glurak",
+        "dracaufeu"
+    ],
+    "sq": [
+        "ゼニガメ",
+        "zenigame",
+        "zenigame",
+        "squirtle",
+        "schiggy",
+        "carapuce"
+    ],
+    "kq": [
+        "カメール",
+        "kameru",
+        "kameil",
+        "wartortle",
+        "schillok",
+        "carabaffe"
+    ],
+    "ks": [
+        "カメックス",
+        "kamekkusu",
+        "kamex",
+        "blastoise",
+        "turtok",
+        "tortank"
+    ],
+    "ep": [
+        "キャタピー",
+        "kyatapi",
+        "caterpie",
+        "caterpie",
+        "raupy",
+        "chenipan"
+    ],
+    "ns": [
+        "トランセル",
+        "toranseru",
+        "transel",
+        "metapod",
+        "safcon",
+        "chrysacier"
+    ],
+    "sf": [
+        "バタフリー",
+        "batafuri",
+        "butterfree",
+        "butterfree",
+        "smettbo",
+        "papilusion"
+    ],
+    "wd": [
+        "ビードル",
+        "bidoru",
+        "beedle",
+        "weedle",
+        "hornliu",
+        "aspicot"
+    ],
+    "kc": [
+        "コクーン",
+        "kokun",
+        "cocoon",
+        "kakuna",
+        "kokuna",
+        "coconfort"
+    ],
+    "rg": [
+        "スピアー",
+        "supia",
+        "spear",
+        "beedrill",
+        "bibor",
+        "dardargnan"
+    ],
+    "tau": [
+        "ポッポ",
+        "poppo",
+        "poppo",
+        "pidgey",
+        "taubsi",
+        "roucool"
+    ],
+    "pj": [
+        "ピジョン",
+        "pijon",
+        "pigeon",
+        "pidgeotto",
+        "tauboga",
+        "roucoups"
+    ],
+    "pg": [
+        "ピジョット",
+        "pijotto",
+        "pigeot",
+        "pidgeot",
+        "tauboss",
+        "roucarnage"
+    ],
+    "rt": [
+        "コラッタ",
+        "koratta",
+        "koratta",
+        "rattata",
+        "rattfratz",
+        "rattata"
+    ],
+    "tl": [
+        "ラッタ",
+        "ratta",
+        "ratta",
+        "raticate",
+        "rattikarl",
+        "rattatac"
+    ],
+    "ew": [
+        "オニスズメ",
+        "onisuzume",
+        "onisuzume",
+        "spearow",
+        "habitak",
+        "piafabec"
+    ],
+    "ib": [
+        "オニドリル",
+        "onidoriru",
+        "onidrill",
+        "fearow",
+        "ibitak",
+        "rapasdepic"
+    ],
+    "nb": [
+        "アーボ",
+        "abo",
+        "arbo",
+        "ekans",
+        "rettan",
+        "abo"
+    ],
+    "bk": [
+        "アーボック",
+        "abokku",
+        "arbok",
+        "arbok",
+        "arbok",
+        "arbok"
+    ],
+    "pk": [
+        "ピカチュウ",
+        "pikachu",
+        "pikachu",
+        "pikachu",
+        "pikachu",
+        "pikachu"
+    ],
+    "ih": [
+        "ライチュウ",
+        "raichu",
+        "raichu",
+        "raichu",
+        "raichu",
+        "raichu"
+    ],
+    "sd": [
+        "サンド",
+        "sando",
+        "sand",
+        "sandshrew",
+        "sandan",
+        "sabelette"
+    ],
+    "ss": [
+        "サンドパン",
+        "sandopan",
+        "sandpan",
+        "sandslash",
+        "sandamer",
+        "sablaireau"
+    ],
+    "nd": [
+        "nidoran",
+        "nidoran",
+        "nidoran",
+        "nidoran",
+        "nidoran",
+        "nidoran"
+    ],
+    "nr": [
+        "ニドリーナ",
+        "nidorina",
+        "nidorina",
+        "nidorina",
+        "nidorina",
+        "nidorina"
+    ],
+    "nq": [
+        "ニドクイン",
+        "nidokuin",
+        "nidoqueen",
+        "nidoqueen",
+        "nidoqueen",
+        "nidoqueen"
+    ],
+    "nw": [
+        "ニドリーノ",
+        "nidorino",
+        "nidorino",
+        "nidorino",
+        "nidorino",
+        "nidorino"
+    ],
+    "nv": [
+        "ニドキング",
+        "nidokingu",
+        "nidoking",
+        "nidoking",
+        "nidoking",
+        "nidoking"
+    ],
+    "ml": [
+        "ピッピ",
+        "pippi",
+        "pippi",
+        "clefairy",
+        "piepi",
+        "melofee"
+    ],
+    "px": [
+        "ピクシー",
+        "pikushi",
+        "pixy",
+        "clefable",
+        "pixi",
+        "melodelfe"
+    ],
+    "lp": [
+        "ロコン",
+        "rokon",
+        "rokon",
+        "vulpix",
+        "vulpix",
+        "goupix"
+    ],
+    "fen": [
+        "キュウコン",
+        "kyukon",
+        "kyukon",
+        "ninetales",
+        "vulnona",
+        "feunard"
+    ],
+    "jig": [
+        "プリン",
+        "purin",
+        "purin",
+        "jigglypuff",
+        "pummeluff",
+        "rondoudou"
+    ],
+    "kd": [
+        "プクリン",
+        "pukurin",
+        "pukurin",
+        "wigglytuff",
+        "knuddeluff",
+        "grodoudou"
+    ],
+    "nf": [
+        "ズバット",
+        "zubatto",
+        "zubat",
+        "zubat",
+        "zubat",
+        "nosferapti"
+    ],
+    "nof": [
+        "ゴルバット",
+        "gorubatto",
+        "golbat",
+        "golbat",
+        "golbat",
+        "nosferalto"
+    ],
+    "zn": [
+        "ナゾノクサ",
+        "nazonokusa",
+        "nazonokusa",
+        "oddish",
+        "myrapla",
+        "mystherbe"
+    ],
+    "df": [
+        "クサイハナ",
+        "kusaihana",
+        "kusaihana",
+        "gloom",
+        "duflor",
+        "ortide"
+    ],
+    "gf": [
+        "ラフレシア",
+        "rafureshia",
+        "ruffresia",
+        "vileplume",
+        "giflor",
+        "rafflesia"
+    ],
+    "sj": [
+        "パラス",
+        "parasu",
+        "paras",
+        "paras",
+        "paras",
+        "paras"
+    ],
+    "dj": [
+        "パラセクト",
+        "parasekuto",
+        "parasect",
+        "parasect",
+        "parasek",
+        "parasect"
+    ],
+    "gp": [
+        "コンパン",
+        "konpan",
+        "kongpang",
+        "venonat",
+        "bluzuk",
+        "mimitoss"
+    ],
+    "rom": [
+        "モルフォン",
+        "morufon",
+        "morphon",
+        "venomoth",
+        "omot",
+        "aeromite"
+    ],
+    "dl": [
+        "ディグダ",
+        "diguda",
+        "digda",
+        "diglett",
+        "digda",
+        "taupiqueur"
+    ],
+    "dg": [
+        "ダグトリオ",
+        "dagutorio",
+        "dugtrio",
+        "dugtrio",
+        "digdri",
+        "triopikeur"
+    ],
+    "aio": [
+        "ニャース",
+        "nyasu",
+        "nyarth",
+        "meowth",
+        "mauzi",
+        "miaouss"
+    ],
+    "ps": [
+        "ペルシアン",
+        "perushian",
+        "persian",
+        "persian",
+        "snobilikat",
+        "persian"
+    ],
+    "dk": [
+        "コダック",
+        "kodakku",
+        "koduck",
+        "psyduck",
+        "enton",
+        "psykokwak"
+    ],
+    "akw": [
+        "ゴルダック",
+        "gorudakku",
+        "golduck",
+        "golduck",
+        "entoron",
+        "akwakwak"
+    ],
+    "men": [
+        "マンキー",
+        "manki",
+        "mankey",
+        "mankey",
+        "menki",
+        "ferosinge"
+    ],
+    "oko": [
+        "オコリザル",
+        "okorizaru",
+        "okorizaru",
+        "primeape",
+        "rasaff",
+        "colossinge"
+    ],
+    "wl": [
+        "ガーディ",
+        "gadi",
+        "gardie",
+        "growlithe",
+        "fukano",
+        "caninos"
+    ],
+    "ark": [
+        "ウインディ",
+        "uindi",
+        "windie",
+        "arcanine",
+        "arkani",
+        "arcanin"
+    ],
+    "pw": [
+        "ニョロモ",
+        "nyoromo",
+        "nyoromo",
+        "poliwag",
+        "quapsel",
+        "ptitard"
+    ],
+    "pv": [
+        "ニョロゾ",
+        "nyorozo",
+        "nyorozo",
+        "poliwhirl",
+        "quaputzi",
+        "tetarte"
+    ],
+    "pz": [
+        "ニョロボン",
+        "nyorobon",
+        "nyorobon",
+        "poliwrath",
+        "quappo",
+        "tartard"
+    ],
+    "hs": [
+        "ケーシィ",
+        "keshi",
+        "casey",
+        "abra",
+        "abra",
+        "abra"
+    ],
+    "bd": [
+        "ユンゲラー",
+        "yungera",
+        "yungerer",
+        "kadabra",
+        "kadabra",
+        "kadabra"
+    ],
+    "fd": [
+        "フーディン",
+        "fudin",
+        "foodin",
+        "alakazam",
+        "simsala",
+        "alakazam"
+    ],
+    "mac": [
+        "ワンリキー",
+        "wanriki",
+        "wanriky",
+        "machop",
+        "machollo",
+        "machoc"
+    ],
+    "oke": [
+        "ゴーリキー",
+        "goriki",
+        "goriky",
+        "machoke",
+        "maschock",
+        "machopeur"
+    ],
+    "hm": [
+        "カイリキー",
+        "kairiki",
+        "kairiky",
+        "machamp",
+        "machomei",
+        "mackogneur"
+    ],
+    "kj": [
+        "マダツボミ",
+        "madatsubomi",
+        "madatsubomi",
+        "bellsprout",
+        "knofensa",
+        "chetiflor"
+    ],
+    "ut": [
+        "ウツドン",
+        "utsudon",
+        "utsudon",
+        "weepinbell",
+        "ultrigaria",
+        "boustiflor"
+    ],
+    "sr": [
+        "ウツボット",
+        "utsubotto",
+        "utsubot",
+        "victreebel",
+        "sarzenia",
+        "empiflor"
+    ],
+    "aco": [
+        "メノクラゲ",
+        "menokurage",
+        "menokurage",
+        "tentacool",
+        "tentacha",
+        "tentacool"
+    ],
+    "acu": [
+        "ドククラゲ",
+        "dokukurage",
+        "dokukurage",
+        "tentacruel",
+        "tentoxa",
+        "tentacruel"
+    ],
+    "nie": [
+        "イシツブテ",
+        "ishitsubute",
+        "isitsubute",
+        "geodude",
+        "kleinstein",
+        "racaillou"
+    ],
+    "hv": [
+        "ゴローン",
+        "goron",
+        "golone",
+        "graveler",
+        "georok",
+        "gravalanch"
+    ],
+    "gem": [
+        "ゴローニャ",
+        "goronya",
+        "golonya",
+        "golem",
+        "geowaz",
+        "grolem"
+    ],
+    "nit": [
+        "ポニータ",
+        "ponita",
+        "ponyta",
+        "ponyta",
+        "ponita",
+        "ponyta"
+    ],
+    "ds": [
+        "ギャロップ",
+        "gyaroppu",
+        "gallop",
+        "rapidash",
+        "gallopa",
+        "galopa"
+    ],
+    "wp": [
+        "ヤドン",
+        "yadon",
+        "yadon",
+        "slowpoke",
+        "flegmon",
+        "ramoloss"
+    ],
+    "lh": [
+        "ヤドラン",
+        "yadoran",
+        "yadoran",
+        "slowbro",
+        "lahmus",
+        "flagadoss"
+    ],
+    "mq": [
+        "コイル",
+        "koiru",
+        "coil",
+        "magnemite",
+        "magnetilo",
+        "magneti"
+    ],
+    "rea": [
+        "レアコイル",
+        "reakoiru",
+        "rarecoil",
+        "magneton",
+        "magneton",
+        "magneton"
+    ],
+    "por": [
+        "カモネギ",
+        "kamonegi",
+        "kamonegi",
+        "farfetch'd",
+        "porenta",
+        "canarticho"
+    ],
+    "du": [
+        "ドードー",
+        "dodo",
+        "dodo",
+        "doduo",
+        "dodu",
+        "doduo"
+    ],
+    "dd": [
+        "ドードリオ",
+        "dodorio",
+        "dodorio",
+        "dodrio",
+        "dodri",
+        "dodrio"
+    ],
+    "op": [
+        "パウワウ",
+        "pauwau",
+        "pawou",
+        "seel",
+        "jurob",
+        "otaria"
+    ],
+    "lm": [
+        "ジュゴン",
+        "jugon",
+        "jugon",
+        "dewgong",
+        "jugong",
+        "lamantine"
+    ],
+    "bet": [
+        "ベトベター",
+        "betobeta",
+        "betbeter",
+        "grimer",
+        "sleima",
+        "tadmorv"
+    ],
+    "mv": [
+        "ベトベトン",
+        "betobeton",
+        "betbeton",
+        "muk",
+        "sleimok",
+        "grotadmorv"
+    ],
+    "ld": [
+        "シェルダー",
+        "sheruda",
+        "shellder",
+        "shellder",
+        "muschas",
+        "kokiyas"
+    ],
+    "au": [
+        "パルシェン",
+        "parushen",
+        "parshen",
+        "cloyster",
+        "austos",
+        "crustabri"
+    ],
+    "gs": [
+        "ゴース",
+        "gosu",
+        "ghos",
+        "gastly",
+        "nebulak",
+        "fantominus"
+    ],
+    "gh": [
+        "ゴースト",
+        "gosuto",
+        "ghost",
+        "haunter",
+        "alpollo",
+        "spectrum"
+    ],
+    "gn": [
+        "ゲンガー",
+        "genga",
+        "gangar",
+        "gengar",
+        "gengar",
+        "ectoplasma"
+    ],
+    "ox": [
+        "イワーク",
+        "iwaku",
+        "iwark",
+        "onix",
+        "onix",
+        "onix"
+    ],
+    "fw": [
+        "スリープ",
+        "suripu",
+        "sleepe",
+        "drowzee",
+        "traumato",
+        "soporifik"
+    ],
+    "hp": [
+        "スリーパー",
+        "suripa",
+        "sleeper",
+        "hypno",
+        "hypno",
+        "hypnomade"
+    ],
+    "kb": [
+        "クラブ",
+        "kurabu",
+        "crab",
+        "krabby",
+        "krabby",
+        "krabby"
+    ],
+    "kg": [
+        "キングラー",
+        "kingura",
+        "kingler",
+        "kingler",
+        "kingler",
+        "krabboss"
+    ],
+    "bir": [
+        "ビリリダマ",
+        "biriridama",
+        "biriridama",
+        "voltorb",
+        "voltobal",
+        "voltorbe"
+    ],
+    "lk": [
+        "マルマイン",
+        "marumain",
+        "marumine",
+        "electrode",
+        "lektrobal",
+        "electrode"
+    ],
+    "ow": [
+        "タマタマ",
+        "tamatama",
+        "tamatama",
+        "exeggcute",
+        "owei",
+        "noeunoeuf"
+    ],
+    "nas": [
+        "ナッシー",
+        "nasshi",
+        "nassy",
+        "exeggutor",
+        "kokowei",
+        "noadkoko"
+    ],
+    "osd": [
+        "カラカラ",
+        "karakara",
+        "karakara",
+        "cubone",
+        "tragosso",
+        "osselait"
+    ],
+    "osa": [
+        "ガラガラ",
+        "garagara",
+        "garagara",
+        "marowak",
+        "knogga",
+        "ossatueur"
+    ],
+    "kic": [
+        "サワムラー",
+        "sawamura",
+        "sawamular",
+        "hitmonlee",
+        "kicklee",
+        "kicklee"
+    ],
+    "eb": [
+        "エビワラー",
+        "ebiwara",
+        "ebiwalar",
+        "hitmonchan",
+        "nockchan",
+        "tygnon"
+    ],
+    "lg": [
+        "ベロリンガ",
+        "beroringa",
+        "beroringa",
+        "lickitung",
+        "schlurp",
+        "excelangue"
+    ],
+    "sm": [
+        "ドガース",
+        "dogasu",
+        "dogars",
+        "koffing",
+        "smogon",
+        "smogo"
+    ],
+    "ing": [
+        "マタドガス",
+        "matadogasu",
+        "matadogas",
+        "weezing",
+        "smogmog",
+        "smogogo"
+    ],
+    "sai": [
+        "サイホーン",
+        "saihon",
+        "sihorn",
+        "rhyhorn",
+        "rihorn",
+        "rhinocorne"
+    ],
+    "of": [
+        "サイドン",
+        "saidon",
+        "sidon",
+        "rhydon",
+        "rizeros",
+        "rhinoferos"
+    ],
+    "ina": [
+        "ラッキー",
+        "rakki",
+        "lucky",
+        "chansey",
+        "chaneira",
+        "leveinard"
+    ],
+    "ang": [
+        "モンジャラ",
+        "monjara",
+        "monjara",
+        "tangela",
+        "tangela",
+        "saquedeneu"
+    ],
+    "agk": [
+        "ガルーラ",
+        "garura",
+        "garura",
+        "kangaskhan",
+        "kangama",
+        "kangourex"
+    ],
+    "tat": [
+        "タッツー",
+        "tattsu",
+        "tattu",
+        "horsea",
+        "seeper",
+        "hypotrempe"
+    ],
+    "ean": [
+        "シードラ",
+        "shidora",
+        "seadra",
+        "seadra",
+        "seemon",
+        "hypocean"
+    ],
+    "osk": [
+        "トサキント",
+        "tosakinto",
+        "tosakinto",
+        "goldeen",
+        "goldini",
+        "poissirene"
+    ],
+    "aki": [
+        "アズマオウ",
+        "azumao",
+        "azumao",
+        "seaking",
+        "golking",
+        "poissoroy"
+    ],
+    "sti": [
+        "ヒトデマン",
+        "hitodeman",
+        "hitodeman",
+        "staryu",
+        "sterndu",
+        "stari"
+    ],
+    "stm": [
+        "スターミー",
+        "sutami",
+        "starmie",
+        "starmie",
+        "starmie",
+        "staross"
+    ],
+    "ant": [
+        "バリヤード",
+        "bariyado",
+        "barrierd",
+        "mr. mime",
+        "pantimos",
+        "m. mime"
+    ],
+    "sic": [
+        "ストライク",
+        "sutoraiku",
+        "strike",
+        "scyther",
+        "sichlor",
+        "insecateur"
+    ],
+    "rs": [
+        "ルージュラ",
+        "rujura",
+        "rougela",
+        "jynx",
+        "rossana",
+        "lippoutou"
+    ],
+    "eq": [
+        "エレブー",
+        "erebu",
+        "eleboo",
+        "electabuzz",
+        "elektek",
+        "elektek"
+    ],
+    "mr": [
+        "ブーバー",
+        "buba",
+        "boober",
+        "magmar",
+        "magmar",
+        "magmar"
+    ],
+    "pn": [
+        "カイロス",
+        "kairosu",
+        "kailios",
+        "pinsir",
+        "pinsir",
+        "scarabrute"
+    ],
+    "ken": [
+        "ケンタロス",
+        "kentarosu",
+        "kentauros",
+        "tauros",
+        "tauros",
+        "tauros"
+    ],
+    "oi": [
+        "コイキング",
+        "koikingu",
+        "koiking",
+        "magikarp",
+        "karpador",
+        "magicarpe"
+    ],
+    "lv": [
+        "ギャラドス",
+        "gyaradosu",
+        "gyarados",
+        "gyarados",
+        "garados",
+        "leviator"
+    ],
+    "ls": [
+        "ラプラス",
+        "rapurasu",
+        "laplace",
+        "lapras",
+        "lapras",
+        "lokhlass"
+    ],
+    "dt": [
+        "メタモン",
+        "metamon",
+        "metamon",
+        "ditto",
+        "ditto",
+        "metamorph"
+    ],
+    "ej": [
+        "イーブイ",
+        "ibui",
+        "eievui",
+        "eevee",
+        "evoli",
+        "evoli"
+    ],
+    "vn": [
+        "シャワーズ",
+        "shawazu",
+        "showers",
+        "vaporeon",
+        "aquana",
+        "aquali"
+    ],
+    "jt": [
+        "サンダース",
+        "sandasu",
+        "thunders",
+        "jolteon",
+        "blitza",
+        "voltali"
+    ],
+    "ae": [
+        "ブースター",
+        "busuta",
+        "booster",
+        "flareon",
+        "flamara",
+        "pyroli"
+    ],
+    "1": [
+        "ポリゴン",
+        "porigon",
+        "porygon",
+        "porygon",
+        "porygon",
+        "porygon"
+    ],
+    "omd": [
+        "オムナイト",
+        "omunaito",
+        "omnite",
+        "omanyte",
+        "amonitas",
+        "amonita"
+    ],
+    "oms": [
+        "オムスター",
+        "omusuta",
+        "omstar",
+        "omastar",
+        "amoroso",
+        "amonistar"
+    ],
+    "kto": [
+        "カブト",
+        "kabuto",
+        "kabuto",
+        "kabuto",
+        "kabuto",
+        "kabuto"
+    ],
+    "kts": [
+        "カブトプス",
+        "kabutopusu",
+        "kabutops",
+        "kabutops",
+        "kabutops",
+        "kabutops"
+    ],
+    "ay": [
+        "プテラ",
+        "putera",
+        "ptera",
+        "aerodactyl",
+        "aerodactyl",
+        "ptera"
+    ],
+    "kab": [
+        "カビゴン",
+        "kabigon",
+        "kabigon",
+        "snorlax",
+        "relaxo",
+        "ronflex"
+    ],
+    "za": [
+        "フリーザー",
+        "furiza",
+        "freezer",
+        "articuno",
+        "arktos",
+        "artikodin"
+    ],
+    "pd": [
+        "サンダー",
+        "sanda",
+        "thunder",
+        "zapdos",
+        "zapdos",
+        "electhor"
+    ],
+    "lt": [
+        "ファイヤー",
+        "faiya",
+        "fire",
+        "moltres",
+        "lavados",
+        "sulfura"
+    ],
+    "md": [
+        "ミニリュウ",
+        "miniryu",
+        "miniryu",
+        "dratini",
+        "dratini",
+        "minidraco"
+    ],
+    "hk": [
+        "ハクリュー",
+        "hakuryu",
+        "hakuryu",
+        "dragonair",
+        "dragonir",
+        "draco"
+    ],
+    "dn": [
+        "カイリュー",
+        "kairyu",
+        "kairyu",
+        "dragonite",
+        "dragoran",
+        "dracolosse"
+    ],
+    "mew": [
+        "ミュウツー",
+        "myutsu",
+        "mewtwo",
+        "mewtwo",
+        "mewtu",
+        "mewtwo"
+    ],
+    "mw": [
+        "ミュウ",
+        "myu",
+        "mew",
+        "mew",
+        "mew",
+        "mew"
+    ],
+    "end": [
+        "チコリータ",
+        "chikorita",
+        "chicorita",
+        "chikorita",
+        "endivie",
+        "germignon"
+    ],
+    "bei": [
+        "ベイリーフ",
+        "beirifu",
+        "bayleaf",
+        "bayleef",
+        "lorblatt",
+        "macronium"
+    ],
+    "meg": [
+        "メガニウム",
+        "meganiumu",
+        "meganium",
+        "meganium",
+        "meganie",
+        "meganium"
+    ],
+    "feu": [
+        "ヒノアラシ",
+        "hinoarashi",
+        "hinoarashi",
+        "cyndaquil",
+        "feurigel",
+        "hericendre"
+    ],
+    "ige": [
+        "マグマラシ",
+        "magumarashi",
+        "magmarashi",
+        "quilava",
+        "igelavar",
+        "feurisson"
+    ],
+    "bak": [
+        "バクフーン",
+        "bakufun",
+        "bakphoon",
+        "typhlosion",
+        "tornupto",
+        "typhlosion"
+    ],
+    "tot": [
+        "ワニノコ",
+        "waninoko",
+        "waninoko",
+        "totodile",
+        "karnimani",
+        "kaiminus"
+    ],
+    "oc": [
+        "アリゲイツ",
+        "arigeitsu",
+        "alligates",
+        "croconaw",
+        "tyracroc",
+        "crocrodil"
+    ],
+    "oda": [
+        "オーダイル",
+        "odairu",
+        "ordile",
+        "feraligatr",
+        "impergator",
+        "aligatueur"
+    ],
+    "net": [
+        "otachi",
+        "otachi",
+        "otachi",
+        "otachi",
+        "otachi",
+        "otachi"
+    ],
+    "hu": [
+        "ホーホー",
+        "hoho",
+        "hoho",
+        "hoothoot",
+        "hoothoot",
+        "hoothoot"
+    ],
+    "noa": [
+        "ヨルノズク",
+        "yorunozuku",
+        "yorunozuku",
+        "noctowl",
+        "noctuh",
+        "noarfang"
+    ],
+    "jd": [
+        "レディバ",
+        "rediba",
+        "rediba",
+        "ledyba",
+        "ledyba",
+        "coxy"
+    ],
+    "qu": [
+        "レディアン",
+        "redian",
+        "redian",
+        "ledian",
+        "ledian",
+        "coxyclaque"
+    ],
+    "ito": [
+        "イトマル",
+        "itomaru",
+        "itomaru",
+        "spinarak",
+        "webarak",
+        "mimigal"
+    ],
+    "ria": [
+        "アリアドス",
+        "ariadosu",
+        "ariados",
+        "ariados",
+        "ariados",
+        "migalos"
+    ],
+    "not": [
+        "クロバット",
+        "kurobatto",
+        "crobat",
+        "crobat",
+        "iksbat",
+        "nostenfer"
+    ],
+    "nc": [
+        "チョンチー",
+        "chonchi",
+        "chonchie",
+        "chinchou",
+        "lampi",
+        "loupio"
+    ],
+    "ern": [
+        "ランターン",
+        "rantan",
+        "lantern",
+        "lanturn",
+        "lanturn",
+        "lanturn"
+    ],
+    "pic": [
+        "ピチュー",
+        "pichu",
+        "pichu",
+        "pichu",
+        "pichu",
+        "pichu"
+    ],
+    "4": [
+        "ピィ",
+        "pi",
+        "py",
+        "cleffa",
+        "pii",
+        "melo"
+    ],
+    "tou": [
+        "ププリン",
+        "pupurin",
+        "pupurin",
+        "igglybuff",
+        "fluffeluff",
+        "toudoudou"
+    ],
+    "tg": [
+        "トゲピー",
+        "togepi",
+        "togepy",
+        "togepi",
+        "togepi",
+        "togepi"
+    ],
+    "tok": [
+        "トゲチック",
+        "togechikku",
+        "togechick",
+        "togetic",
+        "togetic",
+        "togetic"
+    ],
+    "je": [
+        "ネイティ",
+        "neiti",
+        "naty",
+        "natu",
+        "natu",
+        "natu"
+    ],
+    "jy": [
+        "ネイティオ",
+        "neitio",
+        "natio",
+        "xatu",
+        "xatu",
+        "xatu"
+    ],
+    "mer": [
+        "メリープ",
+        "meripu",
+        "merriep",
+        "mareep",
+        "voltilamm",
+        "wattouat"
+    ],
+    "lai": [
+        "モココ",
+        "mokoko",
+        "mokoko",
+        "flaaffy",
+        "waaty",
+        "lainergie"
+    ],
+    "den": [
+        "デンリュウ",
+        "denryu",
+        "denryu",
+        "ampharos",
+        "ampharos",
+        "pharamp"
+    ],
+    "bel": [
+        "キレイハナ",
+        "kireihana",
+        "kireihana",
+        "bellossom",
+        "blubella",
+        "joliflor"
+    ],
+    "rl": [
+        "マリル",
+        "mariru",
+        "maril",
+        "marill",
+        "marill",
+        "marill"
+    ],
+    "zl": [
+        "マリルリ",
+        "mariruri",
+        "marilli",
+        "azumarill",
+        "azumarill",
+        "azumarill"
+    ],
+    "us": [
+        "ウソッキー",
+        "usokki",
+        "usokkie",
+        "sudowoodo",
+        "mogelbaum",
+        "simularbre"
+    ],
+    "qo": [
+        "ニョロトノ",
+        "nyorotono",
+        "nyorotono",
+        "politoed",
+        "quaxo",
+        "tarpaud"
+    ],
+    "han": [
+        "ハネッコ",
+        "hanekko",
+        "hanecco",
+        "hoppip",
+        "hoppspross",
+        "granivol"
+    ],
+    "ski": [
+        "ポポッコ",
+        "popokko",
+        "popocco",
+        "skiploom",
+        "hubelupf",
+        "floravol"
+    ],
+    "pap": [
+        "ワタッコ",
+        "watakko",
+        "watacco",
+        "jumpluff",
+        "papungha",
+        "cotovol"
+    ],
+    "if": [
+        "エイパム",
+        "eipamu",
+        "eipam",
+        "aipom",
+        "griffel",
+        "capumain"
+    ],
+    "skn": [
+        "ヒマナッツ",
+        "himanattsu",
+        "himanuts",
+        "sunkern",
+        "sonnkern",
+        "tournegrin"
+    ],
+    "snk": [
+        "キマワリ",
+        "kimawari",
+        "kimawari",
+        "sunflora",
+        "sonnflora",
+        "heliatronc"
+    ],
+    "jq": [
+        "ヤンヤンマ",
+        "yan'yanma",
+        "yanyanma",
+        "yanma",
+        "yanma",
+        "yanma"
+    ],
+    "inw": [
+        "ウパー",
+        "upa",
+        "upah",
+        "wooper",
+        "felino",
+        "axoloto"
+    ],
+    "qt": [
+        "ヌオー",
+        "nuo",
+        "nuoh",
+        "quagsire",
+        "morlord",
+        "maraiste"
+    ],
+    "efi": [
+        "エーフィ",
+        "efi",
+        "eifie",
+        "espeon",
+        "psiana",
+        "mentali"
+    ],
+    "eon": [
+        "ブラッキー",
+        "burakki",
+        "blacky",
+        "umbreon",
+        "nachtara",
+        "noctali"
+    ],
+    "yk": [
+        "ヤミカラス",
+        "yamikarasu",
+        "yamikarasu",
+        "murkrow",
+        "kramurx",
+        "cornebre"
+    ],
+    "roi": [
+        "ヤドキング",
+        "yadokingu",
+        "yadoking",
+        "slowking",
+        "laschoking",
+        "roigada"
+    ],
+    "mis": [
+        "ムウマ",
+        "muma",
+        "muma",
+        "misdreavus",
+        "traunfugil",
+        "feuforeve"
+    ],
+    "ic": [
+        "アンノーン",
+        "annon",
+        "unknown",
+        "unown",
+        "icognito",
+        "zarbi"
+    ],
+    "son": [
+        "ソーナンス",
+        "sonansu",
+        "sonans",
+        "wobbuffet",
+        "woingenau",
+        "qulbutoke"
+    ],
+    "inr": [
+        "キリンリキ",
+        "kirinriki",
+        "kirinriki",
+        "girafarig",
+        "girafarig",
+        "girafarig"
+    ],
+    "ode": [
+        "クヌギダマ",
+        "kunugidama",
+        "kunugidama",
+        "pineco",
+        "tannza",
+        "pomdepik"
+    ],
+    "for": [
+        "フォレトス",
+        "foretosu",
+        "foretos",
+        "forretress",
+        "forstellka",
+        "foretress"
+    ],
+    "ins": [
+        "ノコッチ",
+        "nokotchi",
+        "nokocchi",
+        "dunsparce",
+        "dummisel",
+        "insolourdo"
+    ],
+    "gg": [
+        "グライガー",
+        "guraiga",
+        "gliger",
+        "gligar",
+        "skorgla",
+        "scorplane"
+    ],
+    "hl": [
+        "ハガネール",
+        "haganeru",
+        "haganeil",
+        "steelix",
+        "stahlos",
+        "steelix"
+    ],
+    "bur": [
+        "ブルー",
+        "buru",
+        "bulu",
+        "snubbull",
+        "snubbull",
+        "snubbull"
+    ],
+    "gur": [
+        "グランブル",
+        "guranburu",
+        "granbulu",
+        "granbull",
+        "granbull",
+        "granbull"
+    ],
+    "qw": [
+        "ハリーセン",
+        "harisen",
+        "harysen",
+        "qwilfish",
+        "baldorfish",
+        "qwilfish"
+    ],
+    "sci": [
+        "ハッサム",
+        "hassamu",
+        "hassam",
+        "scizor",
+        "scherox",
+        "cizayox"
+    ],
+    "shu": [
+        "ツボツボ",
+        "tsubotsubo",
+        "tsubotsubo",
+        "shuckle",
+        "pottrott",
+        "caratroc"
+    ],
+    "her": [
+        "ヘラクロス",
+        "herakurosu",
+        "heracros",
+        "heracross",
+        "skaraborn",
+        "scarhino"
+    ],
+    "sni": [
+        "ニューラ",
+        "nyura",
+        "nyula",
+        "sneasel",
+        "sniebel",
+        "farfuret"
+    ],
+    "im": [
+        "ヒメグマ",
+        "himeguma",
+        "himeguma",
+        "teddiursa",
+        "teddiursa",
+        "teddiursa"
+    ],
+    "rin": [
+        "リングマ",
+        "ringuma",
+        "ringuma",
+        "ursaring",
+        "ursaring",
+        "ursaring"
+    ],
+    "magm": [
+        "マグマッグ",
+        "magumaggu",
+        "magmag",
+        "slugma",
+        "schneckmag",
+        "limagma"
+    ],
+    "magu": [
+        "マグカルゴ",
+        "magukarugo",
+        "magcargot",
+        "magcargo",
+        "magcargo",
+        "volcaropod"
+    ],
+    "swi": [
+        "ウリムー",
+        "urimu",
+        "urimoo",
+        "swinub",
+        "quiekel",
+        "marcacrin"
+    ],
+    "kei": [
+        "イノムー",
+        "inomu",
+        "inomoo",
+        "piloswine",
+        "keifel",
+        "cochignon"
+    ],
+    "aso": [
+        "サニーゴ",
+        "sanigo",
+        "sunnygo",
+        "corsola",
+        "corasonn",
+        "corayon"
+    ],
+    "rem": [
+        "テッポウオ",
+        "teppoo",
+        "teppouo",
+        "remoraid",
+        "remoraid",
+        "remoraid"
+    ],
+    "oti": [
+        "オクタン",
+        "okutan",
+        "okutank",
+        "octillery",
+        "octillery",
+        "octillery"
+    ],
+    "bot": [
+        "デリバード",
+        "deribado",
+        "delibird",
+        "delibird",
+        "botogel",
+        "cadoizo"
+    ],
+    "ema": [
+        "マンタイン",
+        "mantain",
+        "mantain",
+        "mantine",
+        "mantax",
+        "demanta"
+    ],
+    "nz": [
+        "エアームド",
+        "eamudo",
+        "airmd",
+        "skarmory",
+        "panzaeron",
+        "airmure"
+    ],
+    "lr": [
+        "デルビル",
+        "derubiru",
+        "delvil",
+        "houndour",
+        "hunduster",
+        "malosse"
+    ],
+    "dem": [
+        "ヘルガー",
+        "heruga",
+        "hellgar",
+        "houndoom",
+        "hundemon",
+        "demolosse"
+    ],
+    "hyp": [
+        "キングドラ",
+        "kingudora",
+        "kingdra",
+        "kingdra",
+        "seedraking",
+        "hyporoi"
+    ],
+    "gom": [
+        "ゴマゾウ",
+        "gomazo",
+        "gomazou",
+        "phanpy",
+        "phanpy",
+        "phanpy"
+    ],
+    "onf": [
+        "ドンファン",
+        "donfan",
+        "donfan",
+        "donphan",
+        "donphan",
+        "donphan"
+    ],
+    "2": [
+        "ポリゴン２",
+        "porigon2",
+        "porygon2",
+        "porygon2",
+        "porygon2",
+        "porygon2"
+    ],
+    "odo": [
+        "オドシシ",
+        "odoshishi",
+        "odoshishi",
+        "stantler",
+        "damhirplex",
+        "cerfrousse"
+    ],
+    "db": [
+        "ドーブル",
+        "doburu",
+        "doble",
+        "smeargle",
+        "farbeagle",
+        "queulorior"
+    ],
+    "deb": [
+        "バルキー",
+        "baruki",
+        "balkie",
+        "tyrogue",
+        "rabauz",
+        "debugant"
+    ],
+    "kap": [
+        "カポエラー",
+        "kapoera",
+        "kapoerer",
+        "hitmontop",
+        "kapoera",
+        "kapoera"
+    ],
+    "mu": [
+        "ムチュール",
+        "muchuru",
+        "muchul",
+        "smoochum",
+        "kussilla",
+        "lippouti"
+    ],
+    "eki": [
+        "エレキッド",
+        "erekiddo",
+        "elekid",
+        "elekid",
+        "elekid",
+        "elekid"
+    ],
+    "bub": [
+        "ブビィ",
+        "bubi",
+        "buby",
+        "magby",
+        "magby",
+        "magby"
+    ],
+    "ec": [
+        "ミルタンク",
+        "mirutanku",
+        "miltank",
+        "miltank",
+        "miltank",
+        "ecremeuh"
+    ],
+    "hap": [
+        "ハピナス",
+        "hapinasu",
+        "happinas",
+        "blissey",
+        "heiteira",
+        "leuphorie"
+    ],
+    "rou": [
+        "ライコウ",
+        "raiko",
+        "raikou",
+        "raikou",
+        "raikou",
+        "raikou"
+    ],
+    "eou": [
+        "エンテイ",
+        "entei",
+        "entei",
+        "entei",
+        "entei",
+        "entei"
+    ],
+    "sou": [
+        "スイクン",
+        "suikun",
+        "suicune",
+        "suicune",
+        "suicune",
+        "suicune"
+    ],
+    "vl": [
+        "ヨーギラス",
+        "yogirasu",
+        "yogiras",
+        "larvitar",
+        "larvitar",
+        "embrylex"
+    ],
+    "ym": [
+        "サナギラス",
+        "sanagirasu",
+        "sanagiras",
+        "pupitar",
+        "pupitar",
+        "ymphect"
+    ],
+    "ira": [
+        "バンギラス",
+        "bangirasu",
+        "bangiras",
+        "tyranitar",
+        "despotar",
+        "tyranocif"
+    ],
+    "rug": [
+        "ルギア",
+        "rugia",
+        "lugia",
+        "lugia",
+        "lugia",
+        "lugia"
+    ],
+    "hou": [
+        "ホウオウ",
+        "hoo",
+        "houou",
+        "ho-oh",
+        "ho-oh",
+        "ho-oh"
+    ],
+    "ser": [
+        "セレビィ",
+        "serebi",
+        "celebi",
+        "celebi",
+        "celebi",
+        "celebi"
+    ],
+    "trk": [
+        "キモリ",
+        "kimori",
+        "kimori",
+        "treecko",
+        "geckarbor",
+        "arcko"
+    ],
+    "vy": [
+        "ジュプトル",
+        "juputoru",
+        "juptile",
+        "grovyle",
+        "reptain",
+        "massko"
+    ],
+    "gw": [
+        "ジュカイン",
+        "jukain",
+        "jukain",
+        "sceptile",
+        "gewaldro",
+        "jungko"
+    ],
+    "ach": [
+        "アチャモ",
+        "achamo",
+        "achamo",
+        "torchic",
+        "flemmli",
+        "poussifeu"
+    ],
+    "geu": [
+        "ワカシャモ",
+        "wakashamo",
+        "wakasyamo",
+        "combusken",
+        "jungglut",
+        "galifeu"
+    ],
+    "loh": [
+        "バシャーモ",
+        "bashamo",
+        "bursyamo",
+        "blaziken",
+        "lohgock",
+        "brasegali"
+    ],
+    "iz": [
+        "ミズゴロウ",
+        "mizugoro",
+        "mizugorou",
+        "mudkip",
+        "hydropi",
+        "gobou"
+    ],
+    "top": [
+        "ヌマクロー",
+        "numakuro",
+        "numacraw",
+        "marshtomp",
+        "moorabbel",
+        "flobio"
+    ],
+    "lag": [
+        "ラグラージ",
+        "raguraji",
+        "laglarge",
+        "swampert",
+        "sumpex",
+        "laggron"
+    ],
+    "fif": [
+        "ポチエナ",
+        "pochiena",
+        "pochiena",
+        "poochyena",
+        "fiffyen",
+        "medhyena"
+    ],
+    "gah": [
+        "グラエナ",
+        "guraena",
+        "graena",
+        "mightyena",
+        "magnayen",
+        "grahyena"
+    ],
+    "zig": [
+        "ジグザグマ",
+        "jiguzaguma",
+        "jiguzaguma",
+        "zigzagoon",
+        "zigzachs",
+        "zigzaton"
+    ],
+    "ln": [
+        "マッスグマ",
+        "massuguma",
+        "massuguma",
+        "linoone",
+        "geradaks",
+        "lineon"
+    ],
+    "wau": [
+        "ケムッソ",
+        "kemusso",
+        "kemusso",
+        "wurmple",
+        "waumpel",
+        "chenipotte"
+    ],
+    "slc": [
+        "カラサリス",
+        "karasarisu",
+        "karasalis",
+        "silcoon",
+        "schaloko",
+        "armulys"
+    ],
+    "bea": [
+        "アゲハント",
+        "agehanto",
+        "agehunt",
+        "beautifly",
+        "papinella",
+        "charmillon"
+    ],
+    "cs": [
+        "マユルド",
+        "mayurudo",
+        "mayuld",
+        "cascoon",
+        "panekon",
+        "blindalys"
+    ],
+    "inx": [
+        "ドクケイル",
+        "dokukeiru",
+        "dokucale",
+        "dustox",
+        "pudox",
+        "papinox"
+    ],
+    "nen": [
+        "ハスボー",
+        "hasubo",
+        "hassboh",
+        "lotad",
+        "loturzel",
+        "nenupiot"
+    ],
+    "lb": [
+        "ハスブレロ",
+        "hasuburero",
+        "hasubrero",
+        "lombre",
+        "lombrero",
+        "lombre"
+    ],
+    "kp": [
+        "ルンパッパ",
+        "runpappa",
+        "runpappa",
+        "ludicolo",
+        "kappalores",
+        "ludicolo"
+    ],
+    "ng": [
+        "タネボー",
+        "tanebo",
+        "taneboh",
+        "seedot",
+        "samurzel",
+        "grainipiot"
+    ],
+    "uz": [
+        "コノハナ",
+        "konohana",
+        "konohana",
+        "nuzleaf",
+        "blanas",
+        "pifeuil"
+    ],
+    "ten": [
+        "ダーテング",
+        "datengu",
+        "dirteng",
+        "shiftry",
+        "tengulist",
+        "tengalice"
+    ],
+    "nir": [
+        "スバメ",
+        "subame",
+        "subame",
+        "taillow",
+        "schwalbini",
+        "nirondelle"
+    ],
+    "ohs": [
+        "オオスバメ",
+        "osubame",
+        "ohsubame",
+        "swellow",
+        "schwalboss",
+        "heledelle"
+    ],
+    "win": [
+        "キャモメ",
+        "kyamome",
+        "camome",
+        "wingull",
+        "wingull",
+        "goelise"
+    ],
+    "bek": [
+        "ペリッパー",
+        "perippa",
+        "pelipper",
+        "pelipper",
+        "pelipper",
+        "bekipan"
+    ],
+    "ral": [
+        "ラルトス",
+        "rarutosu",
+        "ralts",
+        "ralts",
+        "trasla",
+        "tarsal"
+    ],
+    "ali": [
+        "キルリア",
+        "kiruria",
+        "kirlia",
+        "kirlia",
+        "kirlia",
+        "kirlia"
+    ],
+    "vo": [
+        "サーナイト",
+        "sanaito",
+        "sirnight",
+        "gardevoir",
+        "guardevoir",
+        "gardevoir"
+    ],
+    "geh": [
+        "アメタマ",
+        "ametama",
+        "ametama",
+        "surskit",
+        "gehweiher",
+        "arakdo"
+    ],
+    "ame": [
+        "アメモース",
+        "amemosu",
+        "amemoth",
+        "masquerain",
+        "maskeregen",
+        "maskadra"
+    ],
+    "shr": [
+        "キノココ",
+        "kinokoko",
+        "kinococo",
+        "shroomish",
+        "knilz",
+        "balignon"
+    ],
+    "bre": [
+        "キノガッサ",
+        "kinogassa",
+        "kinogassa",
+        "breloom",
+        "kapilz",
+        "chapignon"
+    ],
+    "mz": [
+        "ナマケロ",
+        "namakero",
+        "namakero",
+        "slakoth",
+        "bummelz",
+        "parecool"
+    ],
+    "ako": [
+        "ヤルキモノ",
+        "yarukimono",
+        "yarukimono",
+        "vigoroth",
+        "muntier",
+        "vigoroth"
+    ],
+    "let": [
+        "ケッキング",
+        "kekkingu",
+        "kekking",
+        "slaking",
+        "letarking",
+        "monaflemit"
+    ],
+    "gln": [
+        "ツチニン",
+        "tsuchinin",
+        "tutinin",
+        "nincada",
+        "nincada",
+        "ningale"
+    ],
+    "tek": [
+        "テッカニン",
+        "tekkanin",
+        "tekkanin",
+        "ninjask",
+        "ninjask",
+        "ninjask"
+    ],
+    "nj": [
+        "ヌケニン",
+        "nukenin",
+        "nukenin",
+        "shedinja",
+        "ninjatom",
+        "munja"
+    ],
+    "whi": [
+        "ゴニョニョ",
+        "gonyonyo",
+        "gonyonyo",
+        "whismur",
+        "flurmel",
+        "chuchmur"
+    ],
+    "oho": [
+        "ドゴーム",
+        "dogomu",
+        "dogohmb",
+        "loudred",
+        "krakeelo",
+        "ramboum"
+    ],
+    "xp": [
+        "バクオング",
+        "bakuongu",
+        "bakuong",
+        "exploud",
+        "krawumms",
+        "brouhabam"
+    ],
+    "mak": [
+        "マクノシタ",
+        "makunoshita",
+        "makunoshita",
+        "makuhita",
+        "makuhita",
+        "makuhita"
+    ],
+    "ite": [
+        "ハリテヤマ",
+        "hariteyama",
+        "hariteyama",
+        "hariyama",
+        "hariyama",
+        "hariyama"
+    ],
+    "rur": [
+        "ルリリ",
+        "ruriri",
+        "ruriri",
+        "azurill",
+        "azurill",
+        "azurill"
+    ],
+    "nos": [
+        "ノズパス",
+        "nozupasu",
+        "nosepass",
+        "nosepass",
+        "nasgnet",
+        "tarinor"
+    ],
+    "ene": [
+        "エネコ",
+        "eneko",
+        "eneco",
+        "skitty",
+        "eneco",
+        "skitty"
+    ],
+    "nk": [
+        "エネコロロ",
+        "enekororo",
+        "enekororo",
+        "delcatty",
+        "enekoro",
+        "delcatty"
+    ],
+    "nef": [
+        "ヤミラミ",
+        "yamirami",
+        "yamirami",
+        "sableye",
+        "zobiris",
+        "tenefix"
+    ],
+    "maw": [
+        "クチート",
+        "kuchito",
+        "kucheat",
+        "mawile",
+        "flunkifer",
+        "mysdibule"
+    ],
+    "aro": [
+        "ココドラ",
+        "kokodora",
+        "cokodora",
+        "aron",
+        "stollunior",
+        "galekid"
+    ],
+    "kod": [
+        "コドラ",
+        "kodora",
+        "kodora",
+        "lairon",
+        "stollrak",
+        "galegon"
+    ],
+    "agn": [
+        "ボスゴドラ",
+        "bosugodora",
+        "bossgodora",
+        "aggron",
+        "stolloss",
+        "galeking"
+    ],
+    "nan": [
+        "アサナン",
+        "asanan",
+        "asanan",
+        "meditite",
+        "meditie",
+        "meditikka"
+    ],
+    "med": [
+        "チャーレム",
+        "charemu",
+        "charem",
+        "medicham",
+        "meditalis",
+        "charmina"
+    ],
+    "rak": [
+        "ラクライ",
+        "rakurai",
+        "rakurai",
+        "electrike",
+        "frizelbliz",
+        "dynavolt"
+    ],
+    "rai": [
+        "ライボルト",
+        "raiboruto",
+        "livolt",
+        "manectric",
+        "voltenso",
+        "elecsprint"
+    ],
+    "pos": [
+        "プラスル",
+        "purasuru",
+        "prasle",
+        "plusle",
+        "plusle",
+        "posipi"
+    ],
+    "neg": [
+        "マイナン",
+        "mainan",
+        "minun",
+        "minun",
+        "minun",
+        "negapi"
+    ],
+    "bar": [
+        "バルビート",
+        "barubito",
+        "barubeat",
+        "volbeat",
+        "volbeat",
+        "muciole"
+    ],
+    "iru": [
+        "イルミーゼ",
+        "irumize",
+        "illumise",
+        "illumise",
+        "illumise",
+        "lumivole"
+    ],
+    "lia": [
+        "ロゼリア",
+        "rozeria",
+        "roselia",
+        "roselia",
+        "roselia",
+        "roselia"
+    ],
+    "glo": [
+        "ゴクリン",
+        "gokurin",
+        "gokulin",
+        "gulpin",
+        "schluppuck",
+        "gloupti"
+    ],
+    "ava": [
+        "マルノーム",
+        "marunomu",
+        "marunoom",
+        "swalot",
+        "schlukwech",
+        "avaltout"
+    ],
+    "kib": [
+        "キバニア",
+        "kibania",
+        "kibanha",
+        "carvanha",
+        "kanivanha",
+        "carvanha"
+    ],
+    "toh": [
+        "サメハダー",
+        "samehada",
+        "samehader",
+        "sharpedo",
+        "tohaido",
+        "sharpedo"
+    ],
+    "wai": [
+        "ホエルコ",
+        "hoeruko",
+        "hoeruko",
+        "wailmer",
+        "wailmer",
+        "wailmer"
+    ],
+    "il": [
+        "ホエルオー",
+        "hoeruo",
+        "whaloh",
+        "wailord",
+        "wailord",
+        "wailord"
+    ],
+    "cau": [
+        "ドンメル",
+        "donmeru",
+        "donmel",
+        "numel",
+        "camaub",
+        "chamallot"
+    ],
+    "cam": [
+        "バクーダ",
+        "bakuda",
+        "bakuuda",
+        "camerupt",
+        "camerupt",
+        "camerupt"
+    ],
+    "kot": [
+        "コータス",
+        "kotasu",
+        "cotoise",
+        "torkoal",
+        "qurtel",
+        "chartor"
+    ],
+    "spn": [
+        "バネブー",
+        "banebu",
+        "baneboo",
+        "spoink",
+        "spoink",
+        "spoink"
+    ],
+    "boo": [
+        "ブーピッグ",
+        "bupiggu",
+        "boopig",
+        "grumpig",
+        "groink",
+        "groret"
+    ],
+    "dir": [
+        "パッチール",
+        "patchiru",
+        "patcheel",
+        "spinda",
+        "pandir",
+        "spinda"
+    ],
+    "tp": [
+        "ナックラー",
+        "nakkura",
+        "nuckrar",
+        "trapinch",
+        "knacklion",
+        "kraknoix"
+    ],
+    "vib": [
+        "ビブラーバ",
+        "biburaba",
+        "vibrava",
+        "vibrava",
+        "vibrava",
+        "vibraninf"
+    ],
+    "lib": [
+        "フライゴン",
+        "furaigon",
+        "flygon",
+        "flygon",
+        "libelldra",
+        "libegon"
+    ],
+    "sab": [
+        "サボネア",
+        "sabonea",
+        "sabonea",
+        "cacnea",
+        "tuska",
+        "cacnea"
+    ],
+    "noc": [
+        "ノクタス",
+        "nokutasu",
+        "noctus",
+        "cacturne",
+        "noktuska",
+        "cacturne"
+    ],
+    "ty": [
+        "チルット",
+        "chirutto",
+        "tyltto",
+        "swablu",
+        "wablu",
+        "tylton"
+    ],
+    "alt": [
+        "チルタリス",
+        "chirutarisu",
+        "tyltalis",
+        "altaria",
+        "altaria",
+        "altaria"
+    ],
+    "zg": [
+        "ザングース",
+        "zangusu",
+        "zangoose",
+        "zangoose",
+        "sengo",
+        "mangriff"
+    ],
+    "vp": [
+        "ハブネーク",
+        "habuneku",
+        "habunake",
+        "seviper",
+        "vipitis",
+        "seviper"
+    ],
+    "sel": [
+        "ルナトーン",
+        "runaton",
+        "lunatone",
+        "lunatone",
+        "lunastein",
+        "seleroc"
+    ],
+    "sor": [
+        "ソルロック",
+        "sorurokku",
+        "solrock",
+        "solrock",
+        "sonnfel",
+        "solaroc"
+    ],
+    "jo": [
+        "ドジョッチ",
+        "dojotchi",
+        "dojoach",
+        "barboach",
+        "schmerbe",
+        "barloche"
+    ],
+    "wel": [
+        "ナマズン",
+        "namazun",
+        "namazun",
+        "whiscash",
+        "welsar",
+        "barbicha"
+    ],
+    "hei": [
+        "ヘイガニ",
+        "heigani",
+        "heigani",
+        "corphish",
+        "krebscorps",
+        "ecrapince"
+    ],
+    "cok": [
+        "シザリガー",
+        "shizariga",
+        "shizariger",
+        "crawdaunt",
+        "krebutack",
+        "colhomard"
+    ],
+    "yj": [
+        "ヤジロン",
+        "yajiron",
+        "yajilon",
+        "baltoy",
+        "puppance",
+        "balbuto"
+    ],
+    "lep": [
+        "ネンドール",
+        "nendoru",
+        "nendoll",
+        "claydol",
+        "lepumentas",
+        "kaorine"
+    ],
+    "rir": [
+        "リリーラ",
+        "ririra",
+        "lilyla",
+        "lileep",
+        "liliep",
+        "lilia"
+    ],
+    "cd": [
+        "ユレイドル",
+        "yureidoru",
+        "yuradle",
+        "cradily",
+        "wielie",
+        "vacilys"
+    ],
+    "ano": [
+        "アノプス",
+        "anopusu",
+        "anopth",
+        "anorith",
+        "anorith",
+        "anorith"
+    ],
+    "arm": [
+        "アーマルド",
+        "amarudo",
+        "armaldo",
+        "armaldo",
+        "armaldo",
+        "armaldo"
+    ],
+    "hw": [
+        "ヒンバス",
+        "hinbasu",
+        "hinbass",
+        "feebas",
+        "barschwa",
+        "barpau"
+    ],
+    "mir": [
+        "ミロカロス",
+        "mirokarosu",
+        "milokaross",
+        "milotic",
+        "milotic",
+        "milobellus"
+    ],
+    "pow": [
+        "ポワルン",
+        "powarun",
+        "powalen",
+        "castform",
+        "formeo",
+        "morpheo"
+    ],
+    "kak": [
+        "カクレオン",
+        "kakureon",
+        "kakureon",
+        "kecleon",
+        "kecleon",
+        "kecleon"
+    ],
+    "kag": [
+        "カゲボウズ",
+        "kagebozu",
+        "kagebouzu",
+        "shuppet",
+        "shuppet",
+        "polichombr"
+    ],
+    "bra": [
+        "ジュペッタ",
+        "jupetta",
+        "juppeta",
+        "banette",
+        "banette",
+        "branette"
+    ],
+    "nx": [
+        "ヨマワル",
+        "yomawaru",
+        "yomawaru",
+        "duskull",
+        "zwirrlicht",
+        "skelenox"
+    ],
+    "sam": [
+        "サマヨール",
+        "samayoru",
+        "samayouru",
+        "dusclops",
+        "zwirrklop",
+        "teraclope"
+    ],
+    "tro": [
+        "トロピウス",
+        "toropiusu",
+        "tropius",
+        "tropius",
+        "tropius",
+        "tropius"
+    ],
+    "eok": [
+        "チリーン",
+        "chirin",
+        "chirean",
+        "chimecho",
+        "palimpalim",
+        "eoko"
+    ],
+    "abs": [
+        "アブソル",
+        "abusoru",
+        "absol",
+        "absol",
+        "absol",
+        "absol"
+    ],
+    "is": [
+        "ソーナノ",
+        "sonano",
+        "sohnano",
+        "wynaut",
+        "isso",
+        "okeoke"
+    ],
+    "nor": [
+        "ユキワラシ",
+        "yukiwarashi",
+        "yukiwarashi",
+        "snorunt",
+        "schneppke",
+        "stalgamin"
+    ],
+    "fir": [
+        "オニゴーリ",
+        "onigori",
+        "onigohri",
+        "glalie",
+        "firnontor",
+        "oniglali"
+    ],
+    "ob": [
+        "タマザラシ",
+        "tamazarashi",
+        "tamazarashi",
+        "spheal",
+        "seemops",
+        "obalie"
+    ],
+    "pho": [
+        "トドグラー",
+        "todogura",
+        "todoggler",
+        "sealeo",
+        "seejong",
+        "phogleur"
+    ],
+    "wal": [
+        "トドゼルガ",
+        "todozeruga",
+        "todoseruga",
+        "walrein",
+        "walraisa",
+        "kaimorse"
+    ],
+    "lq": [
+        "パールル",
+        "paruru",
+        "pearlulu",
+        "clamperl",
+        "perlu",
+        "coquiperl"
+    ],
+    "aa": [
+        "ハンテール",
+        "hanteru",
+        "huntail",
+        "huntail",
+        "aalabyss",
+        "serpang"
+    ],
+    "sak": [
+        "サクラビス",
+        "sakurabisu",
+        "sakurabyss",
+        "gorebyss",
+        "saganabyss",
+        "rosabyss"
+    ],
+    "ans": [
+        "ジーランス",
+        "jiransu",
+        "glanth",
+        "relicanth",
+        "relicanth",
+        "relicanth"
+    ],
+    "lov": [
+        "ラブカス",
+        "rabukasu",
+        "lovecus",
+        "luvdisc",
+        "liebiskus",
+        "lovdisc"
+    ],
+    "bg": [
+        "タツベイ",
+        "tatsubei",
+        "tatsubay",
+        "bagon",
+        "kindwurm",
+        "draby"
+    ],
+    "kom": [
+        "コモルー",
+        "komoru",
+        "komoruu",
+        "shelgon",
+        "draschel",
+        "drackhaus"
+    ],
+    "bom": [
+        "ボーマンダ",
+        "bomanda",
+        "bohmander",
+        "salamence",
+        "brutalanda",
+        "drattak"
+    ],
+    "dan": [
+        "ダンバル",
+        "danbaru",
+        "dumbber",
+        "beldum",
+        "tanhel",
+        "terhal"
+    ],
+    "mt": [
+        "メタング",
+        "metangu",
+        "metang",
+        "metang",
+        "metang",
+        "metang"
+    ],
+    "mg": [
+        "メタグロス",
+        "metagurosu",
+        "metagross",
+        "metagross",
+        "metagross",
+        "metalosse"
+    ],
+    "jro": [
+        "レジロック",
+        "rejirokku",
+        "regirock",
+        "regirock",
+        "regirock",
+        "regirock"
+    ],
+    "jic": [
+        "レジアイス",
+        "rejiaisu",
+        "regice",
+        "regice",
+        "regice",
+        "regice"
+    ],
+    "jst": [
+        "レジスチル",
+        "rejisuchiru",
+        "registeel",
+        "registeel",
+        "registeel",
+        "registeel"
+    ],
+    "ias": [
+        "ラティアス",
+        "ratiasu",
+        "latias",
+        "latias",
+        "latias",
+        "latias"
+    ],
+    "ios": [
+        "ラティオス",
+        "ratiosu",
+        "latios",
+        "latios",
+        "latios",
+        "latios"
+    ],
+    "kai": [
+        "カイオーガ",
+        "kaioga",
+        "kyogre",
+        "kyogre",
+        "kyogre",
+        "kyogre"
+    ],
+    "gro": [
+        "グラードン",
+        "guradon",
+        "groudon",
+        "groudon",
+        "groudon",
+        "groudon"
+    ],
+    "rek": [
+        "レックウザ",
+        "rekkuza",
+        "rayquaza",
+        "rayquaza",
+        "rayquaza",
+        "rayquaza"
+    ],
+    "jir": [
+        "ジラーチ",
+        "jirachi",
+        "jirachi",
+        "jirachi",
+        "jirachi",
+        "jirachi"
+    ],
+    "deo": [
+        "デオキシス",
+        "deokishisu",
+        "deoxys",
+        "deoxys",
+        "deoxys",
+        "deoxys"
+    ],
+    "nae": [
+        "ナエトル",
+        "naetoru",
+        "naetle",
+        "turtwig",
+        "chelast",
+        "tortipouss"
+    ],
+    "hc": [
+        "ハヤシガメ",
+        "hayashigame",
+        "hayashigame",
+        "grotle",
+        "chelcarain",
+        "boskara"
+    ],
+    "dod": [
+        "ドダイトス",
+        "dodaitosu",
+        "dodaitose",
+        "torterra",
+        "chelterrar",
+        "torterra"
+    ],
+    "paf": [
+        "ヒコザル",
+        "hikozaru",
+        "hikozaru",
+        "chimchar",
+        "panflam",
+        "ouisticram"
+    ],
+    "mof": [
+        "モウカザル",
+        "mokazaru",
+        "moukazaru",
+        "monferno",
+        "panpyro",
+        "chimpenfeu"
+    ],
+    "gok": [
+        "ゴウカザル",
+        "gokazaru",
+        "goukazaru",
+        "infernape",
+        "panferno",
+        "simiabraz"
+    ],
+    "pc": [
+        "ポッチャマ",
+        "potchama",
+        "pochama",
+        "piplup",
+        "plinfa",
+        "tiplouf"
+    ],
+    "pt": [
+        "ポッタイシ",
+        "pottaishi",
+        "pottaishi",
+        "prinplup",
+        "pliprin",
+        "prinplouf"
+    ],
+    "emp": [
+        "エンペルト",
+        "enperuto",
+        "emperte",
+        "empoleon",
+        "impoleon",
+        "pingoleon"
+    ],
+    "mk": [
+        "ムックル",
+        "mukkuru",
+        "mukkuru",
+        "starly",
+        "staralili",
+        "etourmi"
+    ],
+    "et": [
+        "ムクバード",
+        "mukubado",
+        "mukubird",
+        "staravia",
+        "staravia",
+        "etourvol"
+    ],
+    "hok": [
+        "ムクホーク",
+        "mukuhoku",
+        "mukuhawk",
+        "staraptor",
+        "staraptor",
+        "etouraptor"
+    ],
+    "eu": [
+        "ビッパ",
+        "bippa",
+        "bippa",
+        "bidoof",
+        "bidiza",
+        "keunotor"
+    ],
+    "bid": [
+        "ビーダル",
+        "bidaru",
+        "beadaru",
+        "bibarel",
+        "bidifas",
+        "castorno"
+    ],
+    "zir": [
+        "コロボーシ",
+        "koroboshi",
+        "korobohshi",
+        "kricketot",
+        "zirpurze",
+        "crikzik"
+    ],
+    "kri": [
+        "コロトック",
+        "korotokku",
+        "korotock",
+        "kricketune",
+        "zirpeise",
+        "melokrik"
+    ],
+    "lx": [
+        "コリンク",
+        "korinku",
+        "kolink",
+        "shinx",
+        "sheinux",
+        "lixy"
+    ],
+    "lu": [
+        "ルクシオ",
+        "rukushio",
+        "luxio",
+        "luxio",
+        "luxio",
+        "luxio"
+    ],
+    "ren": [
+        "レントラー",
+        "rentora",
+        "rentorar",
+        "luxray",
+        "luxtra",
+        "luxray"
+    ],
+    "bud": [
+        "スボミー",
+        "subomi",
+        "subomie",
+        "budew",
+        "knospi",
+        "rozbouton"
+    ],
+    "ros": [
+        "ロズレイド",
+        "rozureido",
+        "roserade",
+        "roserade",
+        "roserade",
+        "roserade"
+    ],
+    "gai": [
+        "ズガイドス",
+        "zugaidosu",
+        "zugaidos",
+        "cranidos",
+        "koknodon",
+        "kranidos"
+    ],
+    "ram": [
+        "ラムパルド",
+        "ramuparudo",
+        "rampald",
+        "rampardos",
+        "rameidon",
+        "charkos"
+    ],
+    "iea": [
+        "タテトプス",
+        "tatetopusu",
+        "tatetops",
+        "shieldon",
+        "schilterus",
+        "dinoclier"
+    ],
+    "bol": [
+        "トリデプス",
+        "toridepusu",
+        "torideps",
+        "bastiodon",
+        "bollterus",
+        "bastiodon"
+    ],
+    "bm": [
+        "ミノムッチ",
+        "minomutchi",
+        "minomucchi",
+        "burmy",
+        "burmy",
+        "cheniti"
+    ],
+    "mad": [
+        "ミノマダム",
+        "minomadamu",
+        "minomadam",
+        "wormadam",
+        "burmadame",
+        "cheniselle"
+    ],
+    "mot": [
+        "ガーメイル",
+        "gameiru",
+        "gamale",
+        "mothim",
+        "moterpel",
+        "papilord"
+    ],
+    "com": [
+        "ミツハニー",
+        "mitsuhani",
+        "mitsuhoney",
+        "combee",
+        "wadribie",
+        "apitrini"
+    ],
+    "api": [
+        "ビークイン",
+        "bikuin",
+        "beequen",
+        "vespiquen",
+        "honweisel",
+        "apireine"
+    ],
+    "pac": [
+        "パチリス",
+        "pachirisu",
+        "pachirisu",
+        "pachirisu",
+        "pachirisu",
+        "pachirisu"
+    ],
+    "bh": [
+        "ブイゼル",
+        "buizeru",
+        "buoysel",
+        "buizel",
+        "bamelin",
+        "mustebouee"
+    ],
+    "bj": [
+        "フローゼル",
+        "furozeru",
+        "floazel",
+        "floatzel",
+        "bojelin",
+        "musteflott"
+    ],
+    "kig": [
+        "チェリンボ",
+        "cherinbo",
+        "cherinbo",
+        "cherubi",
+        "kikugi",
+        "ceribou"
+    ],
+    "fue": [
+        "チェリム",
+        "cherimu",
+        "cherrim",
+        "cherrim",
+        "kinoso",
+        "ceriflor"
+    ],
+    "shl": [
+        "カラナクシ",
+        "karanakushi",
+        "karanakushi",
+        "shellos",
+        "schalellos",
+        "sancoki"
+    ],
+    "tor": [
+        "トリトドン",
+        "toritodon",
+        "tritodon",
+        "gastrodon",
+        "gastrodon",
+        "tritosor"
+    ],
+    "amb": [
+        "エテボース",
+        "etebosu",
+        "eteboth",
+        "ambipom",
+        "ambidiffel",
+        "capidextre"
+    ],
+    "bau": [
+        "フワンテ",
+        "fuwante",
+        "fuwante",
+        "drifloon",
+        "driftlon",
+        "baudrive"
+    ],
+    "fuw": [
+        "フワライド",
+        "fuwaraido",
+        "fuwaride",
+        "drifblim",
+        "drifzepeli",
+        "grodrive"
+    ],
+    "lap": [
+        "ミミロル",
+        "mimiroru",
+        "mimirol",
+        "buneary",
+        "haspiror",
+        "laporeille"
+    ],
+    "loc": [
+        "ミミロップ",
+        "mimiroppu",
+        "mimilop",
+        "lopunny",
+        "schlapor",
+        "lockpin"
+    ],
+    "ire": [
+        "ムウマージ",
+        "mumaji",
+        "mumargi",
+        "mismagius",
+        "traunmagil",
+        "magireve"
+    ],
+    "ong": [
+        "ドンカラス",
+        "donkarasu",
+        "dongkarasu",
+        "honchkrow",
+        "kramshef",
+        "corboss"
+    ],
+    "gla": [
+        "ニャルマー",
+        "nyaruma",
+        "nyarmar",
+        "glameow",
+        "charmian",
+        "chaglam"
+    ],
+    "shn": [
+        "ブニャット",
+        "bunyatto",
+        "bunyatto",
+        "purugly",
+        "shnurgarst",
+        "chaffreux"
+    ],
+    "lis": [
+        "リーシャン",
+        "rishan",
+        "lisyan",
+        "chingling",
+        "klingplim",
+        "korillon"
+    ],
+    "stu": [
+        "スカンプー",
+        "sukanpu",
+        "skunpuu",
+        "stunky",
+        "skunkapuh",
+        "moufouette"
+    ],
+    "kat": [
+        "スカタンク",
+        "sukatanku",
+        "skutank",
+        "skuntank",
+        "skuntank",
+        "moufflair"
+    ],
+    "dom": [
+        "ドーミラー",
+        "domira",
+        "dohmirror",
+        "bronzor",
+        "bronzel",
+        "archeomire"
+    ],
+    "bro": [
+        "ドータクン",
+        "dotakun",
+        "dohtakun",
+        "bronzong",
+        "bronzong",
+        "archeodong"
+    ],
+    "bon": [
+        "ウソハチ",
+        "usohachi",
+        "usohachi",
+        "bonsly",
+        "mobai",
+        "manzai"
+    ],
+    "nt": [
+        "マネネ",
+        "manene",
+        "manene",
+        "mime jr.",
+        "pantimimi",
+        "mime jr."
+    ],
+    "won": [
+        "ピンプク",
+        "pinpuku",
+        "pinpuku",
+        "happiny",
+        "wonneira",
+        "ptiravi"
+    ],
+    "pla": [
+        "ペラップ",
+        "perappu",
+        "perap",
+        "chatot",
+        "plaudagei",
+        "pijako"
+    ],
+    "spi": [
+        "ミカルゲ",
+        "mikaruge",
+        "mikaruge",
+        "spiritomb",
+        "kryppuk",
+        "spiritomb"
+    ],
+    "gk": [
+        "フカマル",
+        "fukamaru",
+        "fukamaru",
+        "gible",
+        "kaumalat",
+        "griknot"
+    ],
+    "uq": [
+        "ガバイト",
+        "gabaito",
+        "gabite",
+        "gabite",
+        "knarksel",
+        "carmache"
+    ],
+    "uy": [
+        "ガブリアス",
+        "gaburiasu",
+        "gaburias",
+        "garchomp",
+        "knakrack",
+        "carchacrok"
+    ],
+    "lax": [
+        "ゴンベ",
+        "gonbe",
+        "gonbe",
+        "munchlax",
+        "mampfaxo",
+        "goinfrex"
+    ],
+    "rio": [
+        "リオル",
+        "rioru",
+        "riolu",
+        "riolu",
+        "riolu",
+        "riolu"
+    ],
+    "uc": [
+        "ルカリオ",
+        "rukario",
+        "lucario",
+        "lucario",
+        "lucario",
+        "lucario"
+    ],
+    "hip": [
+        "ヒポポタス",
+        "hipopotasu",
+        "hippopotas",
+        "hippopotas",
+        "hippopotas",
+        "hippopotas"
+    ],
+    "ip": [
+        "カバルドン",
+        "kabarudon",
+        "kabaldon",
+        "hippowdon",
+        "hippoterus",
+        "hippodocus"
+    ],
+    "sko": [
+        "スコルピ",
+        "sukorupi",
+        "scorupi",
+        "skorupi",
+        "pionskora",
+        "rapion"
+    ],
+    "dor": [
+        "ドラピオン",
+        "dorapion",
+        "dorapion",
+        "drapion",
+        "piondragi",
+        "drascore"
+    ],
+    "cp": [
+        "グレッグル",
+        "guregguru",
+        "gureggru",
+        "croagunk",
+        "glibunkel",
+        "cradopaud"
+    ],
+    "coa": [
+        "ドクロッグ",
+        "dokuroggu",
+        "dokurog",
+        "toxicroak",
+        "toxiquak",
+        "coatox"
+    ],
+    "vin": [
+        "マスキッパ",
+        "masukippa",
+        "muskippa",
+        "carnivine",
+        "venuflibis",
+        "vortente"
+    ],
+    "fin": [
+        "ケイコウオ",
+        "keikoo",
+        "keikouo",
+        "finneon",
+        "finneon",
+        "ecayon"
+    ],
+    "neo": [
+        "ネオラント",
+        "neoranto",
+        "neolant",
+        "lumineon",
+        "lumineon",
+        "lumineon"
+    ],
+    "tam": [
+        "タマンタ",
+        "tamanta",
+        "tamanta",
+        "mantyke",
+        "mantirps",
+        "babimanta"
+    ],
+    "nov": [
+        "ユキカブリ",
+        "yukikaburi",
+        "yukikaburi",
+        "snover",
+        "shnebedeck",
+        "blizzi"
+    ],
+    "bli": [
+        "ユキノオー",
+        "yukinoo",
+        "yukinooh",
+        "abomasnow",
+        "rexblisar",
+        "blizzaroi"
+    ],
+    "dim": [
+        "マニューラ",
+        "manyura",
+        "manyula",
+        "weavile",
+        "snibunna",
+        "dimoret"
+    ],
+    "jib": [
+        "ジバコイル",
+        "jibakoiru",
+        "jibacoil",
+        "magnezone",
+        "magnezone",
+        "magnezone"
+    ],
+    "ly": [
+        "ベロベルト",
+        "beroberuto",
+        "berobelt",
+        "lickilicky",
+        "schlurplek",
+        "coudlangue"
+    ],
+    "dos": [
+        "ドサイドン",
+        "dosaidon",
+        "dosidon",
+        "rhyperior",
+        "rihornior",
+        "rhinastoc"
+    ],
+    "who": [
+        "モジャンボ",
+        "mojanbo",
+        "mojumbo",
+        "tangrowth",
+        "tangoloss",
+        "bouldeneu"
+    ],
+    "ekb": [
+        "エレキブル",
+        "erekiburu",
+        "elekible",
+        "electivire",
+        "elevoltek",
+        "elekable"
+    ],
+    "bn": [
+        "ブーバーン",
+        "buban",
+        "booburn",
+        "magmortar",
+        "magbrant",
+        "maganon"
+    ],
+    "tk": [
+        "トゲキッス",
+        "togekissu",
+        "togekiss",
+        "togekiss",
+        "togekiss",
+        "togekiss"
+    ],
+    "jw": [
+        "メガヤンマ",
+        "megayanma",
+        "megayanma",
+        "yanmega",
+        "yanmega",
+        "yanmega"
+    ],
+    "rif": [
+        "リーフィア",
+        "rifia",
+        "leafia",
+        "leafeon",
+        "folipurba",
+        "phyllali"
+    ],
+    "rn": [
+        "グレイシア",
+        "gureishia",
+        "glacia",
+        "glaceon",
+        "glaziola",
+        "givrali"
+    ],
+    "gli": [
+        "グライオン",
+        "guraion",
+        "glion",
+        "gliscor",
+        "skorgro",
+        "scorvol"
+    ],
+    "mam": [
+        "マンムー",
+        "manmu",
+        "mammoo",
+        "mamoswine",
+        "mamutel",
+        "mammochon"
+    ],
+    "3": [
+        "ポリゴンＺ",
+        "porigonz",
+        "porygon-z",
+        "porygon-z",
+        "porygon-z",
+        "porygon-z"
+    ],
+    "eru": [
+        "エルレイド",
+        "erureido",
+        "erureido",
+        "gallade",
+        "galagladi",
+        "gallame"
+    ],
+    "dai": [
+        "ダイノーズ",
+        "dainozu",
+        "dainose",
+        "probopass",
+        "voluminas",
+        "tarinorme"
+    ],
+    "yon": [
+        "ヨノワール",
+        "yonowaru",
+        "yonoir",
+        "dusknoir",
+        "zwirrfinst",
+        "noctunoir"
+    ],
+    "mom": [
+        "ユキメノコ",
+        "yukimenoko",
+        "yukimenoko",
+        "froslass",
+        "frosdedje",
+        "momartik"
+    ],
+    "rot": [
+        "ロトム",
+        "rotomu",
+        "rotom",
+        "rotom",
+        "rotom",
+        "motisma"
+    ],
+    "ux": [
+        "ユクシー",
+        "yukushi",
+        "yuxie",
+        "uxie",
+        "selfe",
+        "crehelf"
+    ],
+    "emr": [
+        "エムリット",
+        "emuritto",
+        "emrit",
+        "mesprit",
+        "vesprit",
+        "crefollet"
+    ],
+    "agu": [
+        "アグノム",
+        "agunomu",
+        "agnome",
+        "azelf",
+        "tobutz",
+        "crefadet"
+    ],
+    "ial": [
+        "ディアルガ",
+        "diaruga",
+        "dialga",
+        "dialga",
+        "dialga",
+        "dialga"
+    ],
+    "kia": [
+        "パルキア",
+        "parukia",
+        "palkia",
+        "palkia",
+        "palkia",
+        "palkia"
+    ],
+    "hid": [
+        "ヒードラン",
+        "hidoran",
+        "heatran",
+        "heatran",
+        "heatran",
+        "heatran"
+    ],
+    "jgi": [
+        "レジギガス",
+        "rejigigasu",
+        "regigigas",
+        "regigigas",
+        "regigigas",
+        "regigigas"
+    ],
+    "tina": [
+        "ギラティナ",
+        "giratina",
+        "giratina",
+        "giratina",
+        "giratina",
+        "giratina"
+    ],
+    "ker": [
+        "クレセリア",
+        "kureseria",
+        "cresselia",
+        "cresselia",
+        "cresselia",
+        "cresselia"
+    ],
+    "fio": [
+        "フィオネ",
+        "fione",
+        "phione",
+        "phione",
+        "phione",
+        "phione"
+    ],
+    "afi": [
+        "マナフィ",
+        "manafi",
+        "manaphy",
+        "manaphy",
+        "manaphy",
+        "manaphy"
+    ],
+    "dak": [
+        "ダークライ",
+        "dakurai",
+        "darkrai",
+        "darkrai",
+        "darkrai",
+        "darkrai"
+    ],
+    "she": [
+        "シェイミ",
+        "sheimi",
+        "shaymin",
+        "shaymin",
+        "shaymin",
+        "shaymin"
+    ],
+    "ceu": [
+        "アルセウス",
+        "aruseusu",
+        "arceus",
+        "arceus",
+        "arceus",
+        "arceus"
+    ],
+    "tini": [
+        "ビクティニ",
+        "bikutini",
+        "victini",
+        "victini",
+        "victini",
+        "victini"
+    ],
+    "ts": [
+        "ツタージャ",
+        "tsutaja",
+        "tsutarja",
+        "snivy",
+        "serpifeu",
+        "vipelierre"
+    ],
+    "efo": [
+        "ジャノビー",
+        "janobi",
+        "janovy",
+        "servine",
+        "efoserp",
+        "lianaja"
+    ],
+    "maj": [
+        "ジャローダ",
+        "jaroda",
+        "jalorda",
+        "serperior",
+        "serpiroyal",
+        "majaspic"
+    ],
+    "pok": [
+        "ポカブ",
+        "pokabu",
+        "pokabu",
+        "tepig",
+        "floink",
+        "gruikui"
+    ],
+    "aob": [
+        "チャオブー",
+        "chaobu",
+        "chaoboo",
+        "pignite",
+        "ferkokel",
+        "grotichon"
+    ],
+    "enb": [
+        "エンブオー",
+        "enbuo",
+        "enbuoh",
+        "emboar",
+        "flambirex",
+        "roitiflam"
+    ],
+    "ont": [
+        "ミジュマル",
+        "mijumaru",
+        "mijumaru",
+        "oshawott",
+        "ottaro",
+        "moustillon"
+    ],
+    "mat": [
+        "フタチマル",
+        "futachimaru",
+        "futachimaru",
+        "dewott",
+        "zwottronin",
+        "mateloutre"
+    ],
+    "adm": [
+        "ダイケンキ",
+        "daikenki",
+        "daikenki",
+        "samurott",
+        "admurai",
+        "clamiral"
+    ],
+    "lot": [
+        "ミネズミ",
+        "minezumi",
+        "minezumi",
+        "patrat",
+        "nagelotz",
+        "ratentif"
+    ],
+    "hog": [
+        "ミルホッグ",
+        "miruhoggu",
+        "miruhog",
+        "watchog",
+        "kukmarda",
+        "miradar"
+    ],
+    "ei": [
+        "ヨーテリー",
+        "yoteri",
+        "yorterrie",
+        "lillipup",
+        "yorkleff",
+        "ponchiot"
+    ],
+    "had": [
+        "ハーデリア",
+        "haderia",
+        "herderrie",
+        "herdier",
+        "terribark",
+        "ponchien"
+    ],
+    "sto": [
+        "ムーランド",
+        "murando",
+        "mooland",
+        "stoutland",
+        "bissbark",
+        "mastouffe"
+    ],
+    "cha": [
+        "チョロネコ",
+        "choroneko",
+        "choroneko",
+        "purrloin",
+        "felilou",
+        "chacripan"
+    ],
+    "rep": [
+        "レパルダス",
+        "reparudasu",
+        "lepardas",
+        "liepard",
+        "kleoparda",
+        "leopardus"
+    ],
+    "sg": [
+        "ヤナップ",
+        "yanappu",
+        "yanappu",
+        "pansage",
+        "vegimak",
+        "feuillajou"
+    ],
+    "kta": [
+        "ヤナッキー",
+        "yanakki",
+        "yanakkie",
+        "simisage",
+        "vegichita",
+        "feuiloutan"
+    ],
+    "pan": [
+        "バオップ",
+        "baoppu",
+        "baoppu",
+        "pansear",
+        "grillmak",
+        "flamajou"
+    ],
+    "bao": [
+        "バオッキー",
+        "baokki",
+        "baokkie",
+        "simisear",
+        "grillchita",
+        "flamoutan"
+    ],
+    "sod": [
+        "ヒヤップ",
+        "hiyappu",
+        "hiyappu",
+        "panpour",
+        "sodamak",
+        "flotajou"
+    ],
+    "yp": [
+        "ヒヤッキー",
+        "hiyakki",
+        "hiyakkie",
+        "simipour",
+        "sodachita",
+        "flotoutan"
+    ],
+    "som": [
+        "ムンナ",
+        "munna",
+        "munna",
+        "munna",
+        "somniam",
+        "munna"
+    ],
+    "ana": [
+        "ムシャーナ",
+        "mushana",
+        "musharna",
+        "musharna",
+        "somnivora",
+        "mushana"
+    ],
+    "pid": [
+        "マメパト",
+        "mamepato",
+        "mamepato",
+        "pidove",
+        "dusselgurr",
+        "poichigeon"
+    ],
+    "nav": [
+        "ハトーボー",
+        "hatobo",
+        "hatoboh",
+        "tranquill",
+        "navitaub",
+        "colombeau"
+    ],
+    "fas": [
+        "ケンホロウ",
+        "kenhoro",
+        "kenhallow",
+        "unfezant",
+        "fasasnob",
+        "deflaisan"
+    ],
+    "shi": [
+        "シママ",
+        "shimama",
+        "shimama",
+        "blitzle",
+        "elezeba",
+        "zebibron"
+    ],
+    "zb": [
+        "ゼブライカ",
+        "zeburaika",
+        "zebraika",
+        "zebstrika",
+        "zebritz",
+        "zeblitz"
+    ],
+    "nod": [
+        "ダンゴロ",
+        "dangoro",
+        "dangoro",
+        "roggenrola",
+        "kiesling",
+        "nodulithe"
+    ],
+    "gt": [
+        "ガントル",
+        "gantoru",
+        "gantle",
+        "boldore",
+        "sedimantur",
+        "geolithe"
+    ],
+    "gig": [
+        "ギガイアス",
+        "gigaiasu",
+        "gigaiath",
+        "gigalith",
+        "brockoloss",
+        "gigalithe"
+    ],
+    "vs": [
+        "コロモリ",
+        "koromori",
+        "koromori",
+        "woobat",
+        "fleknoil",
+        "chovsourir"
+    ],
+    "rh": [
+        "ココロモリ",
+        "kokoromori",
+        "kokoromori",
+        "swoobat",
+        "fletiamo",
+        "rhinolove"
+    ],
+    "mog": [
+        "モグリュー",
+        "moguryu",
+        "mogurew",
+        "drilbur",
+        "rotomurf",
+        "rototaupe"
+    ],
+    "dou": [
+        "ドリュウズ",
+        "doryuzu",
+        "doryuzu",
+        "excadrill",
+        "stalobor",
+        "minotaupe"
+    ],
+    "ado": [
+        "タブンネ",
+        "tabunne",
+        "tabunne",
+        "audino",
+        "ohrdoch",
+        "nanmeouie"
+    ],
+    "dok": [
+        "ドッコラー",
+        "dokkora",
+        "dokkorer",
+        "timburr",
+        "praktibalk",
+        "charpenti"
+    ],
+    "ou": [
+        "ドテッコツ",
+        "dotekkotsu",
+        "dotekkotsu",
+        "gurdurr",
+        "strepoli",
+        "ouvrifier"
+    ],
+    "ror": [
+        "ローブシン",
+        "robushin",
+        "roubushin",
+        "conkeldurr",
+        "meistagrif",
+        "betochef"
+    ],
+    "otm": [
+        "オタマロ",
+        "otamaro",
+        "otamaro",
+        "tympole",
+        "schallquap",
+        "tritonde"
+    ],
+    "alp": [
+        "ガマガル",
+        "gamagaru",
+        "gamagaru",
+        "palpitoad",
+        "mebrana",
+        "batracne"
+    ],
+    "gam": [
+        "ガマゲロゲ",
+        "gamageroge",
+        "gamageroge",
+        "seismitoad",
+        "branawarz",
+        "crapustule"
+    ],
+    "nag": [
+        "ナゲキ",
+        "nageki",
+        "nageki",
+        "throh",
+        "jiutesto",
+        "judokrak"
+    ],
+    "acl": [
+        "ダゲキ",
+        "dageki",
+        "dageki",
+        "sawk",
+        "karadonis",
+        "karaclee"
+    ],
+    "lar": [
+        "クルミル",
+        "kurumiru",
+        "kurumiru",
+        "sewaddle",
+        "strawickl",
+        "larveyette"
+    ],
+    "cou": [
+        "クルマユ",
+        "kurumayu",
+        "kurumayu",
+        "swadloon",
+        "folikon",
+        "couverdure"
+    ],
+    "hah": [
+        "ハハコモリ",
+        "hahakomori",
+        "hahakomori",
+        "leavanny",
+        "matrifol",
+        "manternel"
+    ],
+    "fs": [
+        "フシデ",
+        "fushide",
+        "fushide",
+        "venipede",
+        "toxiped",
+        "venipatte"
+    ],
+    "hoi": [
+        "ホイーガ",
+        "hoiga",
+        "wheega",
+        "whirlipede",
+        "rollum",
+        "scobolide"
+    ],
+    "pen": [
+        "ペンドラー",
+        "pendora",
+        "pendror",
+        "scolipede",
+        "cerapendra",
+        "brutapode"
+    ],
+    "wm": [
+        "モンメン",
+        "monmen",
+        "monmen",
+        "cottonee",
+        "waumboll",
+        "doudouvet"
+    ],
+    "lf": [
+        "エルフーン",
+        "erufun",
+        "elfuun",
+        "whimsicott",
+        "elfun",
+        "farfaduvet"
+    ],
+    "chu": [
+        "チュリネ",
+        "churine",
+        "churine",
+        "petilil",
+        "lilminip",
+        "chlorobule"
+    ],
+    "agl": [
+        "ドレディア",
+        "doredia",
+        "dredear",
+        "lilligant",
+        "dressella",
+        "fragilady"
+    ],
+    "bas": [
+        "バスラオ",
+        "basurao",
+        "bassrao",
+        "basculin",
+        "barschuft",
+        "bargantua"
+    ],
+    "gan": [
+        "メグロコ",
+        "meguroko",
+        "meguroco",
+        "sandile",
+        "ganovil",
+        "mascaiman"
+    ],
+    "rok": [
+        "ワルビル",
+        "warubiru",
+        "waruvile",
+        "krokorok",
+        "rokkaiman",
+        "escroco"
+    ],
+    "wr": [
+        "ワルビアル",
+        "warubiaru",
+        "waruvial",
+        "krookodile",
+        "rabigator",
+        "crocorible"
+    ],
+    "uh": [
+        "ダルマッカ",
+        "darumakka",
+        "darumakka",
+        "darumaka",
+        "flampion",
+        "darumarond"
+    ],
+    "hih": [
+        "ヒヒダルマ",
+        "hihidaruma",
+        "hihidaruma",
+        "darmanitan",
+        "flampivian",
+        "darumacho"
+    ],
+    "mar": [
+        "マラカッチ",
+        "marakatchi",
+        "maracacchi",
+        "maractus",
+        "maracamba",
+        "maracachi"
+    ],
+    "dw": [
+        "イシズマイ",
+        "ishizumai",
+        "ishizumai",
+        "dwebble",
+        "lithomith",
+        "crabicoque"
+    ],
+    "iw": [
+        "イワパレス",
+        "iwaparesu",
+        "iwapalace",
+        "crustle",
+        "castellith",
+        "crabaraque"
+    ],
+    "bag": [
+        "ズルッグ",
+        "zuruggu",
+        "zuruggu",
+        "scraggy",
+        "zurrokex",
+        "baggiguane"
+    ],
+    "zu": [
+        "ズルズキン",
+        "zuruzukin",
+        "zuruzukin",
+        "scrafty",
+        "irokex",
+        "baggaid"
+    ],
+    "sig": [
+        "シンボラー",
+        "shinbora",
+        "symboler",
+        "sigilyph",
+        "symvolara",
+        "cryptero"
+    ],
+    "tut": [
+        "デスマス",
+        "desumasu",
+        "desumasu",
+        "yamask",
+        "makabaja",
+        "tutafeh"
+    ],
+    "cof": [
+        "デスカーン",
+        "desukan",
+        "desukarn",
+        "cofagrigus",
+        "echnatoll",
+        "tutankafer"
+    ],
+    "pro": [
+        "プロトーガ",
+        "purotoga",
+        "protoga",
+        "tirtouga",
+        "galapaflos",
+        "carapagos"
+    ],
+    "aba": [
+        "アバゴーラ",
+        "abagora",
+        "abagoura",
+        "carracosta",
+        "karippas",
+        "megapagos"
+    ],
+    "ake": [
+        "アーケン",
+        "aken",
+        "archen",
+        "archen",
+        "flapteryx",
+        "arkeapti"
+    ],
+    "erh": [
+        "アーケオス",
+        "akeosu",
+        "archeos",
+        "archeops",
+        "aeropteryx",
+        "aeropteryx"
+    ],
+    "unr": [
+        "ヤブクロン",
+        "yabukuron",
+        "yabukuron",
+        "trubbish",
+        "unratutox",
+        "miamiasme"
+    ],
+    "dep": [
+        "ダストダス",
+        "dasutodasu",
+        "dustdas",
+        "garbodor",
+        "deponitox",
+        "miasmax"
+    ],
+    "zo": [
+        "ゾロア",
+        "zoroa",
+        "zorua",
+        "zorua",
+        "zorua",
+        "zorua"
+    ],
+    "zk": [
+        "ゾロアーク",
+        "zoroaku",
+        "zoroark",
+        "zoroark",
+        "zoroark",
+        "zoroark"
+    ],
+    "mm": [
+        "チラーミィ",
+        "chirami",
+        "chillarmy",
+        "minccino",
+        "picochilla",
+        "chinchidou"
+    ],
+    "cc": [
+        "チラチーノ",
+        "chirachino",
+        "chillaccino",
+        "cinccino",
+        "chillabell",
+        "pashmilla"
+    ],
+    "ita": [
+        "ゴチム",
+        "gochimu",
+        "gothimu",
+        "gothita",
+        "mollimorba",
+        "scrutella"
+    ],
+    "got": [
+        "ゴチミル",
+        "gochimiru",
+        "gothimiru",
+        "gothorita",
+        "hypnomorba",
+        "mesmerella"
+    ],
+    "sid": [
+        "ゴチルゼル",
+        "gochiruzeru",
+        "gothiruselle",
+        "gothitelle",
+        "morbitesse",
+        "siderella"
+    ],
+    "nu": [
+        "ユニラン",
+        "yuniran",
+        "uniran",
+        "solosis",
+        "monozyto",
+        "nucleos"
+    ],
+    "mit": [
+        "ダブラン",
+        "daburan",
+        "doublan",
+        "duosion",
+        "mitodos",
+        "meios"
+    ],
+    "sy": [
+        "ランクルス",
+        "rankurusu",
+        "lanculus",
+        "reuniclus",
+        "zytomega",
+        "symbios"
+    ],
+    "koa": [
+        "コアルヒー",
+        "koaruhi",
+        "koaruhie",
+        "ducklett",
+        "piccolente",
+        "couaneton"
+    ],
+    "lak": [
+        "スワンナ",
+        "suwanna",
+        "swanna",
+        "swanna",
+        "swaroness",
+        "lakmecygne"
+    ],
+    "qn": [
+        "バニプッチ",
+        "baniputchi",
+        "vanipeti",
+        "vanillite",
+        "gelatini",
+        "sorbebe"
+    ],
+    "qm": [
+        "バニリッチ",
+        "baniritchi",
+        "vanirich",
+        "vanillish",
+        "gelatroppo",
+        "sorboul"
+    ],
+    "qj": [
+        "バイバニラ",
+        "baibanira",
+        "baivanilla",
+        "vanilluxe",
+        "gelatwino",
+        "sorbouboul"
+    ],
+    "viv": [
+        "シキジカ",
+        "shikijika",
+        "shikijika",
+        "deerling",
+        "sesokitz",
+        "vivaldaim"
+    ],
+    "kro": [
+        "メブキジカ",
+        "mebukijika",
+        "mebukijika",
+        "sawsbuck",
+        "kronjuwild",
+        "haydaim"
+    ],
+    "emo": [
+        "エモンガ",
+        "emonga",
+        "emonga",
+        "emolga",
+        "emolga",
+        "emolga"
+    ],
+    "abl": [
+        "カブルモ",
+        "kaburumo",
+        "kaburumo",
+        "karrablast",
+        "laukaps",
+        "carabing"
+    ],
+    "val": [
+        "シュバルゴ",
+        "shubarugo",
+        "chevargo",
+        "escavalier",
+        "cavalanzas",
+        "lancargot"
+    ],
+    "foo": [
+        "タマゲタケ",
+        "tamagetake",
+        "tamagetake",
+        "foongus",
+        "tarnpignon",
+        "trompignon"
+    ],
+    "gau": [
+        "モロバレル",
+        "morobareru",
+        "morobareru",
+        "amoonguss",
+        "hutsassa",
+        "gaulet"
+    ],
+    "vis": [
+        "プルリル",
+        "pururiru",
+        "pururill",
+        "frillish",
+        "quabbel",
+        "viskuse"
+    ],
+    "apo": [
+        "ブルンゲル",
+        "burungeru",
+        "burungel",
+        "jellicent",
+        "apoquallyp",
+        "moyade"
+    ],
+    "hq": [
+        "ママンボウ",
+        "mamanbo",
+        "mamanbou",
+        "alomomola",
+        "mamolida",
+        "mamanbo"
+    ],
+    "jl": [
+        "バチュル",
+        "bachuru",
+        "bachuru",
+        "joltik",
+        "wattzapf",
+        "statitik"
+    ],
+    "my": [
+        "デンチュラ",
+        "denchura",
+        "dentula",
+        "galvantula",
+        "voltula",
+        "mygavolt"
+    ],
+    "foe": [
+        "テッシード",
+        "tesshido",
+        "tesseed",
+        "ferroseed",
+        "kastadur",
+        "grindur"
+    ],
+    "orn": [
+        "ナットレイ",
+        "nattorei",
+        "nutrey",
+        "ferrothorn",
+        "tentantel",
+        "noacier"
+    ],
+    "gj": [
+        "ギアル",
+        "giaru",
+        "giaru",
+        "klink",
+        "klikk",
+        "tic"
+    ],
+    "vj": [
+        "ギギアル",
+        "gigiaru",
+        "gigiaru",
+        "klang",
+        "kliklak",
+        "clic"
+    ],
+    "ij": [
+        "ギギギアル",
+        "gigigiaru",
+        "gigigiaru",
+        "klinklang",
+        "klikdiklak",
+        "cliticlic"
+    ],
+    "anc": [
+        "シビシラス",
+        "shibishirasu",
+        "shibishirasu",
+        "tynamo",
+        "zapplardin",
+        "anchwatt"
+    ],
+    "peo": [
+        "シビビール",
+        "shibibiru",
+        "shibibeel",
+        "eelektrik",
+        "zapplalek",
+        "lamperoie"
+    ],
+    "ohm": [
+        "シビルドン",
+        "shibirudon",
+        "shibirudon",
+        "eelektross",
+        "zapplarang",
+        "ohmassacre"
+    ],
+    "elg": [
+        "リグレー",
+        "rigure",
+        "ligray",
+        "elgyem",
+        "pygraulon",
+        "lewsor"
+    ],
+    "nei": [
+        "オーベム",
+        "obemu",
+        "ohbem",
+        "beheeyem",
+        "megalon",
+        "neitram"
+    ],
+    "lc": [
+        "ヒトモシ",
+        "hitomoshi",
+        "hitomoshi",
+        "litwick",
+        "lichtel",
+        "funecire"
+    ],
+    "ran": [
+        "ランプラー",
+        "ranpura",
+        "lampler",
+        "lampent",
+        "laternecto",
+        "melancolux"
+    ],
+    "and": [
+        "シャンデラ",
+        "shandera",
+        "chandela",
+        "chandelure",
+        "skelabra",
+        "lugulabre"
+    ],
+    "ax": [
+        "キバゴ",
+        "kibago",
+        "kibago",
+        "axew",
+        "milza",
+        "coupenotte"
+    ],
+    "inc": [
+        "オノンド",
+        "onondo",
+        "onondo",
+        "fraxure",
+        "sharfax",
+        "incisache"
+    ],
+    "max": [
+        "オノノクス",
+        "ononokusu",
+        "ononokus",
+        "haxorus",
+        "maxax",
+        "tranchodon"
+    ],
+    "pet": [
+        "クマシュン",
+        "kumashun",
+        "kumasyun",
+        "cubchoo",
+        "petznief",
+        "polarhume"
+    ],
+    "sib": [
+        "ツンベアー",
+        "tsunbea",
+        "tunbear",
+        "beartic",
+        "siberio",
+        "polagriffe"
+    ],
+    "fri": [
+        "フリージオ",
+        "furijio",
+        "freegeo",
+        "cryogonal",
+        "frigometri",
+        "hexagel"
+    ],
+    "hb": [
+        "チョボマキ",
+        "chobomaki",
+        "chobomaki",
+        "shelmet",
+        "schnuthelm",
+        "escargaume"
+    ],
+    "agi": [
+        "アギルダー",
+        "agiruda",
+        "agilder",
+        "accelgor",
+        "hydragil",
+        "limaspeed"
+    ],
+    "magg": [
+        "マッギョ",
+        "maggyo",
+        "maggyo",
+        "stunfisk",
+        "flunschlik",
+        "limonde"
+    ],
+    "oj": [
+        "コジョフー",
+        "kojofu",
+        "kojofu",
+        "mienfoo",
+        "lin-fu",
+        "kungfouine"
+    ],
+    "wie": [
+        "コジョンド",
+        "kojondo",
+        "kojondo",
+        "mienshao",
+        "wie-shu",
+        "shaofouine"
+    ],
+    "kur": [
+        "クリムガン",
+        "kurimugan",
+        "crimgan",
+        "druddigon",
+        "shardrago",
+        "drakkarmin"
+    ],
+    "gob": [
+        "ゴビット",
+        "gobitto",
+        "gobit",
+        "golett",
+        "golbit",
+        "gringolem"
+    ],
+    "gor": [
+        "ゴルーグ",
+        "gorugu",
+        "goloog",
+        "golurk",
+        "golgantes",
+        "golemastoc"
+    ],
+    "ani": [
+        "コマタナ",
+        "komatana",
+        "komatana",
+        "pawniard",
+        "gladiantri",
+        "scalpion"
+    ],
+    "sca": [
+        "キリキザン",
+        "kirikizan",
+        "kirikizan",
+        "bisharp",
+        "caesurio",
+        "scalproie"
+    ],
+    "bou": [
+        "バッフロン",
+        "baffuron",
+        "buffron",
+        "bouffalant",
+        "bisofank",
+        "frison"
+    ],
+    "uf": [
+        "ワシボン",
+        "washibon",
+        "washibon",
+        "rufflet",
+        "geronimatz",
+        "furaiglon"
+    ],
+    "wog": [
+        "ウォーグル",
+        "woguru",
+        "warrgle",
+        "braviary",
+        "washakwil",
+        "gueriaigle"
+    ],
+    "ska": [
+        "バルチャイ",
+        "baruchai",
+        "valchai",
+        "vullaby",
+        "skallyk",
+        "vostourno"
+    ],
+    "vau": [
+        "バルジーナ",
+        "barujina",
+        "vulgina",
+        "mandibuzz",
+        "grypheldis",
+        "vaututrice"
+    ],
+    "afl": [
+        "クイタラン",
+        "kuitaran",
+        "kuitaran",
+        "heatmor",
+        "furnifrass",
+        "aflamanoir"
+    ],
+    "aia": [
+        "アイアント",
+        "aianto",
+        "aiant",
+        "durant",
+        "fermicula",
+        "fermite"
+    ],
+    "dei": [
+        "モノズ",
+        "monozu",
+        "monozu",
+        "deino",
+        "kapuno",
+        "solochi"
+    ],
+    "dia": [
+        "ジヘッド",
+        "jiheddo",
+        "dihead",
+        "zweilous",
+        "duodino",
+        "diamat"
+    ],
+    "sah": [
+        "サザンドラ",
+        "sazandora",
+        "sazandora",
+        "hydreigon",
+        "trikephalo",
+        "trioxhydre"
+    ],
+    "ign": [
+        "メラルバ",
+        "meraruba",
+        "merlarva",
+        "larvesta",
+        "ignivor",
+        "pyronille"
+    ],
+    "rao": [
+        "ウルガモス",
+        "urugamosu",
+        "ulgamoth",
+        "volcarona",
+        "ramoth",
+        "pyrax"
+    ],
+    "kob": [
+        "コバルオン",
+        "kobaruon",
+        "cobalon",
+        "cobalion",
+        "kobalium",
+        "cobaltium"
+    ],
+    "kio": [
+        "テラキオン",
+        "terakion",
+        "terrakion",
+        "terrakion",
+        "terrakium",
+        "terrakium"
+    ],
+    "vir": [
+        "ビリジオン",
+        "birijion",
+        "virizion",
+        "virizion",
+        "viridium",
+        "viridium"
+    ],
+    "5": [
+        "トルネロス",
+        "torunerosu",
+        "tornelos",
+        "tornadus",
+        "boreos",
+        "boreas"
+    ],
+    "6": [
+        "ボルトロス",
+        "borutorosu",
+        "voltolos",
+        "thundurus",
+        "voltolos",
+        "fulguris"
+    ],
+    "iq": [
+        "レシラム",
+        "reshiramu",
+        "reshiram",
+        "reshiram",
+        "reshiram",
+        "reshiram"
+    ],
+    "zek": [
+        "ゼクロム",
+        "zekuromu",
+        "zekrom",
+        "zekrom",
+        "zekrom",
+        "zekrom"
+    ],
+    "7": [
+        "ランドロス",
+        "randorosu",
+        "landlos",
+        "landorus",
+        "demeteros",
+        "demeteros"
+    ],
+    "km": [
+        "キュレム",
+        "kyuremu",
+        "kyurem",
+        "kyurem",
+        "kyurem",
+        "kyurem"
+    ],
+    "kel": [
+        "ケルディオ",
+        "kerudio",
+        "keldeo",
+        "keldeo",
+        "keldeo",
+        "keldeo"
+    ],
+    "melo": [
+        "メロエッタ",
+        "meroetta",
+        "meloetta",
+        "meloetta",
+        "meloetta",
+        "meloetta"
+    ],
+    "gen": [
+        "ゲノセクト",
+        "genosekuto",
+        "genesect",
+        "genesect",
+        "genesect",
+        "genesect"
+    ],
+    "iga": [
+        "ハリマロン",
+        "harimaron",
+        "harimaron",
+        "chespin",
+        "igamaro",
+        "marisson"
+    ],
+    "lad": [
+        "ハリボーグ",
+        "haribogu",
+        "hariborg",
+        "quilladin",
+        "igastarnish",
+        "boguerisse"
+    ],
+    "nau": [
+        "ブリガロン",
+        "burigaron",
+        "brigarron",
+        "chesnaught",
+        "brigaron",
+        "blindepique"
+    ],
+    "fok": [
+        "フォッコ",
+        "fokko",
+        "fokko",
+        "fennekin",
+        "fynx",
+        "feunnec"
+    ],
+    "rut": [
+        "テールナー",
+        "teruna",
+        "tairenar",
+        "braixen",
+        "rutena",
+        "roussil"
+    ],
+    "maf": [
+        "マフォクシー",
+        "mafokushi",
+        "mahoxy",
+        "delphox",
+        "fennexis",
+        "goupelin"
+    ],
+    "fro": [
+        "ケロマツ",
+        "keromatsu",
+        "keromatsu",
+        "froakie",
+        "froxy",
+        "grenousse"
+    ],
+    "amp": [
+        "ゲコガシラ",
+        "gekogashira",
+        "gekogashira",
+        "frogadier",
+        "amphizel",
+        "croaporal"
+    ],
+    "gek": [
+        "ゲッコウガ",
+        "gekkoga",
+        "gekkouga",
+        "greninja",
+        "quajutsu",
+        "amphinobi"
+    ],
+    "sap": [
+        "ホルビー",
+        "horubi",
+        "horubee",
+        "bunnelby",
+        "scoppel",
+        "sapereau"
+    ],
+    "gre": [
+        "ホルード",
+        "horudo",
+        "horudo",
+        "diggersby",
+        "grebbit",
+        "excavarenne"
+    ],
+    "oma": [
+        "ヤヤコマ",
+        "yayakoma",
+        "yayakoma",
+        "fletchling",
+        "dartiri",
+        "passerouge"
+    ],
+    "ais": [
+        "ヒノヤコマ",
+        "hinoyakoma",
+        "hinoyakoma",
+        "fletchinder",
+        "dartignis",
+        "braisillon"
+    ],
+    "fai": [
+        "ファイアロー",
+        "faiaro",
+        "fiarrow",
+        "talonflame",
+        "fiaro",
+        "flambusard"
+    ],
+    "kof": [
+        "コフキムシ",
+        "kofukimushi",
+        "kofukimushi",
+        "scatterbug",
+        "purmel",
+        "lepidonille"
+    ],
+    "per": [
+        "コフーライ",
+        "kofurai",
+        "kofuurai",
+        "spewpa",
+        "puponcho",
+        "peregrain"
+    ],
+    "pri": [
+        "ビビヨン",
+        "bibiyon",
+        "viviyon",
+        "vivillon",
+        "vivillon",
+        "prismillon"
+    ],
+    "leu": [
+        "シシコ",
+        "shishiko",
+        "shishiko",
+        "litleo",
+        "leufeo",
+        "helionceau"
+    ],
+    "nem": [
+        "カエンジシ",
+        "kaenjishi",
+        "kaenjishi",
+        "pyroar",
+        "pyroleo",
+        "nemelios"
+    ],
+    "fur": [
+        "フラベベ",
+        "furabebe",
+        "flabebe",
+        "flabebe",
+        "flabebe",
+        "flabebe"
+    ],
+    "flo": [
+        "フラエッテ",
+        "furaette",
+        "floette",
+        "floette",
+        "floette",
+        "floette"
+    ],
+    "fj": [
+        "フラージェス",
+        "furajesu",
+        "florges",
+        "florges",
+        "florges",
+        "florges"
+    ],
+    "mek": [
+        "メェークル",
+        "meekuru",
+        "meecle",
+        "skiddo",
+        "mahikel",
+        "cabriolaine"
+    ],
+    "gog": [
+        "ゴーゴート",
+        "gogoto",
+        "gogoat",
+        "gogoat",
+        "chevrumm",
+        "chevroum"
+    ],
+    "pm": [
+        "ヤンチャム",
+        "yanchamu",
+        "yancham",
+        "pancham",
+        "pam-pam",
+        "pandespiegle"
+    ],
+    "pb": [
+        "ゴロンダ",
+        "goronda",
+        "goronda",
+        "pangoro",
+        "pandagro",
+        "pandarbare"
+    ],
+    "coi": [
+        "トリミアン",
+        "torimian",
+        "trimmien",
+        "furfrou",
+        "coiffwaff",
+        "couafarel"
+    ],
+    "ny": [
+        "ニャスパー",
+        "nyasupa",
+        "nyasper",
+        "espurr",
+        "psiau",
+        "psystigri"
+    ],
+    "meo": [
+        "ニャオニクス",
+        "nyaonikusu",
+        "nyaonix",
+        "meowstic",
+        "psiaugon",
+        "mistigrix"
+    ],
+    "hon": [
+        "ヒトツキ",
+        "hitotsuki",
+        "hitotsuki",
+        "honedge",
+        "gramokles",
+        "monorpale"
+    ],
+    "nid": [
+        "ニダンギル",
+        "nidangiru",
+        "nidangill",
+        "doublade",
+        "duokles",
+        "dimocles"
+    ],
+    "eg": [
+        "ギルガルド",
+        "girugarudo",
+        "gillgard",
+        "aegislash",
+        "durengard",
+        "exagide"
+    ],
+    "fn": [
+        "シュシュプ",
+        "shushupu",
+        "shushupu",
+        "spritzee",
+        "parfi",
+        "fluvetin"
+    ],
+    "fre": [
+        "フレフワン",
+        "furefuwan",
+        "frefuwan",
+        "aromatisse",
+        "parfinesse",
+        "cocotine"
+    ],
+    "swl": [
+        "ペロッパフ",
+        "peroppafu",
+        "peroppafu",
+        "swirlix",
+        "flauschling",
+        "sucroquin"
+    ],
+    "cu": [
+        "ペロリーム",
+        "perorimu",
+        "peroream",
+        "slurpuff",
+        "sabbaione",
+        "cupcanaille"
+    ],
+    "mai": [
+        "マーイーカ",
+        "maika",
+        "maaiika",
+        "inkay",
+        "iscalar",
+        "sepiatop"
+    ],
+    "sep": [
+        "カラマネロ",
+        "karamanero",
+        "calamanero",
+        "malamar",
+        "calamanero",
+        "sepiatroce"
+    ],
+    "bin": [
+        "カメテテ",
+        "kametete",
+        "kametete",
+        "binacle",
+        "bithora",
+        "opermine"
+    ],
+    "tha": [
+        "ガメノデス",
+        "gamenodesu",
+        "gamenodes",
+        "barbaracle",
+        "thanathora",
+        "golgopathe"
+    ],
+    "alg": [
+        "クズモー",
+        "kuzumo",
+        "kuzumo",
+        "skrelp",
+        "algitt",
+        "venalgue"
+    ],
+    "reh": [
+        "ドラミドロ",
+        "doramidoro",
+        "dramidoro",
+        "dragalge",
+        "tandrak",
+        "kravarech"
+    ],
+    "ud": [
+        "ウデッポウ",
+        "udeppo",
+        "udeppou",
+        "clauncher",
+        "scampisto",
+        "flingouste"
+    ],
+    "wu": [
+        "ブロスター",
+        "burosuta",
+        "bloster",
+        "clawitzer",
+        "wummer",
+        "gamblast"
+    ],
+    "eri": [
+        "エリキテル",
+        "erikiteru",
+        "erikiteru",
+        "helioptile",
+        "eguana",
+        "galvaran"
+    ],
+    "igu": [
+        "エレザード",
+        "erezado",
+        "elezard",
+        "heliolisk",
+        "elezard",
+        "iguolta"
+    ],
+    "chi": [
+        "チゴラス",
+        "chigorasu",
+        "chigoras",
+        "tyrunt",
+        "balgoras",
+        "ptyranidur"
+    ],
+    "yr": [
+        "ガチゴラス",
+        "gachigorasu",
+        "gachigoras",
+        "tyrantrum",
+        "monargoras",
+        "rexillius"
+    ],
+    "ama": [
+        "アマルス",
+        "amarusu",
+        "amarus",
+        "amaura",
+        "amarino",
+        "amagara"
+    ],
+    "agm": [
+        "アマルルガ",
+        "amaruruga",
+        "amaruruga",
+        "aurorus",
+        "amagarga",
+        "dragmara"
+    ],
+    "nin": [
+        "ニンフィア",
+        "ninfia",
+        "nymphia",
+        "sylveon",
+        "feelinara",
+        "nymphali"
+    ],
+    "haw": [
+        "ルチャブル",
+        "ruchaburu",
+        "luchabull",
+        "hawlucha",
+        "resladero",
+        "brutalibre"
+    ],
+    "ded": [
+        "デデンネ",
+        "dedenne",
+        "dedenne",
+        "dedenne",
+        "dedenne",
+        "dedenne"
+    ],
+    "rb": [
+        "メレシー",
+        "mereshi",
+        "melecie",
+        "carbink",
+        "rocara",
+        "strassie"
+    ],
+    "lw": [
+        "ヌメラ",
+        "numera",
+        "numera",
+        "goomy",
+        "viscora",
+        "mucuscule"
+    ],
+    "sli": [
+        "ヌメイル",
+        "numeiru",
+        "numeil",
+        "sliggoo",
+        "viscargot",
+        "colimucus"
+    ],
+    "goo": [
+        "ヌメルゴン",
+        "numerugon",
+        "numelgon",
+        "goodra",
+        "viscogon",
+        "muplodocus"
+    ],
+    "cla": [
+        "クレッフィ",
+        "kureffi",
+        "cleffy",
+        "klefki",
+        "clavion",
+        "trousselin"
+    ],
+    "bok": [
+        "ボクレー",
+        "bokure",
+        "bokurei",
+        "phantump",
+        "paragoni",
+        "brocelome"
+    ],
+    "ohr": [
+        "オーロット",
+        "orotto",
+        "ohrot",
+        "trevenant",
+        "trombork",
+        "desseliande"
+    ],
+    "irr": [
+        "バケッチャ",
+        "baketcha",
+        "bakeccha",
+        "pumpkaboo",
+        "irrbis",
+        "pitrouille"
+    ],
+    "oe": [
+        "パンプジン",
+        "panpujin",
+        "pumpjin",
+        "gourgeist",
+        "pumpdjinn",
+        "banshitrouye"
+    ],
+    "kac": [
+        "カチコール",
+        "kachikoru",
+        "kachikohru",
+        "bergmite",
+        "arktip",
+        "grelacon"
+    ],
+    "arl": [
+        "クレベース",
+        "kurebesu",
+        "crebase",
+        "avalugg",
+        "arktilas",
+        "seracrawl"
+    ],
+    "onb": [
+        "オンバット",
+        "onbatto",
+        "onbat",
+        "noibat",
+        "ef-em",
+        "sonistrelle"
+    ],
+    "onv": [
+        "オンバーン",
+        "onban",
+        "onvern",
+        "noivern",
+        "uhafnir",
+        "bruyverne"
+    ],
+    "xy": [
+        "ゼルネアス",
+        "zeruneasu",
+        "xerneas",
+        "xerneas",
+        "xerneas",
+        "xerneas"
+    ],
+    "yv": [
+        "イベルタル",
+        "iberutaru",
+        "yveltal",
+        "yveltal",
+        "yveltal",
+        "yveltal"
+    ],
+    "zy": [
+        "ジガルデ",
+        "jigarude",
+        "zygarde",
+        "zygarde",
+        "zygarde",
+        "zygarde"
+    ],
+    "cie": [
+        "ディアンシー",
+        "dianshi",
+        "diancie",
+        "diancie",
+        "diancie",
+        "diancie"
+    ],
+    "fp": [
+        "フーパ",
+        "fupa",
+        "hoopa",
+        "hoopa",
+        "hoopa",
+        "hoopa"
+    ],
+    "bor": [
+        "ボルケニオン",
+        "borukenion",
+        "volcanion",
+        "volcanion",
+        "volcanion",
+        "volcanion"
+    ],
+    "rw": [
+        "モクロー",
+        "mokuro",
+        "mokuroh",
+        "rowlet",
+        "bauz",
+        "brindibou"
+    ],
+    "efh": [
+        "フクスロー",
+        "fukusuro",
+        "fukuthrow",
+        "dartrix",
+        "arboretoss",
+        "effleche"
+    ],
+    "ey": [
+        "ジュナイパー",
+        "junaipa",
+        "junaiper",
+        "decidueye",
+        "silvarro",
+        "archeduc"
+    ],
+    "lit": [
+        "ニャビー",
+        "nyabi",
+        "nyabby",
+        "litten",
+        "flamiau",
+        "flamiaou"
+    ],
+    "mie": [
+        "ニャヒート",
+        "nyahito",
+        "nyaheat",
+        "torracat",
+        "miezunder",
+        "matoufeu"
+    ],
+    "gao": [
+        "ガオガエン",
+        "gaogaen",
+        "gaogaen",
+        "incineroar",
+        "fuegro",
+        "felinferno"
+    ],
+    "ash": [
+        "アシマリ",
+        "ashimari",
+        "ashimari",
+        "popplio",
+        "robball",
+        "otaquin"
+    ],
+    "ota": [
+        "オシャマリ",
+        "oshamari",
+        "osyamari",
+        "brionne",
+        "marikeck",
+        "otarlette"
+    ],
+    "ora": [
+        "アシレーヌ",
+        "ashirenu",
+        "ashirene",
+        "primarina",
+        "primarene",
+        "oratoria"
+    ],
+    "pep": [
+        "ツツケラ",
+        "tsutsukera",
+        "tsutsukera",
+        "pikipek",
+        "peppeck",
+        "picassaut"
+    ],
+    "tru": [
+        "ケララッパ",
+        "kerarappa",
+        "kerarappa",
+        "trumbeak",
+        "trompeck",
+        "piclairon"
+    ],
+    "az": [
+        "ドデカバシ",
+        "dodekabashi",
+        "dodekabashi",
+        "toucannon",
+        "tukanon",
+        "bazoucan"
+    ],
+    "man": [
+        "ヤングース",
+        "yangusu",
+        "youngoose",
+        "yungoos",
+        "mangunior",
+        "manglouton"
+    ],
+    "gum": [
+        "デカグース",
+        "dekagusu",
+        "dekagoose",
+        "gumshoos",
+        "manguspektor",
+        "argouste"
+    ],
+    "ago": [
+        "アゴジムシ",
+        "agojimushi",
+        "agojimushi",
+        "grubbin",
+        "mabula",
+        "larvibule"
+    ],
+    "hr": [
+        "デンヂムシ",
+        "denjimushi",
+        "dendimushi",
+        "charjabug",
+        "akkup",
+        "chrysapile"
+    ],
+    "don": [
+        "クワガノン",
+        "kuwaganon",
+        "kuwagannon",
+        "vikavolt",
+        "donarion",
+        "lucanon"
+    ],
+    "enk": [
+        "マケンカニ",
+        "makenkani",
+        "makenkani",
+        "crabrawler",
+        "krabbox",
+        "crabagarre"
+    ],
+    "kek": [
+        "ケケンカニ",
+        "kekenkani",
+        "kekenkani",
+        "crabominable",
+        "krawell",
+        "crabominable"
+    ],
+    "cho": [
+        "オドリドリ",
+        "odoridori",
+        "odoridori",
+        "oricorio",
+        "choreogel",
+        "plumeline"
+    ],
+    "wom": [
+        "アブリー",
+        "aburi",
+        "abuly",
+        "cutiefly",
+        "wommel",
+        "bombydou"
+    ],
+    "abu": [
+        "アブリボン",
+        "aburibon",
+        "aburibbon",
+        "ribombee",
+        "bandelby",
+        "rubombelle"
+    ],
+    "wf": [
+        "イワンコ",
+        "iwanko",
+        "iwanko",
+        "rockruff",
+        "wuffels",
+        "rocabot"
+    ],
+    "ug": [
+        "ルガルガン",
+        "rugarugan",
+        "lugarugan",
+        "lycanroc",
+        "wolwerock",
+        "lougaroc"
+    ],
+    "ws": [
+        "ヨワシ",
+        "yowashi",
+        "yowashi",
+        "wishiwashi",
+        "lusardin",
+        "froussardine"
+    ],
+    "ine": [
+        "ヒドイデ",
+        "hidoide",
+        "hidoide",
+        "mareanie",
+        "garstella",
+        "vorasterie"
+    ],
+    "pre": [
+        "ドヒドイデ",
+        "dohidoide",
+        "dohidoide",
+        "toxapex",
+        "aggrostella",
+        "predasterie"
+    ],
+    "bp": [
+        "ドロバンコ",
+        "dorobanko",
+        "dorobanko",
+        "mudbray",
+        "pampuli",
+        "tiboudet"
+    ],
+    "ale": [
+        "バンバドロ",
+        "banbadoro",
+        "banbadoro",
+        "mudsdale",
+        "pampross",
+        "bourrinos"
+    ],
+    "dew": [
+        "シズクモ",
+        "shizukumo",
+        "shizukumo",
+        "dewpider",
+        "araqua",
+        "araqua"
+    ],
+    "oni": [
+        "オニシズクモ",
+        "onishizukumo",
+        "onishizukumo",
+        "araquanid",
+        "aranestro",
+        "tarenbulle"
+    ],
+    "fom": [
+        "カリキリ",
+        "karikiri",
+        "karikiri",
+        "fomantis",
+        "imantis",
+        "mimantis"
+    ],
+    "lal": [
+        "ラランテス",
+        "rarantesu",
+        "lalantes",
+        "lurantis",
+        "mantidea",
+        "floramantis"
+    ],
+    "spo": [
+        "ネマシュ",
+        "nemashu",
+        "nemasyu",
+        "morelull",
+        "bubungus",
+        "spododo"
+    ],
+    "hd": [
+        "マシェード",
+        "mashedo",
+        "mashade",
+        "shiinotic",
+        "lamellux",
+        "lampignon"
+    ],
+    "tri": [
+        "ヤトウモリ",
+        "yatomori",
+        "yatoumori",
+        "salandit",
+        "molunk",
+        "tritox"
+    ],
+    "amf": [
+        "エンニュート",
+        "ennyuto",
+        "ennewt",
+        "salazzle",
+        "amfira",
+        "malamandre"
+    ],
+    "vel": [
+        "ヌイコグマ",
+        "nuikoguma",
+        "nuikoguma",
+        "stufful",
+        "velursi",
+        "nounourson"
+    ],
+    "kos": [
+        "キテルグマ",
+        "kiteruguma",
+        "kiteruguma",
+        "bewear",
+        "kosturso",
+        "chelours"
+    ],
+    "cn": [
+        "アマカジ",
+        "amakaji",
+        "amakaji",
+        "bounsweet",
+        "frubberl",
+        "croquine"
+    ],
+    "can": [
+        "アママイコ",
+        "amamaiko",
+        "amamaiko",
+        "steenee",
+        "frubaila",
+        "candine"
+    ],
+    "fru": [
+        "アマージョ",
+        "amajo",
+        "amajo",
+        "tsareena",
+        "fruyal",
+        "sucreine"
+    ],
+    "uw": [
+        "キュワワー",
+        "kyuwawa",
+        "cuwawa",
+        "comfey",
+        "curelei",
+        "guerilande"
+    ],
+    "yar": [
+        "ヤレユータン",
+        "yareyutan",
+        "yareyuutan",
+        "oranguru",
+        "kommandutan",
+        "gouroutan"
+    ],
+    "pas": [
+        "ナゲツケサル",
+        "nagetsukesaru",
+        "nagetukesaru",
+        "passimian",
+        "quartermak",
+        "quartermac"
+    ],
+    "sov": [
+        "コソクムシ",
+        "kosokumushi",
+        "kosokumushi",
+        "wimpod",
+        "reisslaus",
+        "sovkipou"
+    ],
+    "gus": [
+        "グソクムシャ",
+        "gusokumusha",
+        "gusokumusha",
+        "golisopod",
+        "tectass",
+        "sarmurai"
+    ],
+    "san": [
+        "スナバァ",
+        "sunaba",
+        "sunaba",
+        "sandygast",
+        "sankabuh",
+        "bacabouh"
+    ],
+    "tre": [
+        "シロデスナ",
+        "shirodesuna",
+        "sirodethna",
+        "palossand",
+        "colossand",
+        "trepassable"
+    ],
+    "con": [
+        "ナマコブシ",
+        "namakobushi",
+        "namakobushi",
+        "pyukumuku",
+        "gufa",
+        "concombaffe"
+    ],
+    "0": [
+        "タイプ：ヌル",
+        "taipu: nuru",
+        "type: null",
+        "type: null",
+        "typ:null",
+        "type:0"
+    ],
+    "9": [
+        "シルヴァディ",
+        "shiruvadi",
+        "silvady",
+        "silvally",
+        "amigento",
+        "silvallie"
+    ],
+    "met": [
+        "メテノ",
+        "meteno",
+        "meteno",
+        "minior",
+        "meteno",
+        "meteno"
+    ],
+    "nek": [
+        "ネッコアラ",
+        "nekkoara",
+        "nekkoara",
+        "komala",
+        "koalelu",
+        "dodoala"
+    ],
+    "tur": [
+        "バクガメス",
+        "bakugamesu",
+        "bakugames",
+        "turtonator",
+        "tortunator",
+        "boumata"
+    ],
+    "tem": [
+        "トゲデマル",
+        "togedemaru",
+        "togedemaru",
+        "togedemaru",
+        "togedemaru",
+        "togedemaru"
+    ],
+    "mim": [
+        "ミミッキュ",
+        "mimikkyu",
+        "mimikkyu",
+        "mimikyu",
+        "mimigma",
+        "mimiqui"
+    ],
+    "hag": [
+        "ハギギシリ",
+        "hagigishiri",
+        "hagigishiri",
+        "bruxish",
+        "knirfish",
+        "denticrisse"
+    ],
+    "jij": [
+        "ジジーロン",
+        "jijiron",
+        "jijilong",
+        "drampa",
+        "sen-long",
+        "draieul"
+    ],
+    "dad": [
+        "ダダリン",
+        "dadarin",
+        "dadarin",
+        "dhelmise",
+        "moruda",
+        "sinistrail"
+    ],
+    "ja": [
+        "ジャラコ",
+        "jarako",
+        "jyarako",
+        "jangmo-o",
+        "miniras",
+        "bebecaille"
+    ],
+    "ed": [
+        "ジャランゴ",
+        "jarango",
+        "jyarango",
+        "hakamo-o",
+        "mediras",
+        "ecaid"
+    ],
+    "eka": [
+        "ジャラランガ",
+        "jararanga",
+        "jyararanga",
+        "kommo-o",
+        "grandiras",
+        "ekaiser"
+    ],
+    "kok": [
+        "カプ・コケコ",
+        "kapu kokeko",
+        "kapu-kokeko",
+        "tapu koko",
+        "kapu-riki",
+        "tokorico"
+    ],
+    "lel": [
+        "カプ・テテフ",
+        "kapu tetefu",
+        "kapu-tetefu",
+        "tapu lele",
+        "kapu-fala",
+        "tokopiyon"
+    ],
+    "buu": [
+        "カプ・ブルル",
+        "kapu bururu",
+        "kapu-bulul",
+        "tapu bulu",
+        "kapu-toro",
+        "tokotoro"
+    ],
+    "fii": [
+        "カプ・レヒレ",
+        "kapu rehire",
+        "kapu-rehire",
+        "tapu fini",
+        "kapu-kime",
+        "tokopisco"
+    ],
+    "cm": [
+        "コスモッグ",
+        "kosumoggu",
+        "cosmog",
+        "cosmog",
+        "cosmog",
+        "cosmog"
+    ],
+    "moe": [
+        "コスモウム",
+        "kosumomu",
+        "cosmovum",
+        "cosmoem",
+        "cosmovum",
+        "cosmovum"
+    ],
+    "sog": [
+        "ソルガレオ",
+        "sorugareo",
+        "solgaleo",
+        "solgaleo",
+        "solgaleo",
+        "solgaleo"
+    ],
+    "nal": [
+        "ルナアーラ",
+        "runaara",
+        "lunala",
+        "lunala",
+        "lunala",
+        "lunala"
+    ],
+    "ane": [
+        "ウツロイド",
+        "utsuroido",
+        "uturoid",
+        "nihilego",
+        "anego",
+        "zeroid"
+    ],
+    "bw": [
+        "マッシブーン",
+        "masshibun",
+        "massivoon",
+        "buzzwole",
+        "masskito",
+        "mouscoto"
+    ],
+    "oae": [
+        "フェローチェ",
+        "feroche",
+        "pheroache",
+        "pheromosa",
+        "schabelle",
+        "cancrelove"
+    ],
+    "xk": [
+        "デンジュモク",
+        "denjumoku",
+        "denjyumoku",
+        "xurkitree",
+        "voltriant",
+        "cablifere"
+    ],
+    "boi": [
+        "テッカグヤ",
+        "tekkaguya",
+        "tekkaguya",
+        "celesteela",
+        "kaguron",
+        "bamboiselle"
+    ],
+    "tan": [
+        "カミツルギ",
+        "kamitsurugi",
+        "kamiturugi",
+        "kartana",
+        "katagami",
+        "katagami"
+    ],
+    "eng": [
+        "アクジキング",
+        "akujikingu",
+        "akuziking",
+        "guzzlord",
+        "schlingking",
+        "engloutyran"
+    ],
+    "zm": [
+        "ネクロズマ",
+        "nekurozuma",
+        "necrozma",
+        "necrozma",
+        "necrozma",
+        "necrozma"
+    ],
+    "ear": [
+        "マギアナ",
+        "magiana",
+        "magearna",
+        "magearna",
+        "magearna",
+        "magearna"
+    ],
+    "mas": [
+        "マーシャドー",
+        "mashado",
+        "marshadow",
+        "marshadow",
+        "marshadow",
+        "marshadow"
+    ],
+    "vem": [
+        "ベベノム",
+        "bebenomu",
+        "bevenom",
+        "poipole",
+        "venicro",
+        "vemini"
+    ],
+    "oy": [
+        "アーゴヨン",
+        "agoyon",
+        "agoyon",
+        "naganadel",
+        "agoyon",
+        "mandrillon"
+    ],
+    "aka": [
+        "ツンデツンデ",
+        "tsundetsunde",
+        "tundetunde",
+        "stakataka",
+        "muramura",
+        "ama-ama"
+    ],
+    "aon": [
+        "ズガドーン",
+        "zugadon",
+        "zugadoon",
+        "blacephalon",
+        "kopplosio",
+        "pierroteknik"
+    ],
+    "aor": [
+        "ゼラオラ",
+        "zeraora",
+        "zeraora",
+        "zeraora",
+        "zeraora",
+        "zeraora"
+    ],
+    "melt": [
+        "メルタン",
+        "merutan",
+        "meltan",
+        "meltan",
+        "meltan",
+        "meltan"
+    ],
+    "eml": [
+        "メルメタル",
+        "merumetaru",
+        "melmetal",
+        "melmetal",
+        "melmetal",
+        "melmetal"
+    ],
+    "grk": [
+        "サルノリ",
+        "sarunori",
+        "sarunori",
+        "grookey",
+        "chimpep",
+        "ouistempo"
+    ],
+    "tw": [
+        "バチンキー",
+        "bachinki",
+        "bachinki",
+        "thwackey",
+        "chimstix",
+        "badabouin"
+    ],
+    "mic": [
+        "ゴリランダー",
+        "goriranda",
+        "goriranda",
+        "rillaboom",
+        "gortrom",
+        "gorythmic"
+    ],
+    "hib": [
+        "ヒバニー",
+        "hibani",
+        "hibani",
+        "scorbunny",
+        "hopplo",
+        "flambino"
+    ],
+    "rab": [
+        "ラビフット",
+        "rabifutto",
+        "rabifutto",
+        "raboot",
+        "kickerlo",
+        "lapyro"
+    ],
+    "cin": [
+        "エースバーン",
+        "esuban",
+        "esuban",
+        "cinderace",
+        "liberlo",
+        "pyrobut"
+    ],
+    "mem": [
+        "メッソン",
+        "messon",
+        "messon",
+        "sobble",
+        "memmeon",
+        "larmeleon"
+    ],
+    "phl": [
+        "ジメレオン",
+        "jimereon",
+        "jimereon",
+        "drizzile",
+        "phlegleon",
+        "arrozard"
+    ],
+    "int": [
+        "インテレオン",
+        "intereon",
+        "intereon",
+        "inteleon",
+        "intelleon",
+        "lezargus"
+    ],
+    "rf": [
+        "ホシガリス",
+        "hoshigarisu",
+        "hoshigarisu",
+        "skwovet",
+        "raffel",
+        "rongourmand"
+    ],
+    "yok": [
+        "ヨクバリス",
+        "yokubarisu",
+        "yokubarisu",
+        "greedent",
+        "schlaraffel",
+        "rongrigou"
+    ],
+    "mei": [
+        "ココガラ",
+        "kokogara",
+        "kokogara",
+        "rookidee",
+        "meikro",
+        "minisange"
+    ],
+    "aog": [
+        "アオガラス",
+        "aogarasu",
+        "aogarasu",
+        "corvisquire",
+        "kranoviz",
+        "bleuseille"
+    ],
+    "vai": [
+        "アーマーガア",
+        "amaga",
+        "amaga",
+        "corviknight",
+        "krarmor",
+        "corvaillus"
+    ],
+    "sen": [
+        "サッチムシ",
+        "satchimushi",
+        "satchimushi",
+        "blipbug",
+        "sensect",
+        "larvadar"
+    ],
+    "ome": [
+        "レドームシ",
+        "redomushi",
+        "redomushi",
+        "dottler",
+        "keradar",
+        "coleodome"
+    ],
+    "ior": [
+        "イオルブ",
+        "iorubu",
+        "iorubu",
+        "orbeetle",
+        "maritellit",
+        "astronelle"
+    ],
+    "nic": [
+        "クスネ",
+        "kusune",
+        "kusune",
+        "nickit",
+        "kleptifux",
+        "goupilou"
+    ],
+    "thi": [
+        "フォクスライ",
+        "fokusurai",
+        "fokusurai",
+        "thievul",
+        "gaunux",
+        "roublenard"
+    ],
+    "sif": [
+        "ヒメンカ",
+        "himenka",
+        "himenka",
+        "gossifleur",
+        "cottini",
+        "tournicoton"
+    ],
+    "eld": [
+        "ワタシラガ",
+        "watashiraga",
+        "watashiraga",
+        "eldegoss",
+        "cottomi",
+        "blancoton"
+    ],
+    "uru": [
+        "ウールー",
+        "uru",
+        "uru",
+        "wooloo",
+        "wolly",
+        "moumouton"
+    ],
+    "ub": [
+        "バイウールー",
+        "baiuru",
+        "baiuru",
+        "dubwool",
+        "zwollock",
+        "moumouflon"
+    ],
+    "kh": [
+        "カムカメ",
+        "kamukame",
+        "kamukame",
+        "chewtle",
+        "kamehaps",
+        "khelocrok"
+    ],
+    "kam": [
+        "カジリガメ",
+        "kajirigame",
+        "kajirigame",
+        "drednaw",
+        "kamalm",
+        "torgamord"
+    ],
+    "np": [
+        "ワンパチ",
+        "wanpachi",
+        "wanpachi",
+        "yamper",
+        "voldi",
+        "voltoutou"
+    ],
+    "par": [
+        "パルスワン",
+        "parusuwan",
+        "parusuwan",
+        "boltund",
+        "bellektro",
+        "fulgudog"
+    ],
+    "kl": [
+        "タンドン",
+        "tandon",
+        "tandon",
+        "rolycoly",
+        "klonkett",
+        "charbi"
+    ],
+    "rko": [
+        "トロッゴン",
+        "toroggon",
+        "toroggon",
+        "carkol",
+        "wagong",
+        "wagomine"
+    ],
+    "kit": [
+        "セキタンザン",
+        "sekitanzan",
+        "sekitanzan",
+        "coalossal",
+        "montecarbo",
+        "monthracite"
+    ],
+    "kaj": [
+        "カジッチュ",
+        "kajitchu",
+        "kajitchu",
+        "applin",
+        "knapfel",
+        "verpom"
+    ],
+    "pom": [
+        "アップリュー",
+        "appuryu",
+        "appuryu",
+        "flapple",
+        "drapfel",
+        "pomdrapi"
+    ],
+    "app": [
+        "タルップル",
+        "taruppuru",
+        "taruppuru",
+        "appletun",
+        "schlapfel",
+        "dratatin"
+    ],
+    "sal": [
+        "スナヘビ",
+        "sunahebi",
+        "sunahebi",
+        "silicobra",
+        "salanga",
+        "dunaja"
+    ],
+    "sad": [
+        "サダイジャ",
+        "sadaija",
+        "sadaija",
+        "sandaconda",
+        "sanaconda",
+        "dunaconda"
+    ],
+    "uu": [
+        "ウッウ",
+        "uu",
+        "uu",
+        "cramorant",
+        "urgl",
+        "nigosier"
+    ],
+    "sas": [
+        "サシカマス",
+        "sashikamasu",
+        "sashikamasu",
+        "arrokuda",
+        "pikuda",
+        "embrochet"
+    ],
+    "has": [
+        "カマスジョー",
+        "kamasujo",
+        "kamasujo",
+        "barraskewda",
+        "barrakiefa",
+        "hastacuda"
+    ],
+    "ere": [
+        "エレズン",
+        "erezun",
+        "erezun",
+        "toxel",
+        "toxel",
+        "toxizap"
+    ],
+    "sut": [
+        "ストリンダー",
+        "sutorinda",
+        "sutorinda",
+        "toxtricity",
+        "riffex",
+        "salarsen"
+    ],
+    "ql": [
+        "ヤクデ",
+        "yakude",
+        "yakude",
+        "sizzlipede",
+        "thermopod",
+        "grillepattes"
+    ],
+    "eno": [
+        "マルヤクデ",
+        "maruyakude",
+        "maruyakude",
+        "centiskorch",
+        "infernopod",
+        "scolocendre"
+    ],
+    "cj": [
+        "タタッコ",
+        "tatakko",
+        "tatakko",
+        "clobbopus",
+        "klopptopus",
+        "poulpaf"
+    ],
+    "kao": [
+        "オトスパス",
+        "otosupasu",
+        "otosupasu",
+        "grapploct",
+        "kaocto",
+        "krakos"
+    ],
+    "sin": [
+        "ヤバチャ",
+        "yabacha",
+        "yabacha",
+        "sinistea",
+        "fatalitee",
+        "theffroi"
+    ],
+    "ort": [
+        "ポットデス",
+        "pottodesu",
+        "pottodesu",
+        "polteageist",
+        "mortipot",
+        "polthegeist"
+    ],
+    "mib": [
+        "ミブリム",
+        "miburimu",
+        "miburimu",
+        "hatenna",
+        "brimova",
+        "bibichut"
+    ],
+    "hat": [
+        "テブリム",
+        "teburimu",
+        "teburimu",
+        "hattrem",
+        "brimano",
+        "chapotus"
+    ],
+    "sil": [
+        "ブリムオン",
+        "burimuon",
+        "burimuon",
+        "hatterene",
+        "silembrim",
+        "sorcilence"
+    ],
+    "gri": [
+        "ベロバー",
+        "beroba",
+        "beroba",
+        "impidimp",
+        "bahmon",
+        "grimalin"
+    ],
+    "gm": [
+        "ギモー",
+        "gimo",
+        "gimo",
+        "morgrem",
+        "pelzebub",
+        "fourbelin"
+    ],
+    "oro": [
+        "オーロンゲ",
+        "oronge",
+        "oronge",
+        "grimmsnarl",
+        "olangaa",
+        "angoliath"
+    ],
+    "ix": [
+        "タチフサグマ",
+        "tachifusaguma",
+        "tachifusaguma",
+        "obstagoon",
+        "barrikadax",
+        "ixon"
+    ],
+    "rr": [
+        "ニャイキング",
+        "nyaikingu",
+        "nyaikingu",
+        "perrserker",
+        "mauzinger",
+        "berserkatt"
+    ],
+    "gon": [
+        "サニゴーン",
+        "sanigon",
+        "sanigon",
+        "cursola",
+        "gorgasonn",
+        "corayome"
+    ],
+    "sir": [
+        "ネギガナイト",
+        "negiganaito",
+        "negiganaito",
+        "sirfetch'd",
+        "lauchzelot",
+        "palarticho"
+    ],
+    "gq": [
+        "バリコオル",
+        "barikoru",
+        "barikoru",
+        "mr. rime",
+        "pantifrost",
+        "m. glaquette"
+    ],
+    "tet": [
+        "デスバーン",
+        "desuban",
+        "desuban",
+        "runerigus",
+        "oghnatoll",
+        "tutetekri"
+    ],
+    "mah": [
+        "マホミル",
+        "mahomiru",
+        "mahomiru",
+        "milcery",
+        "hokumil",
+        "cremy"
+    ],
+    "alc": [
+        "マホイップ",
+        "mahoippu",
+        "mahoippu",
+        "alcremie",
+        "pokusan",
+        "charmilly"
+    ],
+    "leg": [
+        "タイレーツ",
+        "tairetsu",
+        "tairetsu",
+        "falinks",
+        "legios",
+        "hexadron"
+    ],
+    "bac": [
+        "バチンウニ",
+        "bachin'uni",
+        "bachin'uni",
+        "pincurchin",
+        "britzigel",
+        "wattapik"
+    ],
+    "ms": [
+        "ユキハミ",
+        "yukihami",
+        "yukihami",
+        "snom",
+        "snomnom",
+        "frissonille"
+    ],
+    "mos": [
+        "モスノウ",
+        "mosuno",
+        "mosuno",
+        "frosmoth",
+        "mottineva",
+        "beldeneige"
+    ],
+    "stj": [
+        "イシヘンジン",
+        "ishihenjin",
+        "ishihenjin",
+        "stonjourner",
+        "humanolith",
+        "dolman"
+    ],
+    "ies": [
+        "コオリッポ",
+        "korippo",
+        "korippo",
+        "eiscue",
+        "kubuin",
+        "bekaglacon"
+    ],
+    "ind": [
+        "イエッサン",
+        "iessan",
+        "iessan",
+        "indeedee",
+        "servol",
+        "wimessir"
+    ],
+    "mp": [
+        "モルペコ",
+        "morupeko",
+        "morupeko",
+        "morpeko",
+        "morpeko",
+        "morpeko"
+    ],
+    "kf": [
+        "ゾウドウ",
+        "zodo",
+        "zodo",
+        "cufant",
+        "kupfanti",
+        "charibari"
+    ],
+    "aj": [
+        "ダイオウドウ",
+        "daiodo",
+        "daiodo",
+        "copperajah",
+        "patinaraja",
+        "pachyradjah"
+    ],
+    "alv": [
+        "パッチラゴン",
+        "patchiragon",
+        "patchiragon",
+        "dracozolt",
+        "lectragon",
+        "galvagon"
+    ],
+    "pat": [
+        "パッチルドン",
+        "patchirudon",
+        "patchirudon",
+        "arctozolt",
+        "lecryodon",
+        "galvagla"
+    ],
+    "hyd": [
+        "ウオノラゴン",
+        "uonoragon",
+        "uonoragon",
+        "dracovish",
+        "pescragon",
+        "hydragon"
+    ],
+    "pes": [
+        "ウオチルドン",
+        "uochirudon",
+        "uochirudon",
+        "arctovish",
+        "pescryodon",
+        "hydragla"
+    ],
+    "ron": [
+        "ジュラルドン",
+        "jurarudon",
+        "jurarudon",
+        "duraludon",
+        "duraludon",
+        "duralugon"
+    ],
+    "fan": [
+        "ドラメシヤ",
+        "dorameshiya",
+        "dorameshiya",
+        "dreepy",
+        "grolldra",
+        "fantyrm"
+    ],
+    "oaf": [
+        "ドロンチ",
+        "doronchi",
+        "doronchi",
+        "drakloak",
+        "phandra",
+        "dispareptil"
+    ],
+    "lan": [
+        "ドラパルト",
+        "doraparuto",
+        "doraparuto",
+        "dragapult",
+        "katapuldra",
+        "lanssorien"
+    ],
+    "ian": [
+        "ザシアン",
+        "zashian",
+        "zashian",
+        "zacian",
+        "zacian",
+        "zacian"
+    ],
+    "ent": [
+        "ザマゼンタ",
+        "zamazenta",
+        "zamazenta",
+        "zamazenta",
+        "zamazenta",
+        "zamazenta"
+    ],
+    "atu": [
+        "ムゲンダイナ",
+        "mugendaina",
+        "mugendaina",
+        "eternatus",
+        "endynalos",
+        "ethernatos"
+    ],
+    "bf": [
+        "ダクマ",
+        "dakuma",
+        "dakuma",
+        "kubfu",
+        "dakuma",
+        "wushours"
+    ],
+    "osu": [
+        "ウーラオス",
+        "uraosu",
+        "uraosu",
+        "urshifu",
+        "wulaosu",
+        "shifours"
+    ],
+    "zd": [
+        "ザルード",
+        "zarudo",
+        "zarudo",
+        "zarude",
+        "zarude",
+        "zarude"
+    ],
+    "ele": [
+        "レジエレキ",
+        "rejiereki",
+        "rejiereki",
+        "regieleki",
+        "regieleki",
+        "regieleki"
+    ],
+    "rj": [
+        "レジドラゴ",
+        "rejidorago",
+        "rejidorago",
+        "regidrago",
+        "regidrago",
+        "regidrago"
+    ],
+    "las": [
+        "ブリザポス",
+        "burizaposu",
+        "burizaposu",
+        "glastrier",
+        "polaross",
+        "blizzeval"
+    ],
+    "pec": [
+        "レイスポス",
+        "reisuposu",
+        "reisuposu",
+        "spectrier",
+        "phantoross",
+        "spectreval"
+    ],
+    "cal": [
+        "バドレックス",
+        "badorekkusu",
+        "badorekkusu",
+        "calyrex",
+        "coronospa",
+        "sylveroy"
+    ],
+    "dam": [
+        "アヤシシ",
+        "ayashishi",
+        "ayashishi",
+        "wyrdeer",
+        "damythir",
+        "cerbyllin"
+    ],
+    "hac": [
+        "バサギリ",
+        "basagiri",
+        "basagiri",
+        "kleavor",
+        "axantor",
+        "hachecateur"
+    ],
+    "ura": [
+        "ガチグマ",
+        "gachiguma",
+        "gachiguma",
+        "ursaluna",
+        "gachiguma",
+        "ursaking"
+    ],
+    "ida": [
+        "イダイトウ",
+        "idaitou",
+        "idaitou",
+        "basculegion",
+        "salmagnis",
+        "paragruel"
+    ],
+    "sne": [
+        "オオニューラ",
+        "oonyura",
+        "oonyura",
+        "sneasler",
+        "snieboss",
+        "farfurex"
+    ],
+    "rq": [
+        "ハリーマン",
+        "hariman",
+        "hariman",
+        "overqwil",
+        "myriador",
+        "qwilpik"
+    ],
+    "ena": [
+        "ラブトロス",
+        "rabutorosu",
+        "rabutorosu",
+        "enamorus",
+        "cupidos",
+        "amovenus"
+    ],
+    "fel": [
+        "ニャオハ",
+        "nyahoja",
+        "nyahoja",
+        "sprigatito",
+        "felori",
+        "poussacha"
+    ],
+    "ato": [
+        "ニャローテ",
+        "nyarote",
+        "nyarote",
+        "floragato",
+        "feliospa",
+        "matourgeon"
+    ],
+    "ask": [
+        "マスカーニャ",
+        "masquernya",
+        "masquernya",
+        "meowscarada",
+        "maskagato",
+        "miascarade"
+    ],
+    "coc": [
+        "ホゲータ",
+        "hogator",
+        "hogator",
+        "fuecoco",
+        "krokel",
+        "chochodile"
+    ],
+    "lok": [
+        "アチゲータ",
+        "achigator",
+        "achigator",
+        "crocalor",
+        "lokroko",
+        "crocogril"
+    ],
+    "fla": [
+        "ラウドボーン",
+        "loudbone",
+        "loudbone",
+        "skeledirge",
+        "skelokrok",
+        "flamigator"
+    ],
+    "kw": [
+        "クワッス",
+        "kuwassu",
+        "kuwassu",
+        "quaxly",
+        "kwaks",
+        "coiffeton"
+    ],
+    "qi": [
+        "ウェルカモ",
+        "welkamo",
+        "welkamo",
+        "quaxwell",
+        "fuentente",
+        "canarbello"
+    ],
+    "wn": [
+        "ウェーニバル",
+        "wanival",
+        "wanival",
+        "quaquaval",
+        "bailonda",
+        "palmaval"
+    ],
+    "gou": [
+        "グルトン",
+        "gourton",
+        "gourton",
+        "lechonk",
+        "ferkuli",
+        "gourmelet"
+    ],
+    "pf": [
+        "パフュートン",
+        "perfuton",
+        "perfuton",
+        "oinkologne",
+        "fragrunz",
+        "fragroin"
+    ],
+    "tn": [
+        "タマンチュラ",
+        "tamanchura",
+        "tamanchura",
+        "tarountula",
+        "tarundel",
+        "tissenboule"
+    ],
+    "wan": [
+        "ワナイダー",
+        "wanaida",
+        "wanaida",
+        "spidops",
+        "spinsidias",
+        "filentrappe"
+    ],
+    "mc": [
+        "マメバッタ",
+        "mamebatta",
+        "mamebatta",
+        "nymble",
+        "micrick",
+        "lilliterelle"
+    ],
+    "kx": [
+        "エクスレッグ",
+        "exleg",
+        "exleg",
+        "lokix",
+        "lextremo",
+        "gambex"
+    ],
+    "pq": [
+        "パモ",
+        "pamo",
+        "pamo",
+        "pawmi",
+        "pamo",
+        "pohm"
+    ],
+    "oq": [
+        "パモット",
+        "pamot",
+        "pamot",
+        "pawmo",
+        "pamamo",
+        "pohmotte"
+    ],
+    "aw": [
+        "パーモット",
+        "parmot",
+        "parmot",
+        "pawmot",
+        "pamomamo",
+        "pohmarmotte"
+    ],
+    "dm": [
+        "ワッカネズミ",
+        "wakkanezumi",
+        "wakkanezumi",
+        "tandemaus",
+        "zwieps",
+        "compagnol"
+    ],
+    "fm": [
+        "イッカネズミ",
+        "ikkanezumi",
+        "ikkanezumi",
+        "maushold",
+        "famieps",
+        "famignol"
+    ],
+    "hf": [
+        "パピモッチ",
+        "papimocchi",
+        "papimocchi",
+        "fidough",
+        "hefel",
+        "patachiot"
+    ],
+    "bri": [
+        "バウッツェル",
+        "bowtzel",
+        "bowtzel",
+        "dachsbun",
+        "backel",
+        "briochien"
+    ],
+    "ol": [
+        "ミニーブ",
+        "minibu",
+        "minibu",
+        "smoliv",
+        "olini",
+        "olivini"
+    ],
+    "ori": [
+        "オリーニョ",
+        "orinyo",
+        "orinyo",
+        "dolliv",
+        "olivinio",
+        "olivado"
+    ],
+    "ov": [
+        "オリーヴァ",
+        "oriva",
+        "oriva",
+        "arboliva",
+        "olithena",
+        "arboliva"
+    ],
+    "wk": [
+        "イキリンコ",
+        "ikirinko",
+        "ikirinko",
+        "squawkabilly",
+        "krawalloro",
+        "tapatoes"
+    ],
+    "nac": [
+        "コジオ",
+        "kojio",
+        "kojio",
+        "nacli",
+        "geosali",
+        "selutin"
+    ],
+    "jio": [
+        "ジオヅム",
+        "jiozumu",
+        "jiozumu",
+        "naclstack",
+        "sedisal",
+        "amassel"
+    ],
+    "ky": [
+        "キョジオーン",
+        "kyojion",
+        "kyojion",
+        "garganacl",
+        "saltigant",
+        "gigansel"
+    ],
+    "kn": [
+        "カルボウ",
+        "carbou",
+        "carbou",
+        "charcadet",
+        "knarbon",
+        "charbambin"
+    ],
+    "ure": [
+        "グレンアルマ",
+        "gurenarma",
+        "gurenarma",
+        "armarouge",
+        "crimanzo",
+        "carmadura"
+    ],
+    "mal": [
+        "ソウブレイズ",
+        "soublades",
+        "soublades",
+        "ceruledge",
+        "azugladis",
+        "malvalame"
+    ],
+    "tm": [
+        "ズピカ",
+        "zupika",
+        "zupika",
+        "tadbulb",
+        "blipp",
+        "tetampoule"
+    ],
+    "wam": [
+        "ハラバリー",
+        "harabari",
+        "harabari",
+        "bellibolt",
+        "wampitz",
+        "ampibidou"
+    ],
+    "aid": [
+        "カイデン",
+        "kaiden",
+        "kaiden",
+        "wattrel",
+        "voltrel",
+        "zapetrel"
+    ],
+    "tai": [
+        "タイカイデン",
+        "taikaiden",
+        "taikaiden",
+        "kilowattrel",
+        "voltrean",
+        "fulgulairo"
+    ],
+    "mb": [
+        "オラチフ",
+        "orachifu",
+        "orachifu",
+        "maschiff",
+        "mobtiff",
+        "grondogue"
+    ],
+    "mf": [
+        "マフィティフ",
+        "mafitifu",
+        "mafitifu",
+        "mabosstiff",
+        "mastifioso",
+        "dogrino"
+    ],
+    "spr": [
+        "シルシュルー",
+        "shirushuru",
+        "shirushuru",
+        "shroodle",
+        "sproxi",
+        "gribouraigne"
+    ],
+    "ati": [
+        "タギングル",
+        "taginguru",
+        "taginguru",
+        "grafaiai",
+        "affiti",
+        "tag-tag"
+    ],
+    "weh": [
+        "アノクサ",
+        "anokusa",
+        "anokusa",
+        "bramblin",
+        "weherba",
+        "virovent"
+    ],
+    "hor": [
+        "アノホラグサ",
+        "anohoragusa",
+        "anohoragusa",
+        "brambleghast",
+        "horrerba",
+        "virevorreur"
+    ],
+    "qk": [
+        "ノノクラゲ",
+        "nonokurage",
+        "nonokurage",
+        "toedscool",
+        "tentagra",
+        "terracool"
+    ],
+    "ue": [
+        "リククラゲ",
+        "rikukurage",
+        "rikukurage",
+        "toedscruel",
+        "tenterra",
+        "terracruel"
+    ],
+    "gak": [
+        "ガケガニ",
+        "gakegani",
+        "gakegani",
+        "klawf",
+        "klibbe",
+        "craparoi"
+    ],
+    "cap": [
+        "カプサイジ",
+        "kapusaiji",
+        "kapusaiji",
+        "capsakid",
+        "chilingel",
+        "pimito"
+    ],
+    "hal": [
+        "スコヴィラン",
+        "sukoviran",
+        "sukoviran",
+        "scovillain",
+        "halupenjo",
+        "scovilain"
+    ],
+    "rel": [
+        "シガロコ",
+        "shigaroko",
+        "shigaroko",
+        "rellor",
+        "relluk",
+        "leboulerou"
+    ],
+    "ber": [
+        "ベラカス",
+        "berakasu",
+        "berakasu",
+        "rabsca",
+        "skarabaks",
+        "berasca"
+    ],
+    "fli": [
+        "ヒラヒナ",
+        "hirahina",
+        "hirahina",
+        "flittle",
+        "flattutu",
+        "flotillon"
+    ],
+    "kae": [
+        "クエスパトラ",
+        "kaesupatora",
+        "kaesupatora",
+        "espathra",
+        "psiopatra",
+        "cleopsytra"
+    ],
+    "kan": [
+        "カヌチャン",
+        "kanuchan",
+        "kanuchan",
+        "tinkatink",
+        "forgita",
+        "forgerette"
+    ],
+    "nak": [
+        "ナカヌチャン",
+        "nakanuchan",
+        "nakanuchan",
+        "tinkatuff",
+        "tafforgita",
+        "forgella"
+    ],
+    "gra": [
+        "デカヌチャン",
+        "dekanuchan",
+        "dekanuchan",
+        "tinkaton",
+        "granforgita",
+        "forgelina"
+    ],
+    "wt": [
+        "ウミディグダ",
+        "umidigda",
+        "umidigda",
+        "wiglett",
+        "schligda",
+        "taupikeau"
+    ],
+    "wg": [
+        "ウミトリオ",
+        "umitrio",
+        "umitrio",
+        "wugtrio",
+        "schligdri",
+        "triopikeau"
+    ],
+    "oto": [
+        "オトシドリ",
+        "otoshidori",
+        "otoshidori",
+        "bombirdier",
+        "adebom",
+        "lestombaile"
+    ],
+    "dof": [
+        "ナミイルカ",
+        "namiiruka",
+        "namiiruka",
+        "finizen",
+        "normifin",
+        "dofin"
+    ],
+    "del": [
+        "イルカマン",
+        "irukaman",
+        "irukaman",
+        "palafin",
+        "delfinator",
+        "superdofin"
+    ],
+    "vm": [
+        "ブロロン",
+        "buroron",
+        "buroron",
+        "varoom",
+        "knattox",
+        "vrombi"
+    ],
+    "avo": [
+        "ブロロローム",
+        "burororomu",
+        "burororomu",
+        "revavroom",
+        "knattatox",
+        "vrombotor"
+    ],
+    "jc": [
+        "モトトカゲ",
+        "mototokage",
+        "mototokage",
+        "cyclizar",
+        "mopex",
+        "motorizard"
+    ],
+    "sch": [
+        "ミミズズ",
+        "mimizuzu",
+        "mimizuzu",
+        "orthworm",
+        "schlurm",
+        "ferdeter"
+    ],
+    "rm": [
+        "キラーメ",
+        "kirame",
+        "kirame",
+        "glimmet",
+        "lumispross",
+        "germeclat"
+    ],
+    "kir": [
+        "キラフロル",
+        "kirafuroru",
+        "kirafuroru",
+        "glimmora",
+        "lumiflora",
+        "floreclat"
+    ],
+    "vu": [
+        "ボチ",
+        "bochi",
+        "bochi",
+        "greavard",
+        "gruff",
+        "toutombe"
+    ],
+    "tom": [
+        "ハカドッグ",
+        "hakadoggu",
+        "hakadoggu",
+        "houndstone",
+        "friedwuff",
+        "tomberro"
+    ],
+    "kar": [
+        "カラミンゴ",
+        "karamingo",
+        "karamingo",
+        "flamigo",
+        "flaminkno",
+        "flamenroule"
+    ],
+    "aru": [
+        "アルクジラ",
+        "arukujira",
+        "arukujira",
+        "cetoddle",
+        "flaniwal",
+        "pietace"
+    ],
+    "har": [
+        "ハルクジラ",
+        "harukajira",
+        "harukajira",
+        "cetitan",
+        "kolowal",
+        "balbaleze"
+    ],
+    "inf": [
+        "ミガルーサ",
+        "migarusa",
+        "migarusa",
+        "veluza",
+        "agiluza",
+        "delestin"
+    ],
+    "ond": [
+        "ヘイラッシャ",
+        "heyrusher",
+        "heyrusher",
+        "dondozo",
+        "heerashai",
+        "oyacata"
+    ],
+    "nig": [
+        "シャリタツ",
+        "syaritatsu",
+        "syaritatsu",
+        "tatsugiri",
+        "nigiragi",
+        "nigirigon"
+    ],
+    "ann": [
+        "コノヨザル",
+        "konoyozaru",
+        "konoyozaru",
+        "annihilape",
+        "epitaff",
+        "courrousinge"
+    ],
+    "ju": [
+        "ドオー",
+        "dooh",
+        "dooh",
+        "clodsire",
+        "suelord",
+        "terraiste"
+    ],
+    "rki": [
+        "リキキリン",
+        "rikikirn",
+        "rikikirn",
+        "farigiraf",
+        "farigiraf",
+        "farigiraf"
+    ],
+    "deu": [
+        "ノココッチ",
+        "nokokotchi",
+        "nokokotchi",
+        "dudunsparce",
+        "dummimisel",
+        "deusolourdo"
+    ],
+    "og": [
+        "ドドゲザン",
+        "dodogezan",
+        "dodogezan",
+        "kingambit",
+        "gladimperio",
+        "scalpereur"
+    ],
+    "g1": [
+        "イダイナキバ",
+        "idaina kiba",
+        "idaina kiba",
+        "great tusk",
+        "riesenzahn",
+        "fort-ivoire"
+    ],
+    "i1": [
+        "サケブシッポ",
+        "sakebushippo",
+        "sakebushippo",
+        "scream tail",
+        "brullschweif",
+        "hurle-queue"
+    ],
+    "o1": [
+        "アラブルタケ",
+        "araburutake",
+        "araburutake",
+        "brute bonnet",
+        "wutpilz",
+        "fongus-furie"
+    ],
+    "f1": [
+        "ハバタクカミ",
+        "habtakukami",
+        "habtakukami",
+        "flutter mane",
+        "flatterhaar",
+        "flotte-meche"
+    ],
+    "s1": [
+        "チヲハウハネ",
+        "chiohauhane",
+        "chiohauhane",
+        "slither wing",
+        "kriechflugel",
+        "rampe-ailes"
+    ],
+    "k1": [
+        "スナノケガワ",
+        "sunanokegawa",
+        "sunanokegawa",
+        "sandy shocks",
+        "sandfell",
+        "pelage-sable"
+    ],
+    "e1": [
+        "テツノワダチ",
+        "tetsunowadachi",
+        "tetsunowadachi",
+        "iron treads",
+        "eisenrad",
+        "roue-de-fer"
+    ],
+    "b1": [
+        "テツノツツミ",
+        "tetsunotsutsumi",
+        "tetsunotsutsumi",
+        "iron bundle",
+        "eisenbundel",
+        "hotte-de-fer"
+    ],
+    "h1": [
+        "テツノカイナ",
+        "tetsunokaina",
+        "tetsunokaina",
+        "iron hands",
+        "eisenhand",
+        "paume-de-fer"
+    ],
+    "j1": [
+        "テツノコウベ",
+        "tetsunokoube",
+        "tetsunokoube",
+        "iron jugulis",
+        "eisenhals",
+        "tetes-de-fer"
+    ],
+    "m1": [
+        "テツノドクガ",
+        "tetsunodokuga",
+        "tetsunodokuga",
+        "iron moth",
+        "eisenfalter",
+        "mite-de-fer"
+    ],
+    "t1": [
+        "テツノイバラ",
+        "tetsunoibara",
+        "tetsunoibara",
+        "iron thorns",
+        "eisendorn",
+        "epine-de-fer"
+    ],
+    "jf": [
+        "セビエ",
+        "sebie",
+        "sebie",
+        "frigibax",
+        "frospino",
+        "frigodo"
+    ],
+    "cy": [
+        "セゴール",
+        "segoru",
+        "segoru",
+        "arctibax",
+        "cryospino",
+        "cryodo"
+    ],
+    "es": [
+        "セグレイブ",
+        "seglaive",
+        "seglaive",
+        "baxcalibur",
+        "espinodon",
+        "glaivodo"
+    ],
+    "gie": [
+        "コレクレー",
+        "collecurei",
+        "collecurei",
+        "gimmighoul",
+        "gierspenst",
+        "mordudor"
+    ],
+    "omg": [
+        "サーフゴー",
+        "surfugo",
+        "surfugo",
+        "gholdengo",
+        "monetigo",
+        "gromago"
+    ],
+    "ien": [
+        "チオンジェン",
+        "chionjen",
+        "chionjen",
+        "wo-chien",
+        "chongjian",
+        "chongjian"
+    ],
+    "pao": [
+        "パオジアン",
+        "paojian",
+        "paojian",
+        "chien-pao",
+        "baojian",
+        "baojian"
+    ],
+    "din": [
+        "ディンルー",
+        "dinlu",
+        "dinlu",
+        "ting-lu",
+        "dinglu",
+        "dinglu"
+    ],
+    "yu": [
+        "イーユイ",
+        "iyui",
+        "iyui",
+        "chi-yu",
+        "yuyu",
+        "yuyu"
+    ],
+    "r1": [
+        "トドロクツキ",
+        "todorokutsuki",
+        "todorokutsuki",
+        "roaring moon",
+        "donnersichel",
+        "rugit-lune"
+    ],
+    "v1": [
+        "テツノブジン",
+        "tetsunobujin",
+        "tetsunobujin",
+        "iron valiant",
+        "eisenkrieger",
+        "garde-de-fer"
+    ],
+    "kor": [
+        "コライドン",
+        "koraidon",
+        "koraidon",
+        "koraidon",
+        "koraidon",
+        "koraidon"
+    ],
+    "ido": [
+        "ミライドン",
+        "miraidon",
+        "miraidon",
+        "miraidon",
+        "miraidon",
+        "miraidon"
+    ],
+    "w1": [
+        "ウネルミナモ",
+        "uneruminamo",
+        "uneruminamo",
+        "walking wake",
+        "windewoge",
+        "serpente-eau"
+    ],
+    "l1": [
+        "テツノイサハ",
+        "tetsunoisaha",
+        "tetsunoisaha",
+        "iron leaves",
+        "eisenblatt",
+        "vert-de-fer"
+    ],
+    "dip": [
+        "dipplin",
+        "dipplin",
+        "dipplin",
+        "dipplin",
+        "dipplin",
+        "dipplin"
+    ],
+    "gei": [
+        "poltchageist",
+        "poltchageist",
+        "poltchageist",
+        "poltchageist",
+        "poltchageist",
+        "poltchageist"
+    ],
+    "nis": [
+        "sinistcha",
+        "sinistcha",
+        "sinistcha",
+        "sinistcha",
+        "sinistcha",
+        "sinistcha"
+    ],
+    "ape": [
+        "okidogi",
+        "okidogi",
+        "okidogi",
+        "okidogi",
+        "okidogi",
+        "okidogi"
+    ],
+    "kid": [
+        "munkidori",
+        "munkidori",
+        "munkidori",
+        "munkidori",
+        "munkidori",
+        "munkidori"
+    ],
+    "pit": [
+        "fezandipiti",
+        "fezandipiti",
+        "fezandipiti",
+        "fezandipiti",
+        "fezandipiti",
+        "fezandipiti"
+    ],
+    "pon": [
+        "ogerpon",
+        "ogerpon",
+        "ogerpon",
+        "ogerpon",
+        "ogerpon",
+        "ogerpon"
+    ],
+    "ton": [
+        "ブリジュラス",
+        "briduras",
+        "briduras",
+        "archaludon",
+        "briduradon",
+        "pondralugon"
+    ],
+    "yd": [
+        "カミツオロチ",
+        "kamitsuorochi",
+        "kamitsuorochi",
+        "hydrapple",
+        "hydrapfel",
+        "pomdorochi"
+    ],
+    "n1": [
+        "ウガツホムラ",
+        "ugatsuhomura",
+        "ugatsuhomura",
+        "gouging fire",
+        "keilflamme",
+        "feu-percant"
+    ],
+    "p1": [
+        "タケルライコ",
+        "takeruraiko",
+        "takeruraiko",
+        "raging bolt",
+        "furienblitz",
+        "ire-foudre"
+    ],
+    "u1": [
+        "テツノイワオ",
+        "tetsunoiwao",
+        "tetsunoiwao",
+        "iron boulder",
+        "eisenfels",
+        "roc-de-fer"
+    ],
+    "c1": [
+        "テツノカシラ",
+        "tetsunokashira",
+        "tetsunokashira",
+        "iron crown",
+        "eisenhaupt",
+        "chef-de-fer"
+    ],
+    "pag": [
+        "テラパゴス",
+        "terapagos",
+        "terapagos",
+        "terapagos",
+        "terapagos",
+        "terapagos"
+    ],
+    "wou": [
+        "モモワロウ",
+        "momowarou",
+        "omowarou",
+        "pecharunt",
+        "infamomo",
+        "pechaminus"
+    ],
+    "a0": [
+        "アローラのすがた",
+        "aroranosugata",
+        "aroranosugata",
+        "alola-form",
+        "alola-form",
+        "forme d'alola"
+    ]
+}
