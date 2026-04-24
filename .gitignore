@@ -1,1 +1,12 @@
 venv/
+
+images/
+
+# LaTeX
+*.aux
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.log
+*.toc
+*.pdf
