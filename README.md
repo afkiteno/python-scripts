@@ -18,8 +18,13 @@ Mostly for personal use, backup, and fun projects.
 ### Random
 - `pres.py` – Converts PPTX file to PDF file
 
+### Scraping
+
+#### Automata
+- `san.py` - Scraper designed to extract and clean MCQ data from Sanfoundry
+- `san.tex` - LaTeX template that renders the scraped data into a PDF.
+
 ## Usage Notes
 
 - Most scripts use relative paths, so moving the repo won't break.  
-- Empty folders are kept with `.gitkeep` files to ensure Git tracks them.  
 - TF2 folder contains both Python scripts and game config files for convenience.
