@@ -6414,367 +6414,6 @@ Explanation: It is just required to put the value in the variables in the questi
 \end{mdframed}
 \newpage
 
-\newtopic{Construction and Yield of a Parse Tree}
-
-\begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
-\textbf{Question 1} 
-
-The most suitable data structure used to represent the derivations in compiler:
-
-a) Queue
-
-b) Linked List
-
-c) Tree
-
-d) Hash Tables
-\vspace{5pt} \par
-\begin{tcolorbox}[colback=green!5, colframe=green!40!black, title=Solution]
-Answer: c
-
-Explanation: The tree, known as "Parse tree" when used in a compiler, is the data structure of choice to represent the source program.
-\end{tcolorbox}
-\end{mdframed}
-\newpage
-
-\begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
-\textbf{Question 2} 
-
-Which of the following statement is false in context of tree terminology?
-
-a) Root with no children is called a leaf
-
-b) A node can have three children
-
-c) Root has no parent
-
-d) Trees are collection of nodes, with a parent child relationship
-\vspace{5pt} \par
-\begin{tcolorbox}[colback=green!5, colframe=green!40!black, title=Solution]
-Answer: a
-
-Explanation: A node has atmost one parent, drawn above the node, and zero or more children drawn below. Lines connect parents to children. There is one node, one root, that has no parent; this node appears to be at the top of the tree. Nodes with no children are called leaves. Nodes that are not leaves are called interior nodes.
-\end{tcolorbox}
-\end{mdframed}
-\newpage
-
-\begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
-\textbf{Question 3} 
-
-In which order are the children of any node ordered?
-
-a) From the left
-
-b) From the right
-
-c) Arbitrarily
-
-d) None of the mentioned
-\vspace{5pt} \par
-\begin{tcolorbox}[colback=green!5, colframe=green!40!black, title=Solution]
-Answer: a
-
-Explanation: The children of a node are ordered from the left and drawn so. If N is to the left of node M, then all the descendents of N are considered  to be to the left of all the descendents of M.
-\end{tcolorbox}
-\end{mdframed}
-\newpage
-
-\begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
-\textbf{Question 4} 
-
-Which among the following is the root of the parse tree?
-
-a) Production P
-
-b) Terminal T
-
-c) Variable V
-
-d) Starting Variable S
-\vspace{5pt} \par
-\begin{tcolorbox}[colback=green!5, colframe=green!40!black, title=Solution]
-Answer: d
-
-Explanation: The root is labelled by the start symbol. All the leaves are either labelled by a a terminal or with e.
-\end{tcolorbox}
-\end{mdframed}
-\newpage
-
-\begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
-\textbf{Question 5} 
-
-For the expression E*(E) where * and brackets are the operation, number of nodes in the respective parse tree are:
-
-a) 6
-
-b) 7
-
-c) 5
-
-d) 2
-\vspace{5pt} \par
-\begin{tcolorbox}[colback=green!5, colframe=green!40!black, title=Solution]
-Answer: b
-
-Explanation:
- 
-\begin{center}\includegraphics[width=0.5\textwidth]{automata-theory-questions-answers-construction-yield-parse-tree-q5.png}\end{center}
-\end{tcolorbox}
-\end{mdframed}
-\newpage
-
-\begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
-\textbf{Question 6} 
-
-The number of leaves in a parse tree with expression E*(E) where * and () are operators
-
-a) 5
-
-b) 2
-
-c) 4
-
-d) 3
-\vspace{5pt} \par
-\begin{tcolorbox}[colback=green!5, colframe=green!40!black, title=Solution]
-Answer: a
-
-Explanation: 
- 
-\begin{center}\includegraphics[width=0.5\textwidth]{automata-theory-questions-answers-construction-yield-parse-tree-q5.png}\end{center}
-\end{tcolorbox}
-\end{mdframed}
-\newpage
-
-\newtopic{Inferences to Trees and Trees to Derivations}
-
-\begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
-\textbf{Question 1} 
-
-A symbol X is \_\_\_\_\_\_\_\_ if there exists : S-$>$* aXb
-
-a) reachable
-
-b) generating
-
-c) context free
-
-d) none of the mentioned
-\vspace{5pt} \par
-\begin{tcolorbox}[colback=green!5, colframe=green!40!black, title=Solution]
-Answer: a
-
-Explanation: A symbol X is generating if there exists : X-$>$*w for some w that belongs to T*.
-
-Also, a symbol can never be context free.
-\end{tcolorbox}
-\end{mdframed}
-\newpage
-
-\begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
-\textbf{Question 2} 
-
-A symbol X is called to be useful if and only if its is:
-
-a) generating
-
-b) reachable
-
-c) both generating and reachable
-
-d) none of the mentioned
-\vspace{5pt} \par
-\begin{tcolorbox}[colback=green!5, colframe=green!40!black, title=Solution]
-Answer: c
-
-Explanation: For a symbol X to be useful, it has to be both reachable and generating i.e.
-
-S-$>$* aXb -$>$ * w where w belongs to T*.
-\end{tcolorbox}
-\end{mdframed}
-\newpage
-
-\begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
-\textbf{Question 3} 
-
-Which of the following is false for a grammar G in Chomsky Normal Form:
-
-a) G has no useless symbols
-
-b) G has no unit productions
-
-c) G has no epsilon productions
-
-d) None of the mentioned
-\vspace{5pt} \par
-\begin{tcolorbox}[colback=green!5, colframe=green!40!black, title=Solution]
-Answer: d
-
-Explanation: G, a CFG is said to be in Chomsky normal form if all its productions are in one of the following form:
-
-A-$>$BC or A-$>$a
-\end{tcolorbox}
-\end{mdframed}
-\newpage
-
-\begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
-\textbf{Question 4} 
-
-Given Checklist:
-
-i) G has no useless symbols
-
-ii) G has no unit productions
-
-iii) G has no epsilon productions
-
-iv) Normal form for production is violated
-
-Is it possible for the grammar G to be in CNF with the following checklist?
-
-a) Yes
-
-b) No
-\vspace{5pt} \par
-\begin{tcolorbox}[colback=green!5, colframe=green!40!black, title=Solution]
-Answer: b
-
-Explanation: The grammar is not in CNF if it violates the normal form of the productions which is strictly restricted.
-\end{tcolorbox}
-\end{mdframed}
-\newpage
-
-\begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
-\textbf{Question 5} 
-
-State true or false:
-
-Statement: A CNF parse tree's string yield (w) can no longer be 2h-1.
-
-a) true
-
-b) false
-\vspace{5pt} \par
-\begin{tcolorbox}[colback=green!5, colframe=green!40!black, title=Solution]
-Answer: a
-
-Explanation: It is the parse tree theorem which states:
-
-Given: Suppose we have a parse tree for a string w, according to a CNF grammar, G=(V, T, P, S). Let h be the height of the parse tree. Now, Implication: |w|$<$=2h-1.
-\end{tcolorbox}
-\end{mdframed}
-\newpage
-
-\begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
-\textbf{Question 6} 
-
-If |w|$>$=2
-h
-, then its parse tree's height is at least \_\_\_\_\_
-
-a) h
-
-b) h+1
-
-c) h-1
-
-d) 2
-h
-\vspace{5pt} \par
-\begin{tcolorbox}[colback=green!5, colframe=green!40!black, title=Solution]
-Answer: b
-
-Explanation: It is the basic implication of Parse tree theorem (assuming CNF). If the height of the parse tree is h, then |w| $<$=2
-h-1
-.
-\end{tcolorbox}
-\end{mdframed}
-\newpage
-
-\begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
-\textbf{Question 7} 
-
-If w belongs to L(G), for some CFG, then w has a parse tree, which tell us the \_\_\_\_\_\_\_\_ structure of w.
-
-a) semantic
-
-b) syntactic
-
-c) lexical
-
-d) all of the mentioned
-\vspace{5pt} \par
-\begin{tcolorbox}[colback=green!5, colframe=green!40!black, title=Solution]
-Answer: b
-
-Explanation: A parse tree or concrete syntactic tree is an ordered, rooted tree that represents the syntactic structure of a string according to some context free grammar.
-\end{tcolorbox}
-\end{mdframed}
-\newpage
-
-\begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
-\textbf{Question 8} 
-
-Which of the following are distinct to parse trees?
-
-a) abstract parse trees
-
-b) sentence diagrams
-
-c) both abstract parse trees and sentence diagrams
-
-d) none of the mentioned
-\vspace{5pt} \par
-\begin{tcolorbox}[colback=green!5, colframe=green!40!black, title=Solution]
-Answer: c
-
-Explanation: Both of the mentioned are different from parse trees. Sentence diagrams are pictorial representations of grammatical structure of a sentence.
-\end{tcolorbox}
-\end{mdframed}
-\newpage
-
-\begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
-\textbf{Question 9} 
-
-Choose the correct option:
-
-Statement: Unambiguity is the ideal structure of a language.
-
-a) true
-
-b) partially true
-
-c) false
-
-d) cant be said
-\vspace{5pt} \par
-\begin{tcolorbox}[colback=green!5, colframe=green!40!black, title=Solution]
-Answer: a
-
-Explanation: Ideally, there should be only one parse tree for each string, i.e. the language should be unambiguous.
-\end{tcolorbox}
-\end{mdframed}
-\newpage
-
-\begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
-\textbf{Question 10} 
-
-Is the given statement correct?
-
-Statement: The mere existence of several derivations is not an issue, its is the existence of several parse trees that ruins a grammar.
-
-a) Yes
-
-b) No
-\vspace{5pt} \par
-\begin{tcolorbox}[colback=green!5, colframe=green!40!black, title=Solution]
-Answer: a
-
-Explanation: It is also true that multiple leftmost or rightmost derivations do cause ambiguity. Unfortunately, it is not possible to remove the ambiguity always.
-\end{tcolorbox}
-\end{mdframed}
-\newpage
-
 \newtopic{Ambiguous Grammar}
 
 \begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
@@ -6796,7 +6435,6 @@ Answer: b
 Explanation: A context free grammar is ambiguous if it has more than one parse tree generated or more than one leftmost derivations. An unambiguous grammar is a context free grammar for which every valid string has a unique leftmost derivation.
 \end{tcolorbox}
 \end{mdframed}
-\newpage
 
 \begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
 \textbf{Question 2} 
@@ -6817,7 +6455,6 @@ Answer: a
 Explanation: Deterministic CFGs are always unambiguous , and are an important subclass of unambiguous CFGs; there are non-deterministic unambiguous CFGs, however.
 \end{tcolorbox}
 \end{mdframed}
-\newpage
 
 \begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
 \textbf{Question 3} 
@@ -6859,7 +6496,6 @@ Answer: a
 Explanation: Dangling else problem: In many languages,the else in an if-then-else statement is optional, which results into nested conditionals being ambiguous, at least in terms of the CFG.
 \end{tcolorbox}
 \end{mdframed}
-\newpage
 
 \begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
 \textbf{Question 5} 
@@ -6882,7 +6518,6 @@ Explanation: GLR parser: a type of parser for non deterministic and ambiguous gr
 Chart parser: aa type of parser for ambiguous grammar.
 \end{tcolorbox}
 \end{mdframed}
-\newpage
 
 \begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
 \textbf{Question 6} 
@@ -6938,7 +6573,6 @@ Answer: b
 Explanation: This set is context-free, since the union of two context-free languages is always context free.
 \end{tcolorbox}
 \end{mdframed}
-\newpage
 
 \begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
 \textbf{Question 8} 
@@ -6957,7 +6591,6 @@ Answer: a
 Explanation: The production can be either itself or an empty string. Thus the empty string has more than one leftmost derivations, depending on how many times R-$>$R is being used.
 \end{tcolorbox}
 \end{mdframed}
-\newpage
 
 \begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
 \textbf{Question 9} 
@@ -7026,7 +6659,6 @@ Answer: d
 Explanation: A push down automata uses a stack to carry out its operations. They are more capable than the finite automatons but less than the turing model.
 \end{tcolorbox}
 \end{mdframed}
-\newpage
 
 \begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
 \textbf{Question 2} 
@@ -7045,7 +6677,6 @@ Answer: a
 Explanation: The term pushdown refers to the fact that the elements are pushed down in the stack and as per the LIFO principle, the operation is always performed on the top element of the stack.
 \end{tcolorbox}
 \end{mdframed}
-\newpage
 
 \begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
 \textbf{Question 3} 
@@ -7087,7 +6718,6 @@ Answer: d
 Explanation: The 10-tuple can be stated as: NSA=  $<$Q,$\Sigma$,$\Gamma$,$\delta$,q0,Z0,F,[,],]$>$.
 \end{tcolorbox}
 \end{mdframed}
-\newpage
 
 \begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
 \textbf{Question 5} 
@@ -7108,7 +6738,6 @@ Answer: b
 Explanation: Push down automata is for Context free languages and they are termed as Type 2 languages according to Chomsky hierarchy.
 \end{tcolorbox}
 \end{mdframed}
-\newpage
 
 \begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
 \textbf{Question 6} 
@@ -7150,7 +6779,6 @@ Answer: d
 Explanation: This class of automata can recognize a set of context free languages like \{anbn|n belongs to N\}
 \end{tcolorbox}
 \end{mdframed}
-\newpage
 
 \begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
 \textbf{Question 8} 
@@ -7171,7 +6799,6 @@ Answer: a
 Explanation: Push and pop are the operations we perform to operate a stack. A stack follows the LIFO principle, which states its rule as: Last In First Out.
 \end{tcolorbox}
 \end{mdframed}
-\newpage
 
 \begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
 \textbf{Question 9} 
@@ -7236,7 +6863,6 @@ Answer: c
 Explanation: Two sets are called disjoint if they have no elements in common i.e.  RÇT=Æ.
 \end{tcolorbox}
 \end{mdframed}
-\newpage
 
 \begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
 \textbf{Question 2} 
@@ -7257,7 +6883,6 @@ Answer: a
 Explanation: The tuple definition of context free grammar is: (V, T, P, S) where V=set of variables, T=set of terminals, P=production, S= Starting Variable.
 \end{tcolorbox}
 \end{mdframed}
-\newpage
 
 \begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
 \textbf{Question 3} 
@@ -7299,7 +6924,6 @@ Answer: d
 Explanation: Context free grammars are closed under kleene operation, union and concatenation too.
 \end{tcolorbox}
 \end{mdframed}
-\newpage
 
 \begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
 \textbf{Question 5} 
@@ -7320,7 +6944,6 @@ Answer: b
 Explanation: Pushdown Automaton uses stack as an auxiliary storage for its operations. Turing machines use Queue for the same.
 \end{tcolorbox}
 \end{mdframed}
-\newpage
 
 \begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
 \textbf{Question 6} 
@@ -7362,7 +6985,6 @@ Answer: c
 Explanation: A linearly bounded automata is a restricted non deterministic turing machine which is capable of accepting ant context free grammar.
 \end{tcolorbox}
 \end{mdframed}
-\newpage
 
 \begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
 \textbf{Question 8} 
@@ -7383,7 +7005,6 @@ Answer: a
 Explanation: Null production is always taken as a string in computational theory.
 \end{tcolorbox}
 \end{mdframed}
-\newpage
 
 \begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
 \textbf{Question 9} 
@@ -7448,7 +7069,6 @@ Answer: b
 Explanation: A-$>$$\epsilon$ is termed as Null production while A-$>$B is termed as Unit production.
 \end{tcolorbox}
 \end{mdframed}
-\newpage
 
 \begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
 \textbf{Question 2} 
@@ -7469,7 +7089,6 @@ Answer: a
 Explanation: Halting states are the new tuple members introduced in turing machine and is of two types: Accept Halting State and Reject Halting State.
 \end{tcolorbox}
 \end{mdframed}
-\newpage
 
 \begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
 \textbf{Question 3} 
@@ -7516,7 +7135,6 @@ Answer: d
 Explanation: z0 is the initial stack symbol, is an element of G. Other symbols like d represents the transition function of the machine.
 \end{tcolorbox}
 \end{mdframed}
-\newpage
 
 \begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
 \textbf{Question 5} 
@@ -7537,7 +7155,6 @@ Answer: a
 Explanation: Using this notation, we can define moves and further acceptance of a string by the machine.
 \end{tcolorbox}
 \end{mdframed}
-\newpage
 
 \begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
 \textbf{Question 6} 
@@ -7583,7 +7200,6 @@ Answer: d
 Explanation: Theorem: The language pal of palindromes over the alphabet \{0,1\} cannot be accepted by any finite automaton , and it is therefore not regular.
 \end{tcolorbox}
 \end{mdframed}
-\newpage
 
 \begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
 \textbf{Question 8} 
@@ -7608,7 +7224,6 @@ Answer: b
 Explanation:The possible change in the stack contents is a change in the number of A's on the stack.
 \end{tcolorbox}
 \end{mdframed}
-\newpage
 
 \begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
 \textbf{Question 9} 
@@ -7687,7 +7302,6 @@ Explanation: The instantaneous description of a PDA is represented by 3 tuple:
 where q is the state, w is the unconsumed input and s is the stack content.
 \end{tcolorbox}
 \end{mdframed}
-\newpage
 
 \begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
 \textbf{Question 2} 
@@ -7708,7 +7322,6 @@ Answer: a
 Explanation: A turnstile notation is used for connecting pairs od ID's taht represents one or many moves of a PDA.
 \end{tcolorbox}
 \end{mdframed}
-\newpage
 
 \begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
 \textbf{Question 3} 
@@ -7774,7 +7387,6 @@ Answer: a
 Explanation: Initially we put a special symbol ‘\#' into the empty stack. At state q1, the w is being read. In state q2, each 0 or 1 is popped when it matches the input. If any other input is given, the PDA will go to a dead state. When we reach that special symbol ‘\#', we go to the accepting state q3.
 \end{tcolorbox}
 \end{mdframed}
-\newpage
 
 \begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
 \textbf{Question 5} 
@@ -7816,7 +7428,6 @@ Answer: d
 Explanation: Yes, a PDA can be represented using a transition diagram, transition table and an instantaneous description.
 \end{tcolorbox}
 \end{mdframed}
-\newpage
 
 \begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
 \textbf{Question 7} 
@@ -7835,7 +7446,6 @@ Answer: a
 Explanation: Push down automata is the automaton machine for all the context free grammar or Type 2 languages.
 \end{tcolorbox}
 \end{mdframed}
-\newpage
 
 \begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
 \textbf{Question 8} 
@@ -7877,7 +7487,6 @@ Answer: d
 Explanation: Push, pop and replace are all the basic and only operations that takes place on stack top.
 \end{tcolorbox}
 \end{mdframed}
-\newpage
 
 \begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
 \textbf{Question 10} 
@@ -7896,1105 +7505,6 @@ d) Deterministic
 Answer: d
 
 Explanation: DPDA or Deterministic Push down automata has atmost one transition applicable to each configuration.
-\end{tcolorbox}
-\end{mdframed}
-\newpage
-
-\newtopic{Deterministic PDA}
-
-\begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
-\textbf{Question 1} 
-
-The transition a Push down automaton makes is additionally dependent upon the:
-
-a) stack
-
-b) input tape
-
-c) terminals
-
-d) none of the mentioned
-\vspace{5pt} \par
-\begin{tcolorbox}[colback=green!5, colframe=green!40!black, title=Solution]
-Answer: a
-
-Explanation: A PDA is a finite machine which has an additional stack storage. Its transitions are based not only on input and the correct state but also on the stack.
-\end{tcolorbox}
-\end{mdframed}
-\newpage
-
-\begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
-\textbf{Question 2} 
-
-A PDA machine configuration (p, w, y) can be correctly represented as:
-
-a) (current state, unprocessed input, stack content)
-
-b) (unprocessed input, stack content, current state)
-
-c) (current state, stack content, unprocessed input)
-
-d) none of the mentioned
-\vspace{5pt} \par
-\begin{tcolorbox}[colback=green!5, colframe=green!40!black, title=Solution]
-Answer: a
-
-Explanation: A machine configuration is an element of K×$\Sigma$*×$\Gamma$*.
-
-(p,w,$\gamma$) = (current state, unprocessed input, stack content).
-\end{tcolorbox}
-\end{mdframed}
-\newpage
-
-\begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
-\textbf{Question 3} 
-
-|-* is the \_\_\_\_\_\_\_\_\_ closure of |-
-
-a) symmetric and reflexive
-
-b) transitive and reflexive
-
-c) symmetric and transitive
-
-d) none of the mentioned
-\vspace{5pt} \par
-\begin{tcolorbox}[colback=green!5, colframe=green!40!black, title=Solution]
-Answer: b
-
-Explanation: A string w is accepted by a PDA if and only if (s,w, e) |-* (f, e, e)
-\end{tcolorbox}
-\end{mdframed}
-\newpage
-
-\begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
-\textbf{Question 4} 
-
-With reference of a DPDA, which among the following do we perform from the start state with an empty stack?
-
-a) process the whole string
-
-b) end in final state
-
-c) end with an empty stack
-
-d) all of the mentioned
-\vspace{5pt} \par
-\begin{tcolorbox}[colback=green!5, colframe=green!40!black, title=Solution]
-Answer: d
-
-Explanation: The empty stack in the end is our requirement relative to finite state automatons.
-\end{tcolorbox}
-\end{mdframed}
-\newpage
-
-\begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
-\textbf{Question 5} 
-
-A DPDA is a PDA in which:
-
-a) No state p has two outgoing transitions
-
-b) More than one state can have two or more outgoing transitions
-
-c) Atleast one state has more than one transitions
-
-d) None of the mentioned
-\vspace{5pt} \par
-\begin{tcolorbox}[colback=green!5, colframe=green!40!black, title=Solution]
-Answer: a
-
-Explanation: A Deterministic Push Down Automata is a Push Down Automata in which no state p has two or more transitions.
-\end{tcolorbox}
-\end{mdframed}
-\newpage
-
-\begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
-\textbf{Question 6} 
-
-State true or false:
-
-Statement: For every CFL, G, there exists a PDA M such that L(G) = L(M) and vice versa.
-
-a) true
-
-b) false
-\vspace{5pt} \par
-\begin{tcolorbox}[colback=green!5, colframe=green!40!black, title=Solution]
-Answer: a
-
-Explanation: There exists two lemma's such that:
-
-a) Given a grammar G, construct the PDA and show the equivalence
-
-b) Given a PDA, construct a grammar and show the equivalence
-\end{tcolorbox}
-\end{mdframed}
-\newpage
-
-\begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
-\textbf{Question 7} 
-
-If the PDA does not stop on an accepting state and the stack is not empty, the string is:
-
-a) rejected
-
-b) goes into loop forever
-
-c) all of the mentioned
-
-d) none of the mentioned
-\vspace{5pt} \par
-\begin{tcolorbox}[colback=green!5, colframe=green!40!black, title=Solution]
-Answer: a
-
-Explanation: To accept a string, PDA needs to halt at an accepting state and with a stack empty, else it is called rejected. Given a PDA M, we can construct a PDA M' that accepts the same language as M, by both acceptance criteria.
-\end{tcolorbox}
-\end{mdframed}
-\newpage
-
-\begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
-\textbf{Question 8} 
-
-A language accepted by Deterministic Push down automata is closed under which of the following?
-
-a) Complement
-
-b) Union
-
-c) All of the mentioned
-
-d) None of the mentioned
-\vspace{5pt} \par
-\begin{tcolorbox}[colback=green!5, colframe=green!40!black, title=Solution]
-Answer: a
-
-Explanation: Deterministic Context free languages(one accepted by PDA by final state), are drastically different from the context free languages. For example they are closed under complementation and not union.
-\end{tcolorbox}
-\end{mdframed}
-\newpage
-
-\begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
-\textbf{Question 9} 
-
-Which of the following is a simulator for non deterministic automata?
-
-a) JFLAP
-
-b) Gedit
-
-c) FAUTO
-
-d) None of the mentioned
-\vspace{5pt} \par
-\begin{tcolorbox}[colback=green!5, colframe=green!40!black, title=Solution]
-Answer: a
-
-Explanation: JFLAP is a software for experimenting with formal topics including NFA, NPDA, multi-tape turing machines and L-systems.
-\end{tcolorbox}
-\end{mdframed}
-\newpage
-
-\begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
-\textbf{Question 10} 
-
-Finite-state acceptors for the nested words can be:
-
-a) nested word automata
-
-b) push down automata
-
-c) ndfa
-
-d) none of the mentioned
-\vspace{5pt} \par
-\begin{tcolorbox}[colback=green!5, colframe=green!40!black, title=Solution]
-Answer: a
-
-Explanation: The linear encodings of languages accepted by finite nested word automata gives the class of ‘visibly pushdown automata'.
-\end{tcolorbox}
-\end{mdframed}
-\newpage
-
-\newtopic{Regular Languages and D-PDA}
-
-\begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
-\textbf{Question 1} 
-
-Which of the following is analogous to the following?
-
-:NFA and NPDA
-
-a) Regular language and Context Free language
-
-b) Regular language and Context Sensitive language
-
-c) Context free language and Context Sensitive language
-
-d) None of the mentioned
-\vspace{5pt} \par
-\begin{tcolorbox}[colback=green!5, colframe=green!40!black, title=Solution]
-Answer: a
-
-Explanation: All regular languages can be accepted by a non deterministic finite automata and all context free languages can be accepted by a non deterministic push down automata.
-\end{tcolorbox}
-\end{mdframed}
-\newpage
-
-\begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
-\textbf{Question 2} 
-
-Let T=\{p, q, r, s, t\}. The number of strings in S* of length 4 such that no symbols can be repeated.
-
-a) 120
-
-b) 625
-
-c) 360
-
-d) 36
-\vspace{5pt} \par
-\begin{tcolorbox}[colback=green!5, colframe=green!40!black, title=Solution]
-Answer: b
-
-Explanation: Using the permutation rule, we can calculate that there will be total of 625 permutations on 5 elements taking 4 as the length.
-\end{tcolorbox}
-\end{mdframed}
-\newpage
-
-\begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
-\textbf{Question 3} 
-
-Which of the following relates to Chomsky hierarchy?
-
-a) Regular$<$CFL$<$CSL$<$Unrestricted
-
-b) CFL$<$CSL$<$Unrestricted$<$Regular
-
-c) CSL$<$Unrestricted$<$CF$<$Regular
-
-d) None of the mentioned
-\vspace{5pt} \par
-\begin{tcolorbox}[colback=green!5, colframe=green!40!black, title=Solution]
-Answer: a
-
-Explanation: The chomsky hierarchy lays down the following order: Regular$<$CFL$<$CSL$<$Unrestricted
-\end{tcolorbox}
-\end{mdframed}
-\newpage
-
-\begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
-\textbf{Question 4} 
-
-A language is accepted by a push down automata if it is:
-
-a) regular
-
-b) context free
-
-c) regular and context free
-
-d) none of the mentioned
-\vspace{5pt} \par
-\begin{tcolorbox}[colback=green!5, colframe=green!40!black, title=Solution]
-Answer: c
-
-Explanation: All the regular languages are the subset to context free languages and thus can be accepted using push down automata.
-\end{tcolorbox}
-\end{mdframed}
-\newpage
-
-\begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
-\textbf{Question 5} 
-
-Which of the following is an incorrect regular expression identity?
-
-a) R+f=R
-
-b) eR=e
-
-c) Rf=f
-
-d) None of the mentioned
-\vspace{5pt} \par
-\begin{tcolorbox}[colback=green!5, colframe=green!40!black, title=Solution]
-Answer: b
-
-Explanation: e is the identity for concatenation. Thus, eR=R.
-\end{tcolorbox}
-\end{mdframed}
-\newpage
-
-\begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
-\textbf{Question 6} 
-
-Which of the following strings do not belong the given regular expression?
-
-(a)*(a+cba)
-
-a) aa
-
-b) aaa
-
-c) acba
-
-d) acbacba
-\vspace{5pt} \par
-\begin{tcolorbox}[colback=green!5, colframe=green!40!black, title=Solution]
-Answer: d
-
-Explanation: The string acbacba is unacceptable by the regular expression (a)*(a+cba).
-\end{tcolorbox}
-\end{mdframed}
-\newpage
-
-\begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
-\textbf{Question 7} 
-
-Which of the following regular expression allows strings on \{a,b\}* with length n where n is a multiple of 4.
-
-a) (a+b+ab+ba+aa+bb+aba+bab+abab+baba)*
-
-b) (bbbb+aaaa)*
-
-c) ((a+b)(a+b)(a+b)(a+b))*
-
-d) None of the mentioned
-\vspace{5pt} \par
-\begin{tcolorbox}[colback=green!5, colframe=green!40!black, title=Solution]
-Answer: c
-
-Explanation: Other mentioned options do not many of the combinations while option c seems most reliable.
-\end{tcolorbox}
-\end{mdframed}
-\newpage
-
-\begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
-\textbf{Question 8} 
-
-Which of the following strings is not generated by the given grammar:
-
-S-$>$SaSbS|e
-
-a) aabb
-
-b) abab
-
-c) abaabb
-
-d) None of the mentioned
-\vspace{5pt} \par
-\begin{tcolorbox}[colback=green!5, colframe=green!40!black, title=Solution]
-Answer: d
-
-Explanation: All the given options are generated by the given grammar. Using the methods of left and right derivations, it is simpler to look for string which a grammar can generate.
-\end{tcolorbox}
-\end{mdframed}
-\newpage
-
-\begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
-\textbf{Question 9} 
-
-abb*c denotes which of the following?
-
-a) \{abnc|n=0\}
-
-b) \{abnc|n=1\}
-
-c) \{anbc|n=0\}
-
-d) \{abcn|n$>$0\}
-\vspace{5pt} \par
-\begin{tcolorbox}[colback=green!5, colframe=green!40!black, title=Solution]
-Answer: b
-
-Explanation: Here, the first mentioned b is fixed while the other can be zero or can be repeated any number of time.
-\end{tcolorbox}
-\end{mdframed}
-\newpage
-
-\begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
-\textbf{Question 10} 
-
-The following denotion belongs to which type of language:
-
-G=(V, T, P, S)
-
-a) Regular grammar
-
-b) Context free grammar
-
-c) Context Sensitive grammar
-
-d) All of the mentioned
-\vspace{5pt} \par
-\begin{tcolorbox}[colback=green!5, colframe=green!40!black, title=Solution]
-Answer: b
-
-Explanation: Ant formal  grammar is represented using a 4-tuple definition where V= finite set of variables, T= set of terminal characters, P=set of productions and S= Starting Variable with certain conditions based on the type of formal grammar.
-\end{tcolorbox}
-\end{mdframed}
-\newpage
-
-\newtopic{DPDA and Context Free Languages}
-
-\begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
-\textbf{Question 1} 
-
-Context free grammar is called Type 2 grammar because of \_\_\_\_\_\_\_\_\_ hierarchy.
-
-a) Greibach
-
-b) Backus
-
-c) Chomsky
-
-d) None of the mentioned
-\vspace{5pt} \par
-\begin{tcolorbox}[colback=green!5, colframe=green!40!black, title=Solution]
-Answer: c
-
-Explanation: Chomsky hierarchy decide four type of language :Type 3- Regular Language, Type 2-Context free language, Type 1-Context Sensitive Language, Type 0- Unrestricted or Recursively Ennumerable language.
-\end{tcolorbox}
-\end{mdframed}
-\newpage
-
-\begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
-\textbf{Question 2} 
-
-a→b
-
-Restriction: Length of b must be atleast as much length of a.
-
-Which of the following is correct for the given assertion?
-
-a) Greibach Normal form
-
-b) Context Sensitive Language
-
-c) Chomsky Normal form
-
-d) Recursively Ennumerable language
-\vspace{5pt} \par
-\begin{tcolorbox}[colback=green!5, colframe=green!40!black, title=Solution]
-Answer: b
-
-Explanation: A context-sensitive grammar (CSG) is a formal grammar in which the left-hand sides and right-hand sides of any production rules may be surrounded by a context of terminal and non terminal symbols. Context-sensitive grammars are more general than context-free grammars, in the sense that there are some languages that cannot be described by context-free grammars, but can be described by CSG.
-\end{tcolorbox}
-\end{mdframed}
-\newpage
-
-\begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
-\textbf{Question 3} 
-
-From the definition of context free grammars,
-
-G=(V, T, P, S)
-
-What is the solution of VÇT?
-
-a) Null
-
-b) Not Null
-
-c) Cannot be determined, depends on the language
-
-d) None of the mentioned
-\vspace{5pt} \par
-\begin{tcolorbox}[colback=green!5, colframe=green!40!black, title=Solution]
-Answer: a
-
-Explanation: V is the set of non terminal symbols while T is the st of terminal symbols, their intersection would always be null.
-\end{tcolorbox}
-\end{mdframed}
-\newpage
-
-\begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
-\textbf{Question 4} 
-
-If P is the production, for the given statement, state true or false.
-
-P: V-$>$(V$\Sigma$T)* represents that the left hand side production rule has no right or left context.
-
-a) true
-
-b) false
-\vspace{5pt} \par
-\begin{tcolorbox}[colback=green!5, colframe=green!40!black, title=Solution]
-Answer: a
-
-Explanation: Here the production P is from the definition of Context free grammar and thus, has no right or left context.
-\end{tcolorbox}
-\end{mdframed}
-\newpage
-
-\begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
-\textbf{Question 5} 
-
-There exists a Context free grammar such that:
-
-X-$>$aX
-
-Which among the following is correct with respect to the given assertion?
-
-a) Left Recursive Grammar
-
-b) Right Recursive Grammar
-
-c) Non Recursive Grammar
-
-d) None of the mentioned
-\vspace{5pt} \par
-\begin{tcolorbox}[colback=green!5, colframe=green!40!black, title=Solution]
-Answer: b
-
-Explanation: The grammar with right recursive production is known as Right recursive grammar. Right recursive production is of the form X-$>$aX where a is a terminal and X is a non terminal.
-\end{tcolorbox}
-\end{mdframed}
-\newpage
-
-\begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
-\textbf{Question 6} 
-
-If the partial derivation tree contains the root as the starting variable, the form is known as:
-
-a) Chomsky hierarchy
-
-b) Sentential form
-
-c) Root form
-
-d) None of the mentioned
-\vspace{5pt} \par
-\begin{tcolorbox}[colback=green!5, colframe=green!40!black, title=Solution]
-Answer: b
-
-Explanation: Example: For any grammar, productions be:
-
-S-$>$AB
-
-A-$>$aaA| \textasciicircum{}
-
-B-$>$Bb| \textasciicircum{}
-
-The partial derivation tree can be drawn as:
-
-
- 
-\begin{center}\includegraphics[width=0.5\textwidth]{automata-theory-questions-answers-dpda-context-free-languages-q6.png}\end{center}
- 
-
-Since it has the root as S, this can be said to be in sentential form.
-\end{tcolorbox}
-\end{mdframed}
-\newpage
-
-\begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
-\textbf{Question 7} 
-
-Find a regular expression for a grammar which generates a language which states :
-
-L contains a set of strings starting wth an a and ending with a b, with something in the middle.
-
-a) a(a*Ub*)b
-
-b) a*(aUb)b*
-
-c) a(a*b*)b
-
-d) None of the mentioned
-\vspace{5pt} \par
-\begin{tcolorbox}[colback=green!5, colframe=green!40!black, title=Solution]
-Answer: a
-
-Explanation: The grammar for the same language can be stated as :
-
-(1) S → aMb
-
-(2) M → A
-
-(3) M → B
-
-(4) A → e
-
-(5) A → aA
-
-(6) B → e
-
-(7) B → bB
-\end{tcolorbox}
-\end{mdframed}
-\newpage
-
-\begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
-\textbf{Question 8} 
-
-Which of the following is the correct representation of grammar for the given regular expression?
-
-a(aUb)*b
-
-a) 
-
-
-    (1) S → aMb
-
-    (2) M → e
-
-    (3) M → aM
-
-    (4) M → bM
-
-
-
-
-b) 
-
-
-    (1) S → aMb
-
-    (2) M → Mab
-
-    (3) M → aM
-
-    (4) M → bM
-
-
-
-
-c) 
-
-
-    (1) S → aMb
-
-    (2) M → e
-
-    (3) M → aMb
-
-    (4) M → bMa
-
-
-
-
-d) None of the mentioned
-\vspace{5pt} \par
-\begin{tcolorbox}[colback=green!5, colframe=green!40!black, title=Solution]
-Answer: a
-
-Explanation:
-
-The basic idea of grammar formalisms is to capture the structure of string by
-
-a) using special symbols to stand for substrings of a particular structure
-
-b) using rules to specify how the substrings are combined to form new substrings.
-\end{tcolorbox}
-\end{mdframed}
-\newpage
-
-\begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
-\textbf{Question 9} 
-
-A CFG consist of the following elements:
-
-a) a set of terminal symbols
-
-b) a set of non terminal symbols
-
-c) a set of productions
-
-d) all of the mentioned
-\vspace{5pt} \par
-\begin{tcolorbox}[colback=green!5, colframe=green!40!black, title=Solution]
-Answer: d
-
-Explanation: A CFG consists of:
-
-a) a set of terminals, which are characters of alphabets that appear in the string generated by the grammar.
-
-b) a set of non terminals, which are placeholders for patterns of terminal symbols that can be generated by the nonterminal symbols.
-
-c) a set of productions, which are set of rules to transit from one state to other forming up the string
-
-d) a start symbol, a special non terminal symbol that appears in the initial string generated in the grammar.
-\end{tcolorbox}
-\end{mdframed}
-\newpage
-
-\begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
-\textbf{Question 10} 
-
-A CFG for a program describing strings of letters with the word "main" somewhere in the string:
-
-a)  
-
-
-    
- -$>$ 
- m a i n 
-
-
-    
- -$>$ 
- 
- | epsilon
-
-    
- -$>$ A | B | ... | Z | a | b ... | z
-
-
-
-
-b) 
-
-
-    
- --$>$ 
- m a i n 
-
-
-    
- --$>$ 
- 
- 
-
-    
- --$>$ A | B | ... | Z | a | b ... | z
-
-
-
-
-c)  
-
-
-    
- --$>$ 
- m a i n 
-
-
-     
- --$>$ 
- | epsilon
-
-     
- --$>$ A | B | ... | Z | a | b ... | z
-
-
-
-
-d) None of the mentioned
-\vspace{5pt} \par
-\begin{tcolorbox}[colback=green!5, colframe=green!40!black, title=Solution]
-Answer: a
-
-Explanation: None.
-\end{tcolorbox}
-\end{mdframed}
-\newpage
-
-\newtopic{DPDA and Ambiguous Grammars}
-
-\begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
-\textbf{Question 1} 
-
-CFGs are more powerful than:
-
-a) DFA
-
-b) NDFA
-
-c) Mealy Machine
-
-d) All of the mentioned
-\vspace{5pt} \par
-\begin{tcolorbox}[colback=green!5, colframe=green!40!black, title=Solution]
-Answer: d
-
-Explanation:
-
-Context-free grammars are strictly more powerful than regular expressions:
-
-1) Any language that can be generated using regular expressions can be generated by a context-free grammar.
-
-2) There are languages that can be generated by a context-free grammar that cannot be generated by any regular expression.
-
-As a corollary, CFGs are strictly more powerful than DFAs and NDFAs.
-\end{tcolorbox}
-\end{mdframed}
-\newpage
-
-\begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
-\textbf{Question 2} 
-
-State true or false:
-
-S-$>$ 0S1|01
-
-Statement: No regular expression exists for the given grammar.
-
-a) true
-
-b) false
-\vspace{5pt} \par
-\begin{tcolorbox}[colback=green!5, colframe=green!40!black, title=Solution]
-Answer: a
-
-Explanation: The grammar generates a language L such that L=\{0
-n
-1
-n
-|n$>$=1\} which is not regular. Thus, no regular expression exists for the same.
-\end{tcolorbox}
-\end{mdframed}
-\newpage
-
-\begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
-\textbf{Question 3} 
-
-For the given set of code, the grammar representing real numbers in Pascal has error in one of the six lines. Fetch the error.
-
- (1)
- -$>$ 
- 
- 
- 
-
- (2)
- -$>$ 
- 
- | epsilon
-
- (3)
- -$>$  
- 
- | epsilon
-
- (4)
- -$>$ ‘E' 
- 
- 
- | epsilon
-
- (5)
- -$>$ + | – | epsilon
-
- (6)
- -$>$ 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9
-
-a) 3
-
-b) 4
-
-c) 2
-
-d) No errors
-\vspace{5pt} \par
-\begin{tcolorbox}[colback=green!5, colframe=green!40!black, title=Solution]
-Answer: a
-
-Explanation:
-
-
- –$>$ 
- 
- 
- 
-
-
- –$>$ 
- 
- | epsilon
-
-
- –$>$ ‘.' 
- 
- | epsilon
-
-
- –$>$ ‘E' 
- 
- 
- | epsilon
-
-
- –$>$ + | – | epsilon
-
-
- –$>$ 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9
-\end{tcolorbox}
-\end{mdframed}
-\newpage
-
-\begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
-\textbf{Question 4} 
-
-Which among the following is incorrect with reference to a derivation tree?
-
-a) Every vertex has a label which is a terminal or a variable.
-
-b) The root has a label which can be a terminal.
-
-c) The label of the internal vertex is a variable.
-
-d) None of the mentioned
-\vspace{5pt} \par
-\begin{tcolorbox}[colback=green!5, colframe=green!40!black, title=Solution]
-Answer: b
-
-Explanation: The root or interms of the grammar, starting variable can not be a terminal.
-\end{tcolorbox}
-\end{mdframed}
-\newpage
-
-\begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
-\textbf{Question 5} 
-
-Let G=(V, T, P, S)
-
-where a production can be written as:
-
-S-$>$aAS|a
-
-A-$>$SbA|ba|SS
-
-Which of the following string is produced by the grammar?
-
-a) aabbaab
-
-b) aabbaa
-
-c) baabab
-
-d) None of the mentioned
-\vspace{5pt} \par
-\begin{tcolorbox}[colback=green!5, colframe=green!40!black, title=Solution]
-Answer: b
-
-Explanation: The step wise grammar translation can be written as:
-
- aAS-$>$aSbaA-$>$aabAS-$>$aabbaa
-\end{tcolorbox}
-\end{mdframed}
-\newpage
-
-\begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
-\textbf{Question 6} 
-
-Statement 1: Ambiguity is the property of grammar but not the language.
-
- Statement 2: Same language can have more than one grammar.
-
-Which of the following options are correct with respect to the given statements?
-
-a) Statement 1 is true but statement 2 is false
-
-b) Statement 1 is false but statement 2 is true
-
-c) Both the statements are true
-
-d) Both the statements are false
-\vspace{5pt} \par
-\begin{tcolorbox}[colback=green!5, colframe=green!40!black, title=Solution]
-Answer: c
-
-Explanation: One language can more than one grammar. Some can be ambiguous and some cannot.
-\end{tcolorbox}
-\end{mdframed}
-\newpage
-
-\begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
-\textbf{Question 7} 
-
-Which of the following are non essential while simplifying a grammar?
-
-a) Removal of useless symbols
-
-b) Removal of unit productions
-
-c) Removal of null production
-
-d) None of the mentioned
-\vspace{5pt} \par
-\begin{tcolorbox}[colback=green!5, colframe=green!40!black, title=Solution]
-Answer: d
-
-Explanation: Here are some process used to simplify a CFG but to produce an equivalent grammar:
-
-a) Removal of useless symbols(non terminal) b) Removal of Unit productions and c) Removal of Null productions.
-\end{tcolorbox}
-\end{mdframed}
-\newpage
-
-\begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
-\textbf{Question 8} 
-
-Which of the following are context free language?
-
-a) L=\{a
-i
-b
-i
-|i$>$=0\}
-
-b) L=\{ww
-r
-| w is a string and r represents reverse\}
-
-c) All of the mentioned
-
-d) one of the mentioned
-\vspace{5pt} \par
-\begin{tcolorbox}[colback=green!5, colframe=green!40!black, title=Solution]
-Answer: a
-
-Explanation: None.
-\end{tcolorbox}
-\end{mdframed}
-\newpage
-
-\begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
-\textbf{Question 9} 
-
-The language L =\{a
-i
-2b
-i
-|i$>$=0\} is:
-
-a) recursive
-
-b) deterministic CFL
-
-c) regular
-
-d) Two of the mentioned is correct
-\vspace{5pt} \par
-\begin{tcolorbox}[colback=green!5, colframe=green!40!black, title=Solution]
-Answer: d
-
-Explanation: The language is recursive and every recursive language is a CFL.
-\end{tcolorbox}
-\end{mdframed}
-\newpage
-
-\begin{mdframed}[linewidth=1pt, roundcorner=5pt, linecolor=gray!30, backgroundcolor=gray!5]
-\textbf{Question 10} 
-
-L-$>$rLt|tLr|t|r
-
-The given grammar produces a language which is:
-
-a) All palindrome
-
-b) All even palindromes
-
-c) All odd palindromes
-
-d) Strings with same begin and end symbols
-\vspace{5pt} \par
-\begin{tcolorbox}[colback=green!5, colframe=green!40!black, title=Solution]
-Answer: c
-
-Explanation:  As there exists no production for the palindrome set, even palindromes like abba, aabbaa, baaaaaab, etc will not be generated.
 \end{tcolorbox}
 \end{mdframed}
 \newpage
