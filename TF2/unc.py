@@ -17,7 +17,7 @@ def unc_east_coast():
 
         for s in servers:
             full_name = s.get('name', '')
-            if any(city in full_name for city in ["Chicago", "New York"]):
+            if any(city in full_name for city in ["CHI", "NYC"]):
                 parts = full_name.split(" | ")
                 
                 try:
